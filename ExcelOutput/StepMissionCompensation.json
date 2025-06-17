@@ -1,0 +1,46 @@
+[
+  {
+    "CompensationID": 1,
+    "UnlockLevel": 13
+  },
+  {
+    "CompensationID": 2,
+    "UnlockLevel": 20
+  },
+  {
+    "CompensationID": 3,
+    "UnlockLevel": 25
+  },
+  {
+    "CompensationID": 4,
+    "UnlockLevel": 30
+  },
+  {
+    "CompensationID": 5,
+    "UnlockLevel": 35
+  },
+  {
+    "CompensationID": 6,
+    "UnlockLevel": 40
+  },
+  {
+    "CompensationID": 7,
+    "UnlockLevel": 45
+  },
+  {
+    "CompensationID": 8,
+    "UnlockLevel": 50
+  },
+  {
+    "CompensationID": 9,
+    "UnlockLevel": 55
+  },
+  {
+    "CompensationID": 10,
+    "UnlockLevel": 60
+  },
+  {
+    "CompensationID": 11,
+    "UnlockLevel": 65
+  }
+]

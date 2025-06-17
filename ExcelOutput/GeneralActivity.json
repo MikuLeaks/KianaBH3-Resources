@@ -1,0 +1,9087 @@
+[
+  {
+    "AcitivityID": 10001001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 100,
+    "AcitivityType": 100,
+    "MinLevel": 65,
+    "MaxLevel": 88,
+    "LinkData": 4,
+    "DisplayData": 61,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003011,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 301,
+    "AcitivityType": 100,
+    "MinLevel": 65,
+    "MaxLevel": 88,
+    "LinkData": 5,
+    "DisplayData": 62,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003021,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 302,
+    "AcitivityType": 100,
+    "MinLevel": 50,
+    "MaxLevel": 88,
+    "LinkData": 5,
+    "DisplayData": 63,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003031,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 303,
+    "AcitivityType": 100,
+    "MinLevel": 65,
+    "MaxLevel": 88,
+    "LinkData": 5,
+    "DisplayData": 64,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003041,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 304,
+    "AcitivityType": 100,
+    "MinLevel": 50,
+    "MaxLevel": 88,
+    "LinkData": 5,
+    "DisplayData": 10003041,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003051,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 305,
+    "AcitivityType": 100,
+    "MinLevel": 50,
+    "MaxLevel": 88,
+    "LinkData": 5,
+    "DisplayData": 10003051,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003061,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 306,
+    "AcitivityType": 100,
+    "MinLevel": 50,
+    "MaxLevel": 88,
+    "LinkData": 5,
+    "DisplayData": 10003061,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003080,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 550,
+    "AcitivityType": 100,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10003052,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003081,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 551,
+    "AcitivityType": 100,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10003053,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003082,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 533,
+    "AcitivityType": 100,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10003054,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003083,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 520,
+    "AcitivityType": 100,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10003083,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003084,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 544,
+    "AcitivityType": 100,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10003084,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003085,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 567,
+    "AcitivityType": 100,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10003085,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10003086,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 604,
+    "AcitivityType": 100,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10003086,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101131,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 113,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 5,
+    "ScoreData": 5,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101132,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 113,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 6,
+    "ScoreData": 6,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101133,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 113,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 7,
+    "ScoreData": 7,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101151,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 115,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 11,
+    "ScoreData": 14,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101152,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 115,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 12,
+    "ScoreData": 12,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101153,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 115,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 13,
+    "ScoreData": 13,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101161,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 116,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 2,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101162,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 116,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 70,
+    "LinkData": 1,
+    "DisplayData": 3,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101163,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 116,
+    "AcitivityType": 101,
+    "MinLevel": 71,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 4,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101191,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 119,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 5,
+    "ScoreData": 5,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101192,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 119,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 6,
+    "ScoreData": 6,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101193,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 119,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 7,
+    "ScoreData": 7,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101201,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 120,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 11,
+    "ScoreData": 14,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101202,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 120,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 12,
+    "ScoreData": 12,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101203,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 120,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 13,
+    "ScoreData": 13,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101211,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 121,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 105,
+    "ScoreData": 5,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101212,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 121,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 106,
+    "ScoreData": 6,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101213,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 121,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 107,
+    "ScoreData": 7,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101221,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 122,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 11,
+    "ScoreData": 14,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101222,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 122,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 12,
+    "ScoreData": 12,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101223,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 122,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 13,
+    "ScoreData": 13,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101231,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 123,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 111,
+    "ScoreData": 5,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101232,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 123,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 112,
+    "ScoreData": 6,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101233,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 123,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 113,
+    "ScoreData": 7,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101241,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 124,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 11,
+    "ScoreData": 14,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101242,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 124,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 12,
+    "ScoreData": 12,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101243,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 124,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 13,
+    "ScoreData": 13,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101251,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 125,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 114,
+    "ScoreData": 5,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101252,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 125,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 115,
+    "ScoreData": 6,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101253,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 125,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 116,
+    "ScoreData": 7,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101261,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 126,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 117,
+    "ScoreData": 14,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101262,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 126,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 118,
+    "ScoreData": 12,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101263,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 126,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 119,
+    "ScoreData": 13,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101271,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 127,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 114,
+    "ScoreData": 5,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101272,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 127,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 115,
+    "ScoreData": 6,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101273,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 127,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 116,
+    "ScoreData": 7,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101281,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 128,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 117,
+    "ScoreData": 14,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101282,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 128,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 118,
+    "ScoreData": 12,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101283,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 128,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 119,
+    "ScoreData": 13,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101301,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 130,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 21,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101302,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 130,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 22,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101303,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 130,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 23,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101311,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 131,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 21,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101312,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 131,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 22,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101313,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 131,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 23,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101321,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 132,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 24,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101322,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 132,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 70,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 25,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101323,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 132,
+    "AcitivityType": 101,
+    "MinLevel": 71,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 26,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101331,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 133,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 24,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101332,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 133,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 25,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101333,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 133,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 26,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101341,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 134,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 24,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101342,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 134,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 25,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101343,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 134,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 26,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101351,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 135,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 24,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101352,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 135,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 25,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101353,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 135,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 26,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101361,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 136,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 24,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101362,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 136,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 25,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101363,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 136,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 26,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101371,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 137,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 24,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101372,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 137,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 25,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101373,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 137,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 26,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101381,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 138,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 24,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101382,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 138,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 25,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101383,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 138,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 26,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101391,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 139,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 24,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101392,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 139,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 25,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101393,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 139,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 26,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101401,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 140,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 24,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101402,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 140,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 25,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101403,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 140,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 26,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101411,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 141,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 131,
+    "ScoreData": 24,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101412,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 141,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 132,
+    "ScoreData": 25,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101413,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 141,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 133,
+    "ScoreData": 26,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101421,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 701,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 85,
+    "ScoreData": 104,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101422,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 701,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 86,
+    "ScoreData": 105,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101423,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 701,
+    "AcitivityType": 101,
+    "MinLevel": 70,
+    "MaxLevel": 80,
+    "LinkData": 1,
+    "DisplayData": 87,
+    "ScoreData": 106,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101431,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 702,
+    "AcitivityType": 101,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 1,
+    "DisplayData": 85,
+    "ScoreData": 104,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101432,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 702,
+    "AcitivityType": 101,
+    "MinLevel": 56,
+    "MaxLevel": 80,
+    "LinkData": 1,
+    "DisplayData": 86,
+    "ScoreData": 105,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10101433,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 702,
+    "AcitivityType": 101,
+    "MinLevel": 80,
+    "MaxLevel": 82,
+    "LinkData": 1,
+    "DisplayData": 87,
+    "ScoreData": 106,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201011,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 101,
+    "AcitivityType": 102,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 10,
+    "DisplayData": 21,
+    "ScoreData": 71,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201012,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 101,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 22,
+    "ScoreData": 71,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201021,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 102,
+    "AcitivityType": 102,
+    "MinLevel": 38,
+    "MaxLevel": 55,
+    "LinkData": 10,
+    "DisplayData": 31,
+    "ScoreData": 10,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201022,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 102,
+    "AcitivityType": 102,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 10,
+    "DisplayData": 32,
+    "ScoreData": 10,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201023,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 102,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 33,
+    "ScoreData": 10,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201024,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 142,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 66,
+    "ScoreData": 66,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201039,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 143,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 39,
+    "LinkData": 11,
+    "DisplayData": 69,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201040,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 143,
+    "AcitivityType": 102,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 11,
+    "DisplayData": 70,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201041,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 143,
+    "AcitivityType": 102,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 11,
+    "DisplayData": 71,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201042,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 143,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 11,
+    "DisplayData": 72,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201043,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 144,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 80,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201044,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 145,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 81,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201045,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 146,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 82,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201046,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 147,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 83,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201051,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 201,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201051,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201052,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 202,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201052,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201053,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 203,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201053,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201057,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 207,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201057,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201058,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 208,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201058,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201059,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 209,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201059,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201060,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 210,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201060,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201061,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 211,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201061,
+    "ScoreData": 84,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201062,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 212,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201062,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201064,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 214,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201064,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201066,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 216,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 12,
+    "DisplayData": 10201066,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201067,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 217,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 12,
+    "DisplayData": 10201067,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201068,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 218,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 12,
+    "DisplayData": 10201068,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201069,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 219,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 12,
+    "DisplayData": 10201068,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201070,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 220,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 12,
+    "DisplayData": 10201068,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201071,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 221,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 12,
+    "DisplayData": 10201068,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201072,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 222,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201061,
+    "ScoreData": 84,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201073,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 223,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201061,
+    "ScoreData": 84,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201074,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 224,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201061,
+    "ScoreData": 84,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201100,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 230,
+    "AcitivityType": 102,
+    "MinLevel": 35,
+    "MaxLevel": 88,
+    "LinkData": 13,
+    "DisplayData": 10201100,
+    "ScoreData": 85,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201102,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 232,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 13,
+    "DisplayData": 10201100,
+    "ScoreData": 85,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201111,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 111,
+    "AcitivityType": 102,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 10,
+    "DisplayData": 41,
+    "ScoreData": 72,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201112,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 111,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 42,
+    "ScoreData": 72,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201121,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 112,
+    "AcitivityType": 102,
+    "MinLevel": 38,
+    "MaxLevel": 55,
+    "LinkData": 10,
+    "DisplayData": 51,
+    "ScoreData": 11,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201122,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 112,
+    "AcitivityType": 102,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 10,
+    "DisplayData": 52,
+    "ScoreData": 11,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201123,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 112,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 53,
+    "ScoreData": 11,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201201,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 501,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 14,
+    "DisplayData": 10201201,
+    "ScoreData": 101,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201202,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 502,
+    "AcitivityType": 102,
+    "MinLevel": 40,
+    "MaxLevel": 88,
+    "LinkData": 14,
+    "DisplayData": 10201202,
+    "ScoreData": 102,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 1,
+    "PreCondType": "10201201:30000",
+    "PreCondParaStr": {
+      "hash": -664747314
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201203,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 503,
+    "AcitivityType": 102,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 14,
+    "DisplayData": 10201203,
+    "ScoreData": 103,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 1,
+    "PreCondType": "10201202:30000",
+    "PreCondParaStr": {
+      "hash": -664747313
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201204,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 406,
+    "AcitivityType": 102,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 10201204,
+    "DisplayData": 10201204,
+    "ScoreData": 0,
+    "RankData": 208,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201301,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 233,
+    "AcitivityType": 102,
+    "MinLevel": 80,
+    "MaxLevel": 82,
+    "LinkData": 0,
+    "DisplayData": 10201301,
+    "ScoreData": 10201301,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201302,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 233,
+    "AcitivityType": 102,
+    "MinLevel": 50,
+    "MaxLevel": 80,
+    "LinkData": 0,
+    "DisplayData": 10201302,
+    "ScoreData": 10201302,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201511,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 151,
+    "AcitivityType": 102,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 10,
+    "DisplayData": 10201511,
+    "ScoreData": 73,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201512,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 151,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201512,
+    "ScoreData": 73,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201521,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 152,
+    "AcitivityType": 102,
+    "MinLevel": 38,
+    "MaxLevel": 55,
+    "LinkData": 10,
+    "DisplayData": 10201521,
+    "ScoreData": 15,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201522,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 152,
+    "AcitivityType": 102,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 10,
+    "DisplayData": 10201522,
+    "ScoreData": 15,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10201523,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 152,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 10201523,
+    "ScoreData": 15,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10301001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 401,
+    "AcitivityType": 103,
+    "MinLevel": 40,
+    "MaxLevel": 55,
+    "LinkData": 0,
+    "DisplayData": 10301001,
+    "ScoreData": 86,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10301002,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 401,
+    "AcitivityType": 103,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 0,
+    "DisplayData": 10301002,
+    "ScoreData": 86,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10301003,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 401,
+    "AcitivityType": 103,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10301003,
+    "ScoreData": 86,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 403,
+    "AcitivityType": 103,
+    "MinLevel": 40,
+    "MaxLevel": 80,
+    "LinkData": 1,
+    "DisplayData": 10301001,
+    "ScoreData": 86,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302011,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 405,
+    "AcitivityType": 100,
+    "MinLevel": 55,
+    "MaxLevel": 69,
+    "LinkData": 1,
+    "DisplayData": 10302011,
+    "ScoreData": 86,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302012,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 405,
+    "AcitivityType": 100,
+    "MinLevel": 70,
+    "MaxLevel": 79,
+    "LinkData": 1,
+    "DisplayData": 10302012,
+    "ScoreData": 86,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302013,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 405,
+    "AcitivityType": 100,
+    "MinLevel": 80,
+    "MaxLevel": 88,
+    "LinkData": 1,
+    "DisplayData": 10302013,
+    "ScoreData": 86,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302020,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 420,
+    "AcitivityType": 103,
+    "MinLevel": 60,
+    "MaxLevel": 82,
+    "LinkData": 10302020,
+    "DisplayData": 10302020,
+    "ScoreData": 10302020,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302021,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 420,
+    "AcitivityType": 103,
+    "MinLevel": 40,
+    "MaxLevel": 59,
+    "LinkData": 10302021,
+    "DisplayData": 10302021,
+    "ScoreData": 10302021,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302022,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 421,
+    "AcitivityType": 103,
+    "MinLevel": 60,
+    "MaxLevel": 82,
+    "LinkData": 10302022,
+    "DisplayData": 10302022,
+    "ScoreData": 10302022,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302023,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 421,
+    "AcitivityType": 103,
+    "MinLevel": 40,
+    "MaxLevel": 59,
+    "LinkData": 10302023,
+    "DisplayData": 10302023,
+    "ScoreData": 10302023,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302024,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 425,
+    "AcitivityType": 103,
+    "MinLevel": 20,
+    "MaxLevel": 82,
+    "LinkData": 10302024,
+    "DisplayData": 10302024,
+    "ScoreData": 10302024,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302025,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 429,
+    "AcitivityType": 103,
+    "MinLevel": 20,
+    "MaxLevel": 49,
+    "LinkData": 10302025,
+    "DisplayData": 10302025,
+    "ScoreData": 10302025,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302026,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 429,
+    "AcitivityType": 103,
+    "MinLevel": 50,
+    "MaxLevel": 69,
+    "LinkData": 10302026,
+    "DisplayData": 10302026,
+    "ScoreData": 10302026,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302027,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 429,
+    "AcitivityType": 103,
+    "MinLevel": 70,
+    "MaxLevel": 82,
+    "LinkData": 10302027,
+    "DisplayData": 10302027,
+    "ScoreData": 10302027,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302028,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 466,
+    "AcitivityType": 103,
+    "MinLevel": 40,
+    "MaxLevel": 69,
+    "LinkData": 10302028,
+    "DisplayData": 10302028,
+    "ScoreData": 10302028,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302029,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 466,
+    "AcitivityType": 103,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10302029,
+    "DisplayData": 10302029,
+    "ScoreData": 10302029,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302030,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 467,
+    "AcitivityType": 103,
+    "MinLevel": 40,
+    "MaxLevel": 69,
+    "LinkData": 10302030,
+    "DisplayData": 10302030,
+    "ScoreData": 10302030,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302031,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 467,
+    "AcitivityType": 103,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10302031,
+    "DisplayData": 10302031,
+    "ScoreData": 10302031,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302032,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 468,
+    "AcitivityType": 103,
+    "MinLevel": 40,
+    "MaxLevel": 69,
+    "LinkData": 10302032,
+    "DisplayData": 10302032,
+    "ScoreData": 10302032,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302033,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 468,
+    "AcitivityType": 103,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10302033,
+    "DisplayData": 10302033,
+    "ScoreData": 10302033,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302034,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 469,
+    "AcitivityType": 103,
+    "MinLevel": 40,
+    "MaxLevel": 69,
+    "LinkData": 10302034,
+    "DisplayData": 10302034,
+    "ScoreData": 10302034,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10302035,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 469,
+    "AcitivityType": 103,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10302035,
+    "DisplayData": 10302035,
+    "ScoreData": 10302035,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10500001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 450,
+    "AcitivityType": 110,
+    "MinLevel": 25,
+    "MaxLevel": 55,
+    "LinkData": 10500001,
+    "DisplayData": 10500001,
+    "ScoreData": 10500001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10500002,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 450,
+    "AcitivityType": 110,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 10500002,
+    "DisplayData": 10500002,
+    "ScoreData": 10500002,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10500003,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 450,
+    "AcitivityType": 110,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10500003,
+    "DisplayData": 10500003,
+    "ScoreData": 10500003,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10500004,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 450,
+    "AcitivityType": 110,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 10500004,
+    "DisplayData": 10500004,
+    "ScoreData": 10500004,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10500005,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 470,
+    "AcitivityType": 110,
+    "MinLevel": 25,
+    "MaxLevel": 55,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10500006,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 470,
+    "AcitivityType": 110,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10500007,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 470,
+    "AcitivityType": 110,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10600001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 500,
+    "AcitivityType": 111,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10600001,
+    "ScoreData": 10600001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10600002,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 501,
+    "AcitivityType": 111,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10600002,
+    "ScoreData": 10600001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10600003,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 502,
+    "AcitivityType": 111,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10600003,
+    "ScoreData": 10600001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10600004,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 503,
+    "AcitivityType": 111,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10600004,
+    "ScoreData": 10600001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10600005,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 504,
+    "AcitivityType": 111,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10600005,
+    "ScoreData": 10600001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10600006,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 505,
+    "AcitivityType": 111,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10600006,
+    "ScoreData": 10600001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10600007,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 506,
+    "AcitivityType": 111,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 10600006,
+    "ScoreData": 10600001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 471,
+    "AcitivityType": 117,
+    "MinLevel": 80,
+    "MaxLevel": 88,
+    "LinkData": 10700001,
+    "DisplayData": 10700001,
+    "ScoreData": 10700001,
+    "RankData": 210,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700004,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 472,
+    "AcitivityType": 117,
+    "MinLevel": 80,
+    "MaxLevel": 88,
+    "LinkData": 10700004,
+    "DisplayData": 10700004,
+    "ScoreData": 10700004,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700005,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 489,
+    "AcitivityType": 117,
+    "MinLevel": 80,
+    "MaxLevel": 88,
+    "LinkData": 10700005,
+    "DisplayData": 10700005,
+    "ScoreData": 10700005,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700006,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 490,
+    "AcitivityType": 117,
+    "MinLevel": 80,
+    "MaxLevel": 88,
+    "LinkData": 10700006,
+    "DisplayData": 10700006,
+    "ScoreData": 10700006,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700007,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 507,
+    "AcitivityType": 117,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 10700005,
+    "DisplayData": 10700007,
+    "ScoreData": 10700007,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100002,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700008,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 507,
+    "AcitivityType": 117,
+    "MinLevel": 70,
+    "MaxLevel": 80,
+    "LinkData": 10700005,
+    "DisplayData": 10700008,
+    "ScoreData": 10700007,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100002,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700009,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 508,
+    "AcitivityType": 117,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 10700005,
+    "DisplayData": 10700007,
+    "ScoreData": 10700007,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100003,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700010,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 508,
+    "AcitivityType": 117,
+    "MinLevel": 70,
+    "MaxLevel": 80,
+    "LinkData": 10700005,
+    "DisplayData": 10700008,
+    "ScoreData": 10700007,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100003,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700100,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 488,
+    "AcitivityType": 119,
+    "MinLevel": 80,
+    "MaxLevel": 88,
+    "LinkData": 10700100,
+    "DisplayData": 10700100,
+    "ScoreData": 10700100,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700101,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 488,
+    "AcitivityType": 119,
+    "MinLevel": 70,
+    "MaxLevel": 79,
+    "LinkData": 10700101,
+    "DisplayData": 10700101,
+    "ScoreData": 10700101,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 10700102,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 10011,
+    "AcitivityType": 119,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 10700102,
+    "DisplayData": 10700102,
+    "ScoreData": 10700102,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15001,
+    "AcitivityType": 100,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 15000001,
+    "DisplayData": 15000001,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000002,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15001,
+    "AcitivityType": 100,
+    "MinLevel": 71,
+    "MaxLevel": 80,
+    "LinkData": 15000002,
+    "DisplayData": 15000002,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000003,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15001,
+    "AcitivityType": 100,
+    "MinLevel": 61,
+    "MaxLevel": 70,
+    "LinkData": 15000003,
+    "DisplayData": 15000003,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000004,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15001,
+    "AcitivityType": 100,
+    "MinLevel": 30,
+    "MaxLevel": 60,
+    "LinkData": 15000004,
+    "DisplayData": 15000004,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000005,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15002,
+    "AcitivityType": 100,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 15000005,
+    "DisplayData": 15000005,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000006,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15002,
+    "AcitivityType": 100,
+    "MinLevel": 71,
+    "MaxLevel": 80,
+    "LinkData": 15000006,
+    "DisplayData": 15000006,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000007,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15002,
+    "AcitivityType": 100,
+    "MinLevel": 61,
+    "MaxLevel": 70,
+    "LinkData": 15000007,
+    "DisplayData": 15000007,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000008,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15002,
+    "AcitivityType": 100,
+    "MinLevel": 30,
+    "MaxLevel": 60,
+    "LinkData": 15000008,
+    "DisplayData": 15000008,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000009,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15003,
+    "AcitivityType": 100,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 15000009,
+    "DisplayData": 15000009,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000010,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15003,
+    "AcitivityType": 100,
+    "MinLevel": 71,
+    "MaxLevel": 80,
+    "LinkData": 15000010,
+    "DisplayData": 15000010,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000011,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15003,
+    "AcitivityType": 100,
+    "MinLevel": 61,
+    "MaxLevel": 70,
+    "LinkData": 15000011,
+    "DisplayData": 15000011,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 15000012,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 15003,
+    "AcitivityType": 100,
+    "MinLevel": 30,
+    "MaxLevel": 60,
+    "LinkData": 15000012,
+    "DisplayData": 15000012,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17001,
+    "AcitivityType": 121,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 17000001,
+    "DisplayData": 17000001,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100001,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000002,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17002,
+    "AcitivityType": 121,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 17000002,
+    "DisplayData": 17000002,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100002,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000003,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17003,
+    "AcitivityType": 121,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 17000003,
+    "DisplayData": 17000003,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100003,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000011,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17001,
+    "AcitivityType": 121,
+    "MinLevel": 71,
+    "MaxLevel": 80,
+    "LinkData": 17000011,
+    "DisplayData": 17000011,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100001,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000012,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17002,
+    "AcitivityType": 121,
+    "MinLevel": 71,
+    "MaxLevel": 80,
+    "LinkData": 17000012,
+    "DisplayData": 17000012,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100002,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000013,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17003,
+    "AcitivityType": 121,
+    "MinLevel": 71,
+    "MaxLevel": 80,
+    "LinkData": 17000013,
+    "DisplayData": 17000013,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100003,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000021,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17001,
+    "AcitivityType": 121,
+    "MinLevel": 51,
+    "MaxLevel": 70,
+    "LinkData": 17000021,
+    "DisplayData": 17000021,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100001,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000022,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17002,
+    "AcitivityType": 121,
+    "MinLevel": 51,
+    "MaxLevel": 70,
+    "LinkData": 17000022,
+    "DisplayData": 17000022,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100002,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000023,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17003,
+    "AcitivityType": 121,
+    "MinLevel": 51,
+    "MaxLevel": 70,
+    "LinkData": 17000023,
+    "DisplayData": 17000023,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100003,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000031,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17001,
+    "AcitivityType": 121,
+    "MinLevel": 30,
+    "MaxLevel": 50,
+    "LinkData": 17000031,
+    "DisplayData": 17000031,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100001,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000032,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17002,
+    "AcitivityType": 121,
+    "MinLevel": 30,
+    "MaxLevel": 50,
+    "LinkData": 17000032,
+    "DisplayData": 17000032,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100002,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 17000033,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 17003,
+    "AcitivityType": 121,
+    "MinLevel": 30,
+    "MaxLevel": 50,
+    "LinkData": 17000033,
+    "DisplayData": 17000033,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 100003,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 30000001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 601,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 55,
+    "LinkData": 30000001,
+    "DisplayData": 30000001,
+    "ScoreData": 30000001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 30000002,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 601,
+    "AcitivityType": 102,
+    "MinLevel": 56,
+    "MaxLevel": 69,
+    "LinkData": 30000002,
+    "DisplayData": 30000002,
+    "ScoreData": 30000002,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 30000003,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 601,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 30000003,
+    "DisplayData": 30000003,
+    "ScoreData": 30000003,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 703,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 66,
+    "ScoreData": 66,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000002,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 704,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 66,
+    "ScoreData": 66,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000003,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 705,
+    "AcitivityType": 102,
+    "MinLevel": 30,
+    "MaxLevel": 54,
+    "LinkData": 40000003,
+    "DisplayData": 40000003,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000004,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 706,
+    "AcitivityType": 102,
+    "MinLevel": 30,
+    "MaxLevel": 54,
+    "LinkData": 40000004,
+    "DisplayData": 40000004,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000005,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 707,
+    "AcitivityType": 102,
+    "MinLevel": 30,
+    "MaxLevel": 54,
+    "LinkData": 40000005,
+    "DisplayData": 40000005,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000006,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 708,
+    "AcitivityType": 102,
+    "MinLevel": 30,
+    "MaxLevel": 54,
+    "LinkData": 40000006,
+    "DisplayData": 40000006,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000007,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 710,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 82,
+    "LinkData": 40000002,
+    "DisplayData": 40000007,
+    "ScoreData": 1,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000008,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 711,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 12,
+    "DisplayData": 10201066,
+    "ScoreData": 0,
+    "RankData": 202,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000015,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 426,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 10,
+    "DisplayData": 66,
+    "ScoreData": 66,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000016,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 427,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000016,
+    "DisplayData": 40000016,
+    "ScoreData": 40000016,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000018,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 435,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000018,
+    "DisplayData": 40000018,
+    "ScoreData": 40000018,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000020,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 437,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000020,
+    "DisplayData": 40000020,
+    "ScoreData": 40000020,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000021,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 439,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 12,
+    "DisplayData": 10201066,
+    "ScoreData": 0,
+    "RankData": 202,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000024,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 442,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000024,
+    "DisplayData": 40000024,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000025,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 457,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000025,
+    "DisplayData": 40000025,
+    "ScoreData": 40000025,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000026,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 445,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000026,
+    "DisplayData": 40000026,
+    "ScoreData": 40000026,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000027,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 446,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000027,
+    "DisplayData": 40000027,
+    "ScoreData": 40000027,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000030,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 449,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 49,
+    "LinkData": 40000030,
+    "DisplayData": 40000030,
+    "ScoreData": 40000030,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000031,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 449,
+    "AcitivityType": 102,
+    "MinLevel": 50,
+    "MaxLevel": 69,
+    "LinkData": 40000030,
+    "DisplayData": 40000031,
+    "ScoreData": 40000030,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000032,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 449,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000030,
+    "DisplayData": 40000032,
+    "ScoreData": 40000030,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000035,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 456,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000035,
+    "DisplayData": 40000035,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000037,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 458,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000025,
+    "DisplayData": 40000025,
+    "ScoreData": 40000037,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000038,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 459,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000025,
+    "DisplayData": 40000025,
+    "ScoreData": 40000038,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000039,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 461,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000025,
+    "DisplayData": 40000025,
+    "ScoreData": 40000039,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000040,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 462,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000035,
+    "DisplayData": 40000040,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000041,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 463,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000035,
+    "DisplayData": 40000041,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000044,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 473,
+    "AcitivityType": 102,
+    "MinLevel": 80,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000044,
+    "ScoreData": 40000044,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000045,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 476,
+    "AcitivityType": 102,
+    "MinLevel": 80,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000045,
+    "ScoreData": 40000045,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000050,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 481,
+    "AcitivityType": 102,
+    "MinLevel": 30,
+    "MaxLevel": 88,
+    "LinkData": 40000050,
+    "DisplayData": 40000050,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000051,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 482,
+    "AcitivityType": 102,
+    "MinLevel": 50,
+    "MaxLevel": 88,
+    "LinkData": 40000050,
+    "DisplayData": 40000051,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000052,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 483,
+    "AcitivityType": 102,
+    "MinLevel": 80,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000052,
+    "ScoreData": 40000052,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000053,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 484,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 40000053,
+    "DisplayData": 40000053,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000054,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 485,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 40000054,
+    "DisplayData": 40000054,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000055,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 486,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 40000055,
+    "DisplayData": 40000055,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000056,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 487,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 40000056,
+    "DisplayData": 40000056,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000057,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 499,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000057,
+    "DisplayData": 40000057,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000059,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 511,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000059,
+    "DisplayData": 40000059,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000060,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 512,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000059,
+    "DisplayData": 40000060,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000061,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 513,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000059,
+    "DisplayData": 40000061,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000062,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 514,
+    "AcitivityType": 102,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000059,
+    "DisplayData": 40000062,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000064,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 516,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000064,
+    "DisplayData": 40000064,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000065,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 517,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000065,
+    "DisplayData": 40000065,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000066,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 518,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000066,
+    "DisplayData": 40000066,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000067,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 519,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000067,
+    "DisplayData": 40000067,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000068,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 521,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000065,
+    "DisplayData": 40000065,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000069,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 522,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000066,
+    "DisplayData": 40000066,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000070,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 595,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000065,
+    "DisplayData": 40000065,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000071,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 524,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000071,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000072,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 525,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000072,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000073,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 526,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000073,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000074,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 545,
+    "AcitivityType": 102,
+    "MinLevel": 80,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000071,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000085,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 540,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000085,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000086,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 541,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000086,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000087,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 542,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000087,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000088,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 543,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000088,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000089,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 555,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 50,
+    "LinkData": 40000089,
+    "DisplayData": 40000093,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000090,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 556,
+    "AcitivityType": 102,
+    "MinLevel": 51,
+    "MaxLevel": 70,
+    "LinkData": 40000089,
+    "DisplayData": 40000111,
+    "ScoreData": 0,
+    "RankData": 233,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000091,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 557,
+    "AcitivityType": 102,
+    "MinLevel": 71,
+    "MaxLevel": 80,
+    "LinkData": 40000089,
+    "DisplayData": 40000112,
+    "ScoreData": 0,
+    "RankData": 234,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000092,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 558,
+    "AcitivityType": 102,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 40000089,
+    "DisplayData": 40000113,
+    "ScoreData": 0,
+    "RankData": 235,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000093,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 559,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 50,
+    "LinkData": 40000089,
+    "DisplayData": 40000091,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000105,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 573,
+    "AcitivityType": 102,
+    "MinLevel": 51,
+    "MaxLevel": 88,
+    "LinkData": 40000089,
+    "DisplayData": 40000114,
+    "ScoreData": 0,
+    "RankData": 236,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000106,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 574,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 50,
+    "LinkData": 40000089,
+    "DisplayData": 40000090,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000107,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 575,
+    "AcitivityType": 102,
+    "MinLevel": 51,
+    "MaxLevel": 70,
+    "LinkData": 40000089,
+    "DisplayData": 40000108,
+    "ScoreData": 0,
+    "RankData": 237,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000108,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 576,
+    "AcitivityType": 102,
+    "MinLevel": 71,
+    "MaxLevel": 80,
+    "LinkData": 40000089,
+    "DisplayData": 40000109,
+    "ScoreData": 0,
+    "RankData": 238,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000109,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 577,
+    "AcitivityType": 102,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 40000089,
+    "DisplayData": 40000110,
+    "ScoreData": 0,
+    "RankData": 239,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000110,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 578,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 50,
+    "LinkData": 40000089,
+    "DisplayData": 40000089,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000111,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 579,
+    "AcitivityType": 102,
+    "MinLevel": 51,
+    "MaxLevel": 70,
+    "LinkData": 40000089,
+    "DisplayData": 40000105,
+    "ScoreData": 0,
+    "RankData": 240,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000112,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 580,
+    "AcitivityType": 102,
+    "MinLevel": 71,
+    "MaxLevel": 80,
+    "LinkData": 40000089,
+    "DisplayData": 40000106,
+    "ScoreData": 0,
+    "RankData": 241,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000113,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 581,
+    "AcitivityType": 102,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 40000089,
+    "DisplayData": 40000107,
+    "ScoreData": 0,
+    "RankData": 242,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000114,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 582,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 50,
+    "LinkData": 40000089,
+    "DisplayData": 40000092,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000115,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 583,
+    "AcitivityType": 102,
+    "MinLevel": 51,
+    "MaxLevel": 88,
+    "LinkData": 40000089,
+    "DisplayData": 40000115,
+    "ScoreData": 0,
+    "RankData": 243,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000116,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 584,
+    "AcitivityType": 121,
+    "MinLevel": 50,
+    "MaxLevel": 88,
+    "LinkData": 40000116,
+    "DisplayData": 40000116,
+    "ScoreData": 40000116,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000117,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 585,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000117,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000118,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 586,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000118,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000119,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 587,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000119,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000120,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 588,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000120,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000121,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 600,
+    "AcitivityType": 100,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000121,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000122,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 602,
+    "AcitivityType": 100,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000122,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000123,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 603,
+    "AcitivityType": 121,
+    "MinLevel": 25,
+    "MaxLevel": 80,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000124,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 603,
+    "AcitivityType": 121,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000125,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 603,
+    "AcitivityType": 121,
+    "MinLevel": 30,
+    "MaxLevel": 80,
+    "LinkData": 40000125,
+    "DisplayData": 40000125,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      40000125
+    ]
+  },
+  {
+    "AcitivityID": 40000126,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 603,
+    "AcitivityType": 121,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 40000126,
+    "DisplayData": 40000126,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      40000126
+    ]
+  },
+  {
+    "AcitivityID": 40000130,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 607,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000130,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000131,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 608,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000131,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000132,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 620,
+    "AcitivityType": 100,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000132,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000133,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 626,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000133,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000134,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 627,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000134,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000135,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 628,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000135,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000136,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 629,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000136,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000137,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 630,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000137,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000138,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 631,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000138,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000139,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 632,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000139,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000140,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 633,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000140,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000141,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 639,
+    "AcitivityType": 100,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000141,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000142,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 640,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 40000142,
+    "DisplayData": 40000142,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000143,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 641,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000143,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000144,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 642,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000144,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000145,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 648,
+    "AcitivityType": 102,
+    "MinLevel": 25,
+    "MaxLevel": 88,
+    "LinkData": 40000145,
+    "DisplayData": 40000145,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000146,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 649,
+    "AcitivityType": 121,
+    "MinLevel": 25,
+    "MaxLevel": 88,
+    "LinkData": 40000146,
+    "DisplayData": 40000146,
+    "ScoreData": 40000146,
+    "RankData": 217,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000147,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 650,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000148,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 651,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000149,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 664,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000150,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 665,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000151,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 666,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000152,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 673,
+    "AcitivityType": 121,
+    "MinLevel": 50,
+    "MaxLevel": 88,
+    "LinkData": 40000152,
+    "DisplayData": 40000152,
+    "ScoreData": 40000152,
+    "RankData": 0,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000153,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 674,
+    "AcitivityType": 123,
+    "MinLevel": 25,
+    "MaxLevel": 99,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000154,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 675,
+    "AcitivityType": 121,
+    "MinLevel": 25,
+    "MaxLevel": 99,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 40000154,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000155,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 681,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000156,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 682,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000161,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 690,
+    "AcitivityType": 121,
+    "MinLevel": 25,
+    "MaxLevel": 88,
+    "LinkData": 40000161,
+    "DisplayData": 40000161,
+    "ScoreData": 40000161,
+    "RankData": 217,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000162,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 684,
+    "AcitivityType": 124,
+    "MinLevel": 25,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000163,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 685,
+    "AcitivityType": 121,
+    "MinLevel": 25,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      40000163
+    ]
+  },
+  {
+    "AcitivityID": 40000164,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 686,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000165,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 687,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000166,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 688,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000167,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 689,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000168,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 691,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000169,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 692,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000171,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 697,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000172,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 699,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000173,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 700,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000174,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 701,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000175,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 702,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000176,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 703,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000177,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 704,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000178,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 705,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000179,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 706,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000180,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 707,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000181,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 708,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000182,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 713,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000183,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 714,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000184,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 715,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000185,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 717,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000186,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 718,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000187,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 719,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000188,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 720,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000189,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 721,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000190,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 722,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000191,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 723,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000192,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 724,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000193,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 725,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000194,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 726,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000195,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 727,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000196,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 728,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000197,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 729,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000198,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 730,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000199,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 731,
+    "AcitivityType": 102,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000200,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 1600,
+    "AcitivityType": 102,
+    "MinLevel": 15,
+    "MaxLevel": 88,
+    "LinkData": 40000199,
+    "DisplayData": 40000199,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000201,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 1601,
+    "AcitivityType": 102,
+    "MinLevel": 25,
+    "MaxLevel": 88,
+    "LinkData": 40000198,
+    "DisplayData": 40000198,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000211,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 693,
+    "AcitivityType": 121,
+    "MinLevel": 25,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      40000163
+    ]
+  },
+  {
+    "AcitivityID": 40000212,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 696,
+    "AcitivityType": 121,
+    "MinLevel": 25,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      40000212
+    ]
+  },
+  {
+    "AcitivityID": 40000213,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 698,
+    "AcitivityType": 121,
+    "MinLevel": 25,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 0,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      40000212
+    ]
+  },
+  {
+    "AcitivityID": 40000221,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 694,
+    "AcitivityType": 100,
+    "MinLevel": 1,
+    "MaxLevel": 88,
+    "LinkData": 0,
+    "DisplayData": 40000121,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40000222,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 716,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40000222,
+    "DisplayData": 40000222,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40100001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 494,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40100001,
+    "DisplayData": 40100001,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40100002,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 495,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40100002,
+    "DisplayData": 40100002,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40100003,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 496,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 40100003,
+    "DisplayData": 40100003,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 40100004,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 498,
+    "AcitivityType": 102,
+    "MinLevel": 30,
+    "MaxLevel": 88,
+    "LinkData": 40000035,
+    "DisplayData": 40000041,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 41000004,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 4002,
+    "AcitivityType": 121,
+    "MinLevel": 30,
+    "MaxLevel": 88,
+    "LinkData": 41000004,
+    "DisplayData": 41000004,
+    "ScoreData": 41000004,
+    "RankData": 217,
+    "ShowRank": 2,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 41000006,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 4004,
+    "AcitivityType": 121,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 41000006,
+    "DisplayData": 41000006,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 42000001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 20101,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000065,
+    "DisplayData": 40000065,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 42000002,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 20102,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000065,
+    "DisplayData": 40000065,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 42000003,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 20103,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000065,
+    "DisplayData": 40000065,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 42000004,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 20104,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000065,
+    "DisplayData": 40000065,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 42000005,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 20098,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000065,
+    "DisplayData": 40000065,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 42000006,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 20099,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000065,
+    "DisplayData": 40000065,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 42000007,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 20100,
+    "AcitivityType": 121,
+    "MinLevel": 70,
+    "MaxLevel": 88,
+    "LinkData": 40000065,
+    "DisplayData": 40000065,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 42000091,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 561,
+    "AcitivityType": 102,
+    "MinLevel": 25,
+    "MaxLevel": 80,
+    "LinkData": 42000091,
+    "DisplayData": 42000091,
+    "ScoreData": 42000091,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 42000092,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 561,
+    "AcitivityType": 102,
+    "MinLevel": 81,
+    "MaxLevel": 88,
+    "LinkData": 42000091,
+    "DisplayData": 42000092,
+    "ScoreData": 42000092,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 50000000,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 709,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 30000001,
+    "DisplayData": 30000001,
+    "ScoreData": 30000001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 50000001,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 712,
+    "AcitivityType": 100,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 30000001,
+    "DisplayData": 30000001,
+    "ScoreData": 30000001,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 50000002,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 413,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 88,
+    "LinkData": 50000002,
+    "DisplayData": 50000002,
+    "ScoreData": 50000002,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 50000003,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 414,
+    "AcitivityType": 120,
+    "MinLevel": 60,
+    "MaxLevel": 88,
+    "LinkData": 50000003,
+    "DisplayData": 50000003,
+    "ScoreData": 0,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  },
+  {
+    "AcitivityID": 50000006,
+    "HIJKBHIIBFN": null,
+    "DPPOJFMABNA": null,
+    "Series": 415,
+    "AcitivityType": 102,
+    "MinLevel": 20,
+    "MaxLevel": 99,
+    "LinkData": 50000006,
+    "DisplayData": 50000006,
+    "ScoreData": 50000006,
+    "RankData": 0,
+    "ShowRank": 0,
+    "TeamListID": 0,
+    "PreCondType": "",
+    "PreCondParaStr": {
+      "hash": 0
+    },
+    "PreUnlockHint": 0,
+    "ActivityBuffID": [
+      0
+    ]
+  }
+]
