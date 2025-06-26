@@ -1,5 +1,7 @@
 [
   {
+    "_readOffset": 992,
+    "DataImpl": {},
     "AvatarData": 1,
     "avatarIDList": [
       101,
@@ -8,7 +10,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 918697019
     },
@@ -31,6 +33,8 @@
     ]
   },
   {
+    "_readOffset": 1091,
+    "DataImpl": {},
     "AvatarData": 2,
     "avatarIDList": [
       201,
@@ -39,7 +43,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 918697020
     },
@@ -62,6 +66,8 @@
     ]
   },
   {
+    "_readOffset": 1190,
+    "DataImpl": {},
     "AvatarData": 3,
     "avatarIDList": [
       301,
@@ -70,7 +76,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 918697021
     },
@@ -93,6 +99,8 @@
     ]
   },
   {
+    "_readOffset": 1289,
+    "DataImpl": {},
     "AvatarData": 4,
     "avatarIDList": [
       101,
@@ -101,7 +109,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 918697022
     },
@@ -125,6 +133,8 @@
     ]
   },
   {
+    "_readOffset": 1392,
+    "DataImpl": {},
     "AvatarData": 101,
     "avatarIDList": [
       601,
@@ -134,7 +144,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895426180
     },
@@ -152,6 +162,8 @@
     ]
   },
   {
+    "_readOffset": 1479,
+    "DataImpl": {},
     "AvatarData": 103,
     "avatarIDList": [
       412,
@@ -164,7 +176,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895426178
     },
@@ -183,6 +195,8 @@
     ]
   },
   {
+    "_readOffset": 1582,
+    "DataImpl": {},
     "AvatarData": 104,
     "avatarIDList": [
       703,
@@ -195,7 +209,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895426177
     },
@@ -214,6 +228,8 @@
     ]
   },
   {
+    "_readOffset": 1685,
+    "DataImpl": {},
     "AvatarData": 105,
     "avatarIDList": [
       702,
@@ -227,7 +243,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895426176
     },
@@ -245,6 +261,8 @@
     ]
   },
   {
+    "_readOffset": 1788,
+    "DataImpl": {},
     "AvatarData": 106,
     "avatarIDList": [
       412,
@@ -257,7 +275,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895426175
     },
@@ -276,6 +294,8 @@
     ]
   },
   {
+    "_readOffset": 1891,
+    "DataImpl": {},
     "AvatarData": 201,
     "avatarIDList": [
       101,
@@ -285,7 +305,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -301,6 +321,8 @@
     ]
   },
   {
+    "_readOffset": 1974,
+    "DataImpl": {},
     "AvatarData": 301,
     "avatarIDList": [
       702,
@@ -329,6 +351,8 @@
     ]
   },
   {
+    "_readOffset": 2065,
+    "DataImpl": {},
     "AvatarData": 302,
     "avatarIDList": [
       702,
@@ -357,6 +381,8 @@
     ]
   },
   {
+    "_readOffset": 2156,
+    "DataImpl": {},
     "AvatarData": 303,
     "avatarIDList": [
       313,
@@ -384,6 +410,8 @@
     ]
   },
   {
+    "_readOffset": 2247,
+    "DataImpl": {},
     "AvatarData": 306,
     "avatarIDList": [
       313,
@@ -413,6 +441,8 @@
     ]
   },
   {
+    "_readOffset": 2342,
+    "DataImpl": {},
     "AvatarData": 307,
     "avatarIDList": [
       313,
@@ -440,6 +470,8 @@
     ]
   },
   {
+    "_readOffset": 2433,
+    "DataImpl": {},
     "AvatarData": 308,
     "avatarIDList": [
       313,
@@ -467,6 +499,8 @@
     ]
   },
   {
+    "_readOffset": 2524,
+    "DataImpl": {},
     "AvatarData": 309,
     "avatarIDList": [
       313,
@@ -494,6 +528,8 @@
     ]
   },
   {
+    "_readOffset": 2615,
+    "DataImpl": {},
     "AvatarData": 310,
     "avatarIDList": [
       313,
@@ -521,6 +557,8 @@
     ]
   },
   {
+    "_readOffset": 2706,
+    "DataImpl": {},
     "AvatarData": 400,
     "avatarIDList": [
       105,
@@ -536,7 +574,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895423298
     },
@@ -554,6 +592,8 @@
     ]
   },
   {
+    "_readOffset": 2817,
+    "DataImpl": {},
     "AvatarData": 401,
     "avatarIDList": [
       105,
@@ -566,7 +606,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895423298
     },
@@ -584,6 +624,8 @@
     ]
   },
   {
+    "_readOffset": 2916,
+    "DataImpl": {},
     "AvatarData": 402,
     "avatarIDList": [
       105,
@@ -598,7 +640,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895423298
     },
@@ -616,6 +658,8 @@
     ]
   },
   {
+    "_readOffset": 3023,
+    "DataImpl": {},
     "AvatarData": 501,
     "avatarIDList": [
       102,
@@ -634,7 +678,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 827116794
     },
@@ -650,6 +694,8 @@
     ]
   },
   {
+    "_readOffset": 3142,
+    "DataImpl": {},
     "AvatarData": 502,
     "avatarIDList": [
       712,
@@ -668,7 +714,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 827116794
     },
@@ -684,6 +730,8 @@
     ]
   },
   {
+    "_readOffset": 3261,
+    "DataImpl": {},
     "AvatarData": 504,
     "avatarIDList": [
       712,
@@ -702,7 +750,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 827116794
     },
@@ -718,6 +766,8 @@
     ]
   },
   {
+    "_readOffset": 3380,
+    "DataImpl": {},
     "AvatarData": 506,
     "avatarIDList": [
       611,
@@ -737,7 +787,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 827116794
     },
@@ -753,6 +803,8 @@
     ]
   },
   {
+    "_readOffset": 3503,
+    "DataImpl": {},
     "AvatarData": 507,
     "avatarIDList": [
       801,
@@ -773,7 +825,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 827116794
     },
@@ -789,6 +841,8 @@
     ]
   },
   {
+    "_readOffset": 3630,
+    "DataImpl": {},
     "AvatarData": 508,
     "avatarIDList": [
       802,
@@ -810,7 +864,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 827116794
     },
@@ -826,6 +880,8 @@
     ]
   },
   {
+    "_readOffset": 3761,
+    "DataImpl": {},
     "AvatarData": 550,
     "avatarIDList": [
       802,
@@ -846,7 +902,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -256917539
     },
@@ -862,6 +918,8 @@
     ]
   },
   {
+    "_readOffset": 3888,
+    "DataImpl": {},
     "AvatarData": 551,
     "avatarIDList": [
       802,
@@ -883,7 +941,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -256917538
     },
@@ -899,6 +957,8 @@
     ]
   },
   {
+    "_readOffset": 4019,
+    "DataImpl": {},
     "AvatarData": 601,
     "avatarIDList": [
       502,
@@ -909,7 +969,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895421375
     },
@@ -925,6 +985,8 @@
     ]
   },
   {
+    "_readOffset": 4106,
+    "DataImpl": {},
     "AvatarData": 602,
     "avatarIDList": [
       603,
@@ -935,7 +997,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895421374
     },
@@ -951,6 +1013,8 @@
     ]
   },
   {
+    "_readOffset": 4193,
+    "DataImpl": {},
     "AvatarData": 603,
     "avatarIDList": [
       703,
@@ -961,7 +1025,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895421373
     },
@@ -977,6 +1041,8 @@
     ]
   },
   {
+    "_readOffset": 4280,
+    "DataImpl": {},
     "AvatarData": 604,
     "avatarIDList": [
       711,
@@ -987,7 +1053,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895421372
     },
@@ -1003,6 +1069,8 @@
     ]
   },
   {
+    "_readOffset": 4367,
+    "DataImpl": {},
     "AvatarData": 606,
     "avatarIDList": [
       712,
@@ -1015,7 +1083,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895421370
     },
@@ -1033,6 +1101,8 @@
     ]
   },
   {
+    "_readOffset": 4466,
+    "DataImpl": {},
     "AvatarData": 607,
     "avatarIDList": [
       712,
@@ -1045,7 +1115,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895421369
     },
@@ -1063,6 +1133,8 @@
     ]
   },
   {
+    "_readOffset": 4565,
+    "DataImpl": {},
     "AvatarData": 608,
     "avatarIDList": [
       502,
@@ -1090,6 +1162,8 @@
     ]
   },
   {
+    "_readOffset": 4656,
+    "DataImpl": {},
     "AvatarData": 609,
     "avatarIDList": [
       502,
@@ -1117,6 +1191,8 @@
     ]
   },
   {
+    "_readOffset": 4747,
+    "DataImpl": {},
     "AvatarData": 613,
     "avatarIDList": [
       113,
@@ -1129,7 +1205,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895421342
     },
@@ -1147,6 +1223,8 @@
     ]
   },
   {
+    "_readOffset": 4846,
+    "DataImpl": {},
     "AvatarData": 701,
     "avatarIDList": [
       313,
@@ -1157,7 +1235,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895420414
     },
@@ -1175,6 +1253,8 @@
     ]
   },
   {
+    "_readOffset": 4937,
+    "DataImpl": {},
     "AvatarData": 702,
     "avatarIDList": [
       712,
@@ -1185,7 +1265,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895420413
     },
@@ -1203,6 +1283,8 @@
     ]
   },
   {
+    "_readOffset": 5028,
+    "DataImpl": {},
     "AvatarData": 703,
     "avatarIDList": [
       113,
@@ -1213,7 +1295,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895420412
     },
@@ -1231,6 +1313,8 @@
     ]
   },
   {
+    "_readOffset": 5119,
+    "DataImpl": {},
     "AvatarData": 704,
     "avatarIDList": [
       313,
@@ -1241,7 +1325,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895420411
     },
@@ -1259,6 +1343,8 @@
     ]
   },
   {
+    "_readOffset": 5210,
+    "DataImpl": {},
     "AvatarData": 705,
     "avatarIDList": [
       712,
@@ -1269,7 +1355,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895420410
     },
@@ -1287,6 +1373,8 @@
     ]
   },
   {
+    "_readOffset": 5301,
+    "DataImpl": {},
     "AvatarData": 706,
     "avatarIDList": [
       113,
@@ -1297,7 +1385,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895420409
     },
@@ -1315,6 +1403,8 @@
     ]
   },
   {
+    "_readOffset": 5392,
+    "DataImpl": {},
     "AvatarData": 707,
     "avatarIDList": [
       712,
@@ -1325,7 +1415,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895420408
     },
@@ -1343,6 +1433,8 @@
     ]
   },
   {
+    "_readOffset": 5483,
+    "DataImpl": {},
     "AvatarData": 801,
     "avatarIDList": [
       302,
@@ -1355,7 +1447,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1371,6 +1463,8 @@
     ]
   },
   {
+    "_readOffset": 5578,
+    "DataImpl": {},
     "AvatarData": 802,
     "avatarIDList": [
       313,
@@ -1382,7 +1476,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1398,6 +1492,8 @@
     ]
   },
   {
+    "_readOffset": 5669,
+    "DataImpl": {},
     "AvatarData": 803,
     "avatarIDList": [
       412,
@@ -1409,7 +1505,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1425,6 +1521,8 @@
     ]
   },
   {
+    "_readOffset": 5760,
+    "DataImpl": {},
     "AvatarData": 804,
     "avatarIDList": [
       214,
@@ -1438,7 +1536,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1454,6 +1552,8 @@
     ]
   },
   {
+    "_readOffset": 5859,
+    "DataImpl": {},
     "AvatarData": 805,
     "avatarIDList": [
       103,
@@ -1466,7 +1566,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1482,6 +1582,8 @@
     ]
   },
   {
+    "_readOffset": 5954,
+    "DataImpl": {},
     "AvatarData": 806,
     "avatarIDList": [
       313,
@@ -1491,7 +1593,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1507,6 +1609,8 @@
     ]
   },
   {
+    "_readOffset": 6037,
+    "DataImpl": {},
     "AvatarData": 807,
     "avatarIDList": [
       302,
@@ -1518,7 +1622,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1534,6 +1638,8 @@
     ]
   },
   {
+    "_readOffset": 6128,
+    "DataImpl": {},
     "AvatarData": 808,
     "avatarIDList": [
       214,
@@ -1545,7 +1651,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1561,6 +1667,8 @@
     ]
   },
   {
+    "_readOffset": 6219,
+    "DataImpl": {},
     "AvatarData": 809,
     "avatarIDList": [
       313,
@@ -1573,7 +1681,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1589,6 +1697,8 @@
     ]
   },
   {
+    "_readOffset": 6314,
+    "DataImpl": {},
     "AvatarData": 810,
     "avatarIDList": [
       103,
@@ -1600,7 +1710,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1616,6 +1726,8 @@
     ]
   },
   {
+    "_readOffset": 6405,
+    "DataImpl": {},
     "AvatarData": 811,
     "avatarIDList": [
       302,
@@ -1628,7 +1740,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1644,6 +1756,8 @@
     ]
   },
   {
+    "_readOffset": 6500,
+    "DataImpl": {},
     "AvatarData": 812,
     "avatarIDList": [
       313,
@@ -1655,7 +1769,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1671,6 +1785,8 @@
     ]
   },
   {
+    "_readOffset": 6591,
+    "DataImpl": {},
     "AvatarData": 813,
     "avatarIDList": [
       412,
@@ -1682,7 +1798,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1204787479
     },
@@ -1698,6 +1814,8 @@
     ]
   },
   {
+    "_readOffset": 6682,
+    "DataImpl": {},
     "AvatarData": 901,
     "avatarIDList": [
       313,
@@ -1708,7 +1826,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895418492
     },
@@ -1724,6 +1842,8 @@
     ]
   },
   {
+    "_readOffset": 6769,
+    "DataImpl": {},
     "AvatarData": 902,
     "avatarIDList": [
       712,
@@ -1734,7 +1854,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895418491
     },
@@ -1750,6 +1870,8 @@
     ]
   },
   {
+    "_readOffset": 6856,
+    "DataImpl": {},
     "AvatarData": 903,
     "avatarIDList": [
       113,
@@ -1760,7 +1882,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -1895418490
     },
@@ -1776,11 +1898,13 @@
     ]
   },
   {
+    "_readOffset": 6943,
+    "DataImpl": {},
     "AvatarData": 1001,
     "avatarIDList": [],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -1796,6 +1920,8 @@
     ]
   },
   {
+    "_readOffset": 7010,
+    "DataImpl": {},
     "AvatarData": 1002,
     "avatarIDList": [
       302,
@@ -1806,7 +1932,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -1822,6 +1948,8 @@
     ]
   },
   {
+    "_readOffset": 7097,
+    "DataImpl": {},
     "AvatarData": 1003,
     "avatarIDList": [
       102,
@@ -1832,7 +1960,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -1848,6 +1976,8 @@
     ]
   },
   {
+    "_readOffset": 7184,
+    "DataImpl": {},
     "AvatarData": 1004,
     "avatarIDList": [
       302,
@@ -1858,7 +1988,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -1874,6 +2004,8 @@
     ]
   },
   {
+    "_readOffset": 7271,
+    "DataImpl": {},
     "AvatarData": 1801,
     "avatarIDList": [
       313,
@@ -1884,7 +2016,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338270
     },
@@ -1902,6 +2034,8 @@
     ]
   },
   {
+    "_readOffset": 7362,
+    "DataImpl": {},
     "AvatarData": 1802,
     "avatarIDList": [
       712,
@@ -1912,7 +2046,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338271
     },
@@ -1930,6 +2064,8 @@
     ]
   },
   {
+    "_readOffset": 7453,
+    "DataImpl": {},
     "AvatarData": 1803,
     "avatarIDList": [
       113,
@@ -1940,7 +2076,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338272
     },
@@ -1958,6 +2094,8 @@
     ]
   },
   {
+    "_readOffset": 7544,
+    "DataImpl": {},
     "AvatarData": 1804,
     "avatarIDList": [
       313,
@@ -1968,7 +2106,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338273
     },
@@ -1986,6 +2124,8 @@
     ]
   },
   {
+    "_readOffset": 7635,
+    "DataImpl": {},
     "AvatarData": 1805,
     "avatarIDList": [
       313,
@@ -1996,7 +2136,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338274
     },
@@ -2014,6 +2154,8 @@
     ]
   },
   {
+    "_readOffset": 7726,
+    "DataImpl": {},
     "AvatarData": 1806,
     "avatarIDList": [
       313,
@@ -2024,7 +2166,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338275
     },
@@ -2042,6 +2184,8 @@
     ]
   },
   {
+    "_readOffset": 7817,
+    "DataImpl": {},
     "AvatarData": 1807,
     "avatarIDList": [
       313,
@@ -2052,7 +2196,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338276
     },
@@ -2070,6 +2214,8 @@
     ]
   },
   {
+    "_readOffset": 7908,
+    "DataImpl": {},
     "AvatarData": 1808,
     "avatarIDList": [
       313,
@@ -2080,7 +2226,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338277
     },
@@ -2098,6 +2244,8 @@
     ]
   },
   {
+    "_readOffset": 7999,
+    "DataImpl": {},
     "AvatarData": 1809,
     "avatarIDList": [
       202,
@@ -2111,7 +2259,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338278
     },
@@ -2129,6 +2277,8 @@
     ]
   },
   {
+    "_readOffset": 8102,
+    "DataImpl": {},
     "AvatarData": 1810,
     "avatarIDList": [
       202,
@@ -2142,7 +2292,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338300
     },
@@ -2160,6 +2310,8 @@
     ]
   },
   {
+    "_readOffset": 8205,
+    "DataImpl": {},
     "AvatarData": 1811,
     "avatarIDList": [
       202,
@@ -2173,7 +2325,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338301
     },
@@ -2191,6 +2343,8 @@
     ]
   },
   {
+    "_readOffset": 8308,
+    "DataImpl": {},
     "AvatarData": 1812,
     "avatarIDList": [
       511,
@@ -2206,7 +2360,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338302
     },
@@ -2222,6 +2376,8 @@
     ]
   },
   {
+    "_readOffset": 8415,
+    "DataImpl": {},
     "AvatarData": 1813,
     "avatarIDList": [
       203,
@@ -2237,7 +2393,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338303
     },
@@ -2253,6 +2409,8 @@
     ]
   },
   {
+    "_readOffset": 8522,
+    "DataImpl": {},
     "AvatarData": 1814,
     "avatarIDList": [
       213,
@@ -2268,7 +2426,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371338304
     },
@@ -2284,6 +2442,8 @@
     ]
   },
   {
+    "_readOffset": 8629,
+    "DataImpl": {},
     "AvatarData": 2301,
     "avatarIDList": [
       101,
@@ -2306,7 +2466,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371363256
     },
@@ -2322,6 +2482,8 @@
     ]
   },
   {
+    "_readOffset": 8764,
+    "DataImpl": {},
     "AvatarData": 2302,
     "avatarIDList": [
       101,
@@ -2344,7 +2506,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371363257
     },
@@ -2360,6 +2522,8 @@
     ]
   },
   {
+    "_readOffset": 8899,
+    "DataImpl": {},
     "AvatarData": 2303,
     "avatarIDList": [
       101,
@@ -2382,7 +2546,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371363258
     },
@@ -2398,6 +2562,8 @@
     ]
   },
   {
+    "_readOffset": 9034,
+    "DataImpl": {},
     "AvatarData": 2401,
     "avatarIDList": [
       803,
@@ -2409,7 +2575,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371364217
     },
@@ -2425,6 +2591,8 @@
     ]
   },
   {
+    "_readOffset": 9125,
+    "DataImpl": {},
     "AvatarData": 2402,
     "avatarIDList": [
       422,
@@ -2436,7 +2604,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371364218
     },
@@ -2452,6 +2620,8 @@
     ]
   },
   {
+    "_readOffset": 9216,
+    "DataImpl": {},
     "AvatarData": 2403,
     "avatarIDList": [
       205,
@@ -2463,7 +2633,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371364219
     },
@@ -2479,6 +2649,8 @@
     ]
   },
   {
+    "_readOffset": 9307,
+    "DataImpl": {},
     "AvatarData": 2405,
     "avatarIDList": [
       506,
@@ -2505,6 +2677,8 @@
     ]
   },
   {
+    "_readOffset": 9394,
+    "DataImpl": {},
     "AvatarData": 2406,
     "avatarIDList": [
       506,
@@ -2531,6 +2705,8 @@
     ]
   },
   {
+    "_readOffset": 9481,
+    "DataImpl": {},
     "AvatarData": 2407,
     "avatarIDList": [
       104,
@@ -2557,6 +2733,8 @@
     ]
   },
   {
+    "_readOffset": 9568,
+    "DataImpl": {},
     "AvatarData": 2408,
     "avatarIDList": [
       104,
@@ -2583,6 +2761,8 @@
     ]
   },
   {
+    "_readOffset": 9655,
+    "DataImpl": {},
     "AvatarData": 2409,
     "avatarIDList": [
       506,
@@ -2610,6 +2790,8 @@
     ]
   },
   {
+    "_readOffset": 9746,
+    "DataImpl": {},
     "AvatarData": 2410,
     "avatarIDList": [
       506,
@@ -2637,6 +2819,8 @@
     ]
   },
   {
+    "_readOffset": 9837,
+    "DataImpl": {},
     "AvatarData": 2411,
     "avatarIDList": [
       506,
@@ -2664,6 +2848,8 @@
     ]
   },
   {
+    "_readOffset": 9928,
+    "DataImpl": {},
     "AvatarData": 2412,
     "avatarIDList": [
       506,
@@ -2691,6 +2877,8 @@
     ]
   },
   {
+    "_readOffset": 10019,
+    "DataImpl": {},
     "AvatarData": 2413,
     "avatarIDList": [
       104,
@@ -2717,6 +2905,8 @@
     ]
   },
   {
+    "_readOffset": 10106,
+    "DataImpl": {},
     "AvatarData": 2414,
     "avatarIDList": [
       104,
@@ -2743,6 +2933,8 @@
     ]
   },
   {
+    "_readOffset": 10193,
+    "DataImpl": {},
     "AvatarData": 2415,
     "avatarIDList": [
       506,
@@ -2769,6 +2961,8 @@
     ]
   },
   {
+    "_readOffset": 10280,
+    "DataImpl": {},
     "AvatarData": 2416,
     "avatarIDList": [
       506,
@@ -2795,6 +2989,8 @@
     ]
   },
   {
+    "_readOffset": 10367,
+    "DataImpl": {},
     "AvatarData": 2417,
     "avatarIDList": [
       104,
@@ -2820,6 +3016,8 @@
     ]
   },
   {
+    "_readOffset": 10450,
+    "DataImpl": {},
     "AvatarData": 2418,
     "avatarIDList": [
       104,
@@ -2845,6 +3043,8 @@
     ]
   },
   {
+    "_readOffset": 10533,
+    "DataImpl": {},
     "AvatarData": 2419,
     "avatarIDList": [
       506,
@@ -2871,6 +3071,8 @@
     ]
   },
   {
+    "_readOffset": 10620,
+    "DataImpl": {},
     "AvatarData": 2420,
     "avatarIDList": [
       506,
@@ -2897,6 +3099,8 @@
     ]
   },
   {
+    "_readOffset": 10707,
+    "DataImpl": {},
     "AvatarData": 2421,
     "avatarIDList": [
       506,
@@ -2923,6 +3127,8 @@
     ]
   },
   {
+    "_readOffset": 10794,
+    "DataImpl": {},
     "AvatarData": 2422,
     "avatarIDList": [
       506,
@@ -2949,6 +3155,8 @@
     ]
   },
   {
+    "_readOffset": 10881,
+    "DataImpl": {},
     "AvatarData": 2423,
     "avatarIDList": [
       506,
@@ -2975,6 +3183,8 @@
     ]
   },
   {
+    "_readOffset": 10968,
+    "DataImpl": {},
     "AvatarData": 2424,
     "avatarIDList": [
       506,
@@ -3001,6 +3211,8 @@
     ]
   },
   {
+    "_readOffset": 11055,
+    "DataImpl": {},
     "AvatarData": 2425,
     "avatarIDList": [
       604,
@@ -3029,6 +3241,8 @@
     ]
   },
   {
+    "_readOffset": 11150,
+    "DataImpl": {},
     "AvatarData": 2426,
     "avatarIDList": [
       604,
@@ -3057,6 +3271,8 @@
     ]
   },
   {
+    "_readOffset": 11245,
+    "DataImpl": {},
     "AvatarData": 2501,
     "avatarIDList": [
       313,
@@ -3068,7 +3284,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371365178
     },
@@ -3084,6 +3300,8 @@
     ]
   },
   {
+    "_readOffset": 11336,
+    "DataImpl": {},
     "AvatarData": 2502,
     "avatarIDList": [
       113,
@@ -3095,7 +3313,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1371365179
     },
@@ -3111,6 +3329,8 @@
     ]
   },
   {
+    "_readOffset": 11427,
+    "DataImpl": {},
     "AvatarData": 13001,
     "avatarIDList": [
       111,
@@ -3121,7 +3341,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3137,6 +3357,8 @@
     ]
   },
   {
+    "_readOffset": 11514,
+    "DataImpl": {},
     "AvatarData": 13002,
     "avatarIDList": [
       103,
@@ -3147,7 +3369,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3163,6 +3385,8 @@
     ]
   },
   {
+    "_readOffset": 11601,
+    "DataImpl": {},
     "AvatarData": 13003,
     "avatarIDList": [
       312,
@@ -3173,7 +3397,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3189,6 +3413,8 @@
     ]
   },
   {
+    "_readOffset": 11688,
+    "DataImpl": {},
     "AvatarData": 13004,
     "avatarIDList": [
       113,
@@ -3199,7 +3425,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3215,6 +3441,8 @@
     ]
   },
   {
+    "_readOffset": 11775,
+    "DataImpl": {},
     "AvatarData": 13005,
     "avatarIDList": [
       212,
@@ -3225,7 +3453,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3241,6 +3469,8 @@
     ]
   },
   {
+    "_readOffset": 11862,
+    "DataImpl": {},
     "AvatarData": 13006,
     "avatarIDList": [
       412,
@@ -3251,7 +3481,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3267,6 +3497,8 @@
     ]
   },
   {
+    "_readOffset": 11949,
+    "DataImpl": {},
     "AvatarData": 13007,
     "avatarIDList": [
       101,
@@ -3311,7 +3543,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": -438335521
     },
@@ -3329,6 +3561,8 @@
     ]
   },
   {
+    "_readOffset": 12176,
+    "DataImpl": {},
     "AvatarData": 13008,
     "avatarIDList": [
       422,
@@ -3339,7 +3573,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3355,6 +3589,8 @@
     ]
   },
   {
+    "_readOffset": 12263,
+    "DataImpl": {},
     "AvatarData": 13009,
     "avatarIDList": [
       422,
@@ -3365,7 +3601,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3381,6 +3617,8 @@
     ]
   },
   {
+    "_readOffset": 12350,
+    "DataImpl": {},
     "AvatarData": 13010,
     "avatarIDList": [
       422,
@@ -3391,7 +3629,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3407,6 +3645,8 @@
     ]
   },
   {
+    "_readOffset": 12437,
+    "DataImpl": {},
     "AvatarData": 13011,
     "avatarIDList": [
       202,
@@ -3421,7 +3661,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1372410901
     },
@@ -3439,6 +3679,8 @@
     ]
   },
   {
+    "_readOffset": 12544,
+    "DataImpl": {},
     "AvatarData": 13012,
     "avatarIDList": [
       212,
@@ -3449,7 +3691,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3465,6 +3707,8 @@
     ]
   },
   {
+    "_readOffset": 12631,
+    "DataImpl": {},
     "AvatarData": 13013,
     "avatarIDList": [
       113,
@@ -3475,7 +3719,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 14525469
     },
@@ -3491,6 +3735,8 @@
     ]
   },
   {
+    "_readOffset": 12718,
+    "DataImpl": {},
     "AvatarData": 13014,
     "avatarIDList": [
       211,
@@ -3507,7 +3753,7 @@
     ],
     "ClientAvatarBonusType": 0,
     "AvatarBonusScore": 0,
-    "AvatarBonusRatio": 0.0,
+    "AvatarBonusRatio": 0,
     "AvatarTitle": {
       "hash": 1372410901
     },

@@ -1,5 +1,7 @@
 [
   {
+    "_readOffset": 688,
+    "DataImpl": {},
     "id": 200001,
     "name": {
       "hash": -512036890
@@ -15,6 +17,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 832,
+    "DataImpl": {},
     "id": 200002,
     "name": {
       "hash": -512036889
@@ -30,6 +34,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 978,
+    "DataImpl": {},
     "id": 200003,
     "name": {
       "hash": -512036888
@@ -45,6 +51,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 1126,
+    "DataImpl": {},
     "id": 200004,
     "name": {
       "hash": -512036887
@@ -60,6 +68,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 1274,
+    "DataImpl": {},
     "id": 200005,
     "name": {
       "hash": -512036886
@@ -75,6 +85,8 @@
     "Type": 1
   },
   {
+    "_readOffset": 1426,
+    "DataImpl": {},
     "id": 200006,
     "name": {
       "hash": -512036885
@@ -90,6 +102,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 1580,
+    "DataImpl": {},
     "id": 200007,
     "name": {
       "hash": -512036884
@@ -105,6 +119,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 1740,
+    "DataImpl": {},
     "id": 200010,
     "name": {
       "hash": -512036860
@@ -120,6 +136,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 1899,
+    "DataImpl": {},
     "id": 200011,
     "name": {
       "hash": -512036859
@@ -135,6 +153,8 @@
     "Type": 1
   },
   {
+    "_readOffset": 2050,
+    "DataImpl": {},
     "id": 200012,
     "name": {
       "hash": -512036858
@@ -150,6 +170,8 @@
     "Type": 1
   },
   {
+    "_readOffset": 2201,
+    "DataImpl": {},
     "id": 200013,
     "name": {
       "hash": -512036857
@@ -165,6 +187,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 2364,
+    "DataImpl": {},
     "id": 200014,
     "name": {
       "hash": -512036856
@@ -180,6 +204,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 2517,
+    "DataImpl": {},
     "id": 200015,
     "name": {
       "hash": -512036855
@@ -195,6 +221,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 2670,
+    "DataImpl": {},
     "id": 200016,
     "name": {
       "hash": -512036854
@@ -210,6 +238,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 2833,
+    "DataImpl": {},
     "id": 200017,
     "name": {
       "hash": -512036853
@@ -225,6 +255,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 2982,
+    "DataImpl": {},
     "id": 200018,
     "name": {
       "hash": -512036852
@@ -240,6 +272,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 3145,
+    "DataImpl": {},
     "id": 200019,
     "name": {
       "hash": -512036851
@@ -255,6 +289,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 3308,
+    "DataImpl": {},
     "id": 200020,
     "name": {
       "hash": -512036829
@@ -270,6 +306,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 3459,
+    "DataImpl": {},
     "id": 200021,
     "name": {
       "hash": -512036828
@@ -285,6 +323,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 3618,
+    "DataImpl": {},
     "id": 200022,
     "name": {
       "hash": -512036827
@@ -300,6 +340,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 3781,
+    "DataImpl": {},
     "id": 200023,
     "name": {
       "hash": -512036826
@@ -315,6 +357,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 3944,
+    "DataImpl": {},
     "id": 200024,
     "name": {
       "hash": -512036825
@@ -330,6 +374,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 4093,
+    "DataImpl": {},
     "id": 200025,
     "name": {
       "hash": -512036824
@@ -345,6 +391,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 4244,
+    "DataImpl": {},
     "id": 200026,
     "name": {
       "hash": -512036823
@@ -360,6 +408,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 4401,
+    "DataImpl": {},
     "id": 200027,
     "name": {
       "hash": -512036822
@@ -375,6 +425,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 4564,
+    "DataImpl": {},
     "id": 200028,
     "name": {
       "hash": -512036821
@@ -390,6 +442,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 4731,
+    "DataImpl": {},
     "id": 200029,
     "name": {
       "hash": -512036820
@@ -405,6 +459,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 4888,
+    "DataImpl": {},
     "id": 200030,
     "name": {
       "hash": -512036798
@@ -420,6 +476,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 5041,
+    "DataImpl": {},
     "id": 200031,
     "name": {
       "hash": -512036797
@@ -435,6 +493,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 5204,
+    "DataImpl": {},
     "id": 200032,
     "name": {
       "hash": -512036796
@@ -450,6 +510,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 5355,
+    "DataImpl": {},
     "id": 200033,
     "name": {
       "hash": -512036795
@@ -465,6 +527,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 5506,
+    "DataImpl": {},
     "id": 200035,
     "name": {
       "hash": -512036793
@@ -480,6 +544,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 5657,
+    "DataImpl": {},
     "id": 200036,
     "name": {
       "hash": -512036792
@@ -495,6 +561,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 5808,
+    "DataImpl": {},
     "id": 200037,
     "name": {
       "hash": -512036791
@@ -510,6 +578,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 5959,
+    "DataImpl": {},
     "id": 200038,
     "name": {
       "hash": -512036790
@@ -525,6 +595,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 6110,
+    "DataImpl": {},
     "id": 200040,
     "name": {
       "hash": -512036767
@@ -540,6 +612,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 6261,
+    "DataImpl": {},
     "id": 200041,
     "name": {
       "hash": -512036766
@@ -555,6 +629,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 6412,
+    "DataImpl": {},
     "id": 200042,
     "name": {
       "hash": -512036765
@@ -570,6 +646,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 6563,
+    "DataImpl": {},
     "id": 200043,
     "name": {
       "hash": -512036764
@@ -585,6 +663,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 6714,
+    "DataImpl": {},
     "id": 200044,
     "name": {
       "hash": -512036763
@@ -600,6 +680,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 6865,
+    "DataImpl": {},
     "id": 200045,
     "name": {
       "hash": -512036762
@@ -615,6 +697,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 7016,
+    "DataImpl": {},
     "id": 200046,
     "name": {
       "hash": -512036761
@@ -630,6 +714,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 7167,
+    "DataImpl": {},
     "id": 200047,
     "name": {
       "hash": -512036760
@@ -645,6 +731,25 @@
     "Type": 0
   },
   {
+    "_readOffset": 7318,
+    "DataImpl": {},
+    "id": 200048,
+    "name": {
+      "hash": -512036759
+    },
+    "rarity": 4,
+    "desc": {
+      "hash": -1953891933
+    },
+    "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200039",
+    "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200039",
+    "isShow": true,
+    "UIShowOrder": 43,
+    "Type": 0
+  },
+  {
+    "_readOffset": 7469,
+    "DataImpl": {},
     "id": 200049,
     "name": {
       "hash": -512036758
@@ -660,6 +765,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 7620,
+    "DataImpl": {},
     "id": 200050,
     "name": {
       "hash": -512036736
@@ -675,6 +782,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 7771,
+    "DataImpl": {},
     "id": 200051,
     "name": {
       "hash": -512036735
@@ -690,6 +799,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 7922,
+    "DataImpl": {},
     "id": 200052,
     "name": {
       "hash": -512036734
@@ -705,6 +816,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 8073,
+    "DataImpl": {},
     "id": 200053,
     "name": {
       "hash": -512036733
@@ -720,21 +833,8 @@
     "Type": 0
   },
   {
-    "id": 200055,
-    "name": {
-      "hash": -512036731
-    },
-    "rarity": 5,
-    "desc": {
-      "hash": -1953891905
-    },
-    "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200055",
-    "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200055",
-    "isShow": true,
-    "UIShowOrder": 49,
-    "Type": 0
-  },
-  {
+    "_readOffset": 8224,
+    "DataImpl": {},
     "id": 200056,
     "name": {
       "hash": -512036730
@@ -750,6 +850,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 8375,
+    "DataImpl": {},
     "id": 200057,
     "name": {
       "hash": -512036729
@@ -765,6 +867,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 8526,
+    "DataImpl": {},
     "id": 200058,
     "name": {
       "hash": -512036728
@@ -780,6 +884,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 8677,
+    "DataImpl": {},
     "id": 200059,
     "name": {
       "hash": -512036727
@@ -795,6 +901,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 8828,
+    "DataImpl": {},
     "id": 200060,
     "name": {
       "hash": -512036705
@@ -810,6 +918,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 8979,
+    "DataImpl": {},
     "id": 200061,
     "name": {
       "hash": -512036704
@@ -825,6 +935,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 9130,
+    "DataImpl": {},
     "id": 200062,
     "name": {
       "hash": -512036703
@@ -840,6 +952,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 9281,
+    "DataImpl": {},
     "id": 200063,
     "name": {
       "hash": -512036702
@@ -855,6 +969,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 9432,
+    "DataImpl": {},
     "id": 200064,
     "name": {
       "hash": -512036701
@@ -870,6 +986,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 9583,
+    "DataImpl": {},
     "id": 200065,
     "name": {
       "hash": -512036700
@@ -885,6 +1003,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 9734,
+    "DataImpl": {},
     "id": 200066,
     "name": {
       "hash": -512036699
@@ -900,6 +1020,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 9885,
+    "DataImpl": {},
     "id": 200067,
     "name": {
       "hash": -512036698
@@ -915,6 +1037,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 10036,
+    "DataImpl": {},
     "id": 200068,
     "name": {
       "hash": -512036697
@@ -930,6 +1054,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 10187,
+    "DataImpl": {},
     "id": 200069,
     "name": {
       "hash": -512036696
@@ -945,6 +1071,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 10338,
+    "DataImpl": {},
     "id": 200071,
     "name": {
       "hash": -512036673
@@ -960,6 +1088,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 10489,
+    "DataImpl": {},
     "id": 200072,
     "name": {
       "hash": -512036672
@@ -975,6 +1105,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 10640,
+    "DataImpl": {},
     "id": 200073,
     "name": {
       "hash": -512036671
@@ -990,6 +1122,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 10791,
+    "DataImpl": {},
     "id": 200074,
     "name": {
       "hash": -512036670
@@ -1005,6 +1139,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 10942,
+    "DataImpl": {},
     "id": 200075,
     "name": {
       "hash": -512036669
@@ -1020,6 +1156,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 11093,
+    "DataImpl": {},
     "id": 200076,
     "name": {
       "hash": -512036668
@@ -1035,6 +1173,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 11244,
+    "DataImpl": {},
     "id": 200077,
     "name": {
       "hash": -512036667
@@ -1050,6 +1190,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 11395,
+    "DataImpl": {},
     "id": 200078,
     "name": {
       "hash": -512036666
@@ -1065,6 +1207,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 11546,
+    "DataImpl": {},
     "id": 200079,
     "name": {
       "hash": -512036665
@@ -1080,6 +1224,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 11697,
+    "DataImpl": {},
     "id": 200080,
     "name": {
       "hash": -512036643
@@ -1095,6 +1241,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 11848,
+    "DataImpl": {},
     "id": 200081,
     "name": {
       "hash": -512036642
@@ -1110,6 +1258,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 11999,
+    "DataImpl": {},
     "id": 200082,
     "name": {
       "hash": -512036641
@@ -1125,6 +1275,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 12150,
+    "DataImpl": {},
     "id": 200083,
     "name": {
       "hash": -512036640
@@ -1140,6 +1292,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 12301,
+    "DataImpl": {},
     "id": 200084,
     "name": {
       "hash": -512036639
@@ -1155,6 +1309,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 12452,
+    "DataImpl": {},
     "id": 200085,
     "name": {
       "hash": -512036638
@@ -1170,6 +1326,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 12603,
+    "DataImpl": {},
     "id": 200086,
     "name": {
       "hash": -512036637
@@ -1185,6 +1343,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 12720,
+    "DataImpl": {},
     "id": 200087,
     "name": {
       "hash": -512036636
@@ -1200,6 +1360,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 12871,
+    "DataImpl": {},
     "id": 200088,
     "name": {
       "hash": -512036635
@@ -1215,6 +1377,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 13022,
+    "DataImpl": {},
     "id": 200089,
     "name": {
       "hash": -512036634
@@ -1230,6 +1394,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 13173,
+    "DataImpl": {},
     "id": 200090,
     "name": {
       "hash": -512036612
@@ -1245,6 +1411,8 @@
     "Type": 0
   },
   {
+    "_readOffset": 13324,
+    "DataImpl": {},
     "id": 200091,
     "name": {
       "hash": -512036611
@@ -1257,6 +1425,23 @@
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200091",
     "isShow": true,
     "UIShowOrder": 84,
+    "Type": 0
+  },
+  {
+    "_readOffset": 13475,
+    "DataImpl": {},
+    "id": 200092,
+    "name": {
+      "hash": -512036610
+    },
+    "rarity": 4,
+    "desc": {
+      "hash": -1953891784
+    },
+    "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200092",
+    "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200092",
+    "isShow": true,
+    "UIShowOrder": 85,
     "Type": 0
   }
 ]

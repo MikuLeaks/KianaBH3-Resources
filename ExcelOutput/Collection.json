@@ -1,3116 +1,3522 @@
 [
   {
+    "_readOffset": 1416,
+    "DataImpl": {},
     "ID": 1,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 1,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 1,
+    "HFOBLLLHHLP": {
       "hash": 1463549915
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1456,
+    "DataImpl": {},
     "ID": 2,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 2,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 2,
+    "HFOBLLLHHLP": {
       "hash": 1463549916
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766934
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1496,
+    "DataImpl": {},
     "ID": 3,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 3,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 3,
+    "HFOBLLLHHLP": {
       "hash": 1463549917
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766933
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1536,
+    "DataImpl": {},
     "ID": 4,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 4,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 4,
+    "HFOBLLLHHLP": {
       "hash": 1463549918
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766932
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1576,
+    "DataImpl": {},
     "ID": 5,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 5,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 5,
+    "HFOBLLLHHLP": {
       "hash": 1463549919
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766931
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1616,
+    "DataImpl": {},
     "ID": 6,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 6,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 6,
+    "HFOBLLLHHLP": {
       "hash": 1463549920
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766930
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1656,
+    "DataImpl": {},
     "ID": 7,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 7,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 7,
+    "HFOBLLLHHLP": {
       "hash": 1463549921
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766929
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1696,
+    "DataImpl": {},
     "ID": 8,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 8,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 8,
+    "HFOBLLLHHLP": {
       "hash": 1463549922
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766928
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1736,
+    "DataImpl": {},
     "ID": 9,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 9,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 9,
+    "HFOBLLLHHLP": {
       "hash": 1463549923
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766927
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1776,
+    "DataImpl": {},
     "ID": 10,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 10,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 10,
+    "HFOBLLLHHLP": {
       "hash": -1874592843
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265497
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1816,
+    "DataImpl": {},
     "ID": 11,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 11,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 11,
+    "HFOBLLLHHLP": {
       "hash": -1874592842
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265496
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1856,
+    "DataImpl": {},
     "ID": 12,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 12,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 12,
+    "HFOBLLLHHLP": {
       "hash": -1874592841
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265495
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1896,
+    "DataImpl": {},
     "ID": 13,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 13,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 13,
+    "HFOBLLLHHLP": {
       "hash": -1874592840
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265494
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1936,
+    "DataImpl": {},
     "ID": 14,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 14,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 14,
+    "HFOBLLLHHLP": {
       "hash": -1874592839
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265493
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 1976,
+    "DataImpl": {},
     "ID": 15,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 15,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 15,
+    "HFOBLLLHHLP": {
       "hash": -1874592838
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265492
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2016,
+    "DataImpl": {},
     "ID": 16,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 16,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 16,
+    "HFOBLLLHHLP": {
       "hash": -1874592837
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265491
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2056,
+    "DataImpl": {},
     "ID": 17,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 17,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 17,
+    "HFOBLLLHHLP": {
       "hash": -1874592836
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265490
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2096,
+    "DataImpl": {},
     "ID": 18,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 18,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 18,
+    "HFOBLLLHHLP": {
       "hash": -1874592835
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265489
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2136,
+    "DataImpl": {},
     "ID": 19,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 19,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 19,
+    "HFOBLLLHHLP": {
       "hash": -1874592834
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265488
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2176,
+    "DataImpl": {},
     "ID": 20,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 20,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 20,
+    "HFOBLLLHHLP": {
       "hash": -1874592812
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265466
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2216,
+    "DataImpl": {},
     "ID": 21,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 21,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 21,
+    "HFOBLLLHHLP": {
       "hash": -1874592811
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265465
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2256,
+    "DataImpl": {},
     "ID": 22,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 22,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 22,
+    "HFOBLLLHHLP": {
       "hash": -1874592810
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265464
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2296,
+    "DataImpl": {},
     "ID": 23,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 23,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 23,
+    "HFOBLLLHHLP": {
       "hash": -1874592809
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265463
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2336,
+    "DataImpl": {},
     "ID": 24,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 24,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 24,
+    "HFOBLLLHHLP": {
       "hash": -1874592808
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265462
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2376,
+    "DataImpl": {},
     "ID": 25,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 25,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 25,
+    "HFOBLLLHHLP": {
       "hash": -1874592807
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265461
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2416,
+    "DataImpl": {},
     "ID": 26,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 26,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 26,
+    "HFOBLLLHHLP": {
       "hash": -1874592806
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265460
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2456,
+    "DataImpl": {},
     "ID": 27,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 27,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 27,
+    "HFOBLLLHHLP": {
       "hash": -1874592805
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265459
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2496,
+    "DataImpl": {},
     "ID": 28,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 28,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 28,
+    "HFOBLLLHHLP": {
       "hash": -1874592804
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265458
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2536,
+    "DataImpl": {},
     "ID": 29,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 29,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 29,
+    "HFOBLLLHHLP": {
       "hash": -1874592803
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265457
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2576,
+    "DataImpl": {},
     "ID": 30,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 30,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 30,
+    "HFOBLLLHHLP": {
       "hash": -1874592781
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265435
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2616,
+    "DataImpl": {},
     "ID": 31,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 31,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 31,
+    "HFOBLLLHHLP": {
       "hash": -1874592780
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265434
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2656,
+    "DataImpl": {},
     "ID": 32,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 32,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 32,
+    "HFOBLLLHHLP": {
       "hash": -1874592779
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265433
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2696,
+    "DataImpl": {},
     "ID": 33,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 33,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 33,
+    "HFOBLLLHHLP": {
       "hash": -1874592778
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265432
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2736,
+    "DataImpl": {},
     "ID": 34,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 34,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 34,
+    "HFOBLLLHHLP": {
       "hash": -1874592777
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265431
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2776,
+    "DataImpl": {},
     "ID": 35,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 35,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 35,
+    "HFOBLLLHHLP": {
       "hash": -1874592776
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265430
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2816,
+    "DataImpl": {},
     "ID": 36,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 36,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 36,
+    "HFOBLLLHHLP": {
       "hash": -1874592775
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265429
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2856,
+    "DataImpl": {},
     "ID": 37,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 37,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 37,
+    "HFOBLLLHHLP": {
       "hash": -1874592774
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265428
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2896,
+    "DataImpl": {},
     "ID": 38,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 38,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 38,
+    "HFOBLLLHHLP": {
       "hash": -1874592773
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265427
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2936,
+    "DataImpl": {},
     "ID": 39,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 39,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 39,
+    "HFOBLLLHHLP": {
       "hash": -1874592772
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265426
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 2976,
+    "DataImpl": {},
     "ID": 40,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 40,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 40,
+    "HFOBLLLHHLP": {
       "hash": -1874592750
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265404
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3016,
+    "DataImpl": {},
     "ID": 41,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 41,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 41,
+    "HFOBLLLHHLP": {
       "hash": -1874592749
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265403
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3056,
+    "DataImpl": {},
     "ID": 42,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 42,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 42,
+    "HFOBLLLHHLP": {
       "hash": -1874592748
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265402
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3096,
+    "DataImpl": {},
     "ID": 43,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 43,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 43,
+    "HFOBLLLHHLP": {
       "hash": -1874592747
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265401
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3136,
+    "DataImpl": {},
     "ID": 44,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 44,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 44,
+    "HFOBLLLHHLP": {
       "hash": -1874592746
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265400
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3176,
+    "DataImpl": {},
     "ID": 50,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 50,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 50,
+    "HFOBLLLHHLP": {
       "hash": -1874592719
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265373
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3216,
+    "DataImpl": {},
     "ID": 51,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 51,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 51,
+    "HFOBLLLHHLP": {
       "hash": -1874592718
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265372
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3256,
+    "DataImpl": {},
     "ID": 52,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 52,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 52,
+    "HFOBLLLHHLP": {
       "hash": -1874592717
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265371
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3296,
+    "DataImpl": {},
     "ID": 53,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 53,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 53,
+    "HFOBLLLHHLP": {
       "hash": -1874592716
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265370
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3336,
+    "DataImpl": {},
     "ID": 54,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 54,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 54,
+    "HFOBLLLHHLP": {
       "hash": -1874592715
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265369
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3376,
+    "DataImpl": {},
     "ID": 55,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 55,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 55,
+    "HFOBLLLHHLP": {
       "hash": -1874592714
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265368
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3416,
+    "DataImpl": {},
     "ID": 56,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 56,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 56,
+    "HFOBLLLHHLP": {
       "hash": -1874592713
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265367
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3456,
+    "DataImpl": {},
     "ID": 57,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 57,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 57,
+    "HFOBLLLHHLP": {
       "hash": -1874592712
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265366
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3496,
+    "DataImpl": {},
     "ID": 58,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 58,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 58,
+    "HFOBLLLHHLP": {
       "hash": -1874592711
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265365
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3536,
+    "DataImpl": {},
     "ID": 59,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 59,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 59,
+    "HFOBLLLHHLP": {
       "hash": -1874592710
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265364
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3576,
+    "DataImpl": {},
     "ID": 60,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 60,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 60,
+    "HFOBLLLHHLP": {
       "hash": -1874592688
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265342
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3616,
+    "DataImpl": {},
     "ID": 61,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 61,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 61,
+    "HFOBLLLHHLP": {
       "hash": -1874592687
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265341
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3656,
+    "DataImpl": {},
     "ID": 62,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 62,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 62,
+    "HFOBLLLHHLP": {
       "hash": -1874592686
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265340
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3696,
+    "DataImpl": {},
     "ID": 63,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 3,
-    "MHLNJHJLLJC": 63,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 3,
+    "KBOLPAFCJEO": 63,
+    "HFOBLLLHHLP": {
       "hash": -1874592685
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -172265339
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3736,
+    "DataImpl": {},
     "ID": 10101,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10101,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10101,
+    "HFOBLLLHHLP": {
       "hash": 1464412701
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 524546219
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3776,
+    "DataImpl": {},
     "ID": 10201,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10201,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10201,
+    "HFOBLLLHHLP": {
       "hash": 1464413662
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 524547180
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3816,
+    "DataImpl": {},
     "ID": 10301,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10301,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10301,
+    "HFOBLLLHHLP": {
       "hash": 1464414623
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 524548141
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3856,
+    "DataImpl": {},
     "ID": 10401,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 2,
-    "MHLNJHJLLJC": 10401,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 2,
+    "KBOLPAFCJEO": 10401,
+    "HFOBLLLHHLP": {
       "hash": 1464415584
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 524549102
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3896,
+    "DataImpl": {},
     "ID": 10402,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 2,
-    "MHLNJHJLLJC": 10402,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 2,
+    "KBOLPAFCJEO": 10402,
+    "HFOBLLLHHLP": {
       "hash": 1464415585
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 524549103
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3936,
+    "DataImpl": {},
     "ID": 10403,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 2,
-    "MHLNJHJLLJC": 10403,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 2,
+    "KBOLPAFCJEO": 10403,
+    "HFOBLLLHHLP": {
       "hash": 1464415586
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 524549104
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 3976,
+    "DataImpl": {},
     "ID": 10501,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10501,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10501,
+    "HFOBLLLHHLP": {
       "hash": 1464416545
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4016,
+    "DataImpl": {},
     "ID": 10502,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10502,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10502,
+    "HFOBLLLHHLP": {
       "hash": 1464416546
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4056,
+    "DataImpl": {},
     "ID": 10503,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10503,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10503,
+    "HFOBLLLHHLP": {
       "hash": 1464416547
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4096,
+    "DataImpl": {},
     "ID": 10504,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10504,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10504,
+    "HFOBLLLHHLP": {
       "hash": 1464416548
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4136,
+    "DataImpl": {},
     "ID": 10601,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10601,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10601,
+    "HFOBLLLHHLP": {
       "hash": 1464417506
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4176,
+    "DataImpl": {},
     "ID": 10701,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10701,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10701,
+    "HFOBLLLHHLP": {
       "hash": 1464418467
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4216,
+    "DataImpl": {},
     "ID": 10801,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10801,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10801,
+    "HFOBLLLHHLP": {
       "hash": 1464419428
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4256,
+    "DataImpl": {},
     "ID": 10901,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10901,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10901,
+    "HFOBLLLHHLP": {
       "hash": 1464420389
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4296,
+    "DataImpl": {},
     "ID": 10902,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10902,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10902,
+    "HFOBLLLHHLP": {
       "hash": 1464420390
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4336,
+    "DataImpl": {},
     "ID": 10903,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 10903,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 10903,
+    "HFOBLLLHHLP": {
       "hash": 1464420391
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -2083766935
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4376,
+    "DataImpl": {},
     "ID": 11001,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 11001,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 11001,
+    "HFOBLLLHHLP": {
       "hash": 1464441531
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4416,
+    "DataImpl": {},
     "ID": 11002,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 11002,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 11002,
+    "HFOBLLLHHLP": {
       "hash": 1464441532
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4456,
+    "DataImpl": {},
     "ID": 11003,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 11003,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 11003,
+    "HFOBLLLHHLP": {
       "hash": 1464441533
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4496,
+    "DataImpl": {},
     "ID": 11101,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 11101,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 11101,
+    "HFOBLLLHHLP": {
       "hash": 1464442492
     },
-    "KGEIFFLPLNC": false,
-    "LockedText": {
+    "JBJADHILKNP": 0,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4536,
+    "DataImpl": {},
     "ID": 11201,
-    "ActivityType": 1,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 11201,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 1,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 11201,
+    "HFOBLLLHHLP": {
       "hash": 1464443453
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4576,
+    "DataImpl": {},
     "ID": 20101,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20101,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20101,
+    "HFOBLLLHHLP": {
       "hash": 1465336222
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525469740
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4665,
+    "DataImpl": {},
     "ID": 20201,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20201,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20201,
+    "HFOBLLLHHLP": {
       "hash": 1465337183
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525470701
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4754,
+    "DataImpl": {},
     "ID": 20301,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20301,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20301,
+    "HFOBLLLHHLP": {
       "hash": 1465338144
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525471662
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4843,
+    "DataImpl": {},
     "ID": 20401,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20401,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20401,
+    "HFOBLLLHHLP": {
       "hash": 1465339105
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525472623
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_Common",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_Common",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 4929,
+    "DataImpl": {},
     "ID": 20501,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20501,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20501,
+    "HFOBLLLHHLP": {
       "hash": 1465340066
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525473584
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5017,
+    "DataImpl": {},
     "ID": 20601,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20601,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20601,
+    "HFOBLLLHHLP": {
       "hash": 1465341027
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525474545
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5106,
+    "DataImpl": {},
     "ID": 20701,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20701,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20701,
+    "HFOBLLLHHLP": {
       "hash": 1465341988
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525475506
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5195,
+    "DataImpl": {},
     "ID": 20801,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20801,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20801,
+    "HFOBLLLHHLP": {
       "hash": 1465342949
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525476467
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5284,
+    "DataImpl": {},
     "ID": 20802,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20802,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20802,
+    "HFOBLLLHHLP": {
       "hash": 1465342950
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525476468
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5373,
+    "DataImpl": {},
     "ID": 20803,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20803,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20803,
+    "HFOBLLLHHLP": {
       "hash": 1465342951
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525476469
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5462,
+    "DataImpl": {},
     "ID": 20901,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 20901,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 20901,
+    "HFOBLLLHHLP": {
       "hash": 1465343910
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525477428
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5551,
+    "DataImpl": {},
     "ID": 21001,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21001,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21001,
+    "HFOBLLLHHLP": {
       "hash": 1465365052
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525498570
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5639,
+    "DataImpl": {},
     "ID": 21101,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21101,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21101,
+    "HFOBLLLHHLP": {
       "hash": 1465366013
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525499531
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5727,
+    "DataImpl": {},
     "ID": 21201,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21201,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21201,
+    "HFOBLLLHHLP": {
       "hash": 1465366974
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525500492
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5816,
+    "DataImpl": {},
     "ID": 21202,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21202,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21202,
+    "HFOBLLLHHLP": {
       "hash": 1465366975
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525500493
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5905,
+    "DataImpl": {},
     "ID": 21203,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21203,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21203,
+    "HFOBLLLHHLP": {
       "hash": 1465366976
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525500494
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 5994,
+    "DataImpl": {},
     "ID": 21204,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21204,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21204,
+    "HFOBLLLHHLP": {
       "hash": 1465366977
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525500495
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6083,
+    "DataImpl": {},
     "ID": 21301,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21301,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21301,
+    "HFOBLLLHHLP": {
       "hash": 1465367935
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525501453
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6172,
+    "DataImpl": {},
     "ID": 21401,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21401,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21401,
+    "HFOBLLLHHLP": {
       "hash": 1465368896
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525502414
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6261,
+    "DataImpl": {},
     "ID": 21501,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21501,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21501,
+    "HFOBLLLHHLP": {
       "hash": 1465369857
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525503375
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6350,
+    "DataImpl": {},
     "ID": 21601,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21601,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21601,
+    "HFOBLLLHHLP": {
       "hash": 1465370818
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525504336
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6439,
+    "DataImpl": {},
     "ID": 21701,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21701,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21701,
+    "HFOBLLLHHLP": {
       "hash": 1465371779
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525505297
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6528,
+    "DataImpl": {},
     "ID": 21801,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21801,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21801,
+    "HFOBLLLHHLP": {
       "hash": 1465372740
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525506258
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6617,
+    "DataImpl": {},
     "ID": 21901,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21901,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21901,
+    "HFOBLLLHHLP": {
       "hash": 1465373701
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525507219
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6706,
+    "DataImpl": {},
     "ID": 21911,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21911,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21911,
+    "HFOBLLLHHLP": {
       "hash": 1465373732
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525507250
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6794,
+    "DataImpl": {},
     "ID": 21912,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21912,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21912,
+    "HFOBLLLHHLP": {
       "hash": 1465373733
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525507251
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6882,
+    "DataImpl": {},
     "ID": 21913,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 21913,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 21913,
+    "HFOBLLLHHLP": {
       "hash": 1465373734
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525507252
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 6971,
+    "DataImpl": {},
     "ID": 22101,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22101,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22101,
+    "HFOBLLLHHLP": {
       "hash": 1465395804
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525529322
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7060,
+    "DataImpl": {},
     "ID": 22102,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22102,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22102,
+    "HFOBLLLHHLP": {
       "hash": 1465395805
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525529323
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7149,
+    "DataImpl": {},
     "ID": 22103,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22103,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22103,
+    "HFOBLLLHHLP": {
       "hash": 1465395806
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525529324
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7238,
+    "DataImpl": {},
     "ID": 22201,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22201,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22201,
+    "HFOBLLLHHLP": {
       "hash": 1465396765
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525530283
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7327,
+    "DataImpl": {},
     "ID": 22202,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22202,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22202,
+    "HFOBLLLHHLP": {
       "hash": 1465396766
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525530284
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7416,
+    "DataImpl": {},
     "ID": 22204,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22204,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22204,
+    "HFOBLLLHHLP": {
       "hash": 1465396768
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525530286
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7505,
+    "DataImpl": {},
     "ID": 22205,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22205,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22205,
+    "HFOBLLLHHLP": {
       "hash": 1465396769
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525530287
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7594,
+    "DataImpl": {},
     "ID": 22301,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22301,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22301,
+    "HFOBLLLHHLP": {
       "hash": 1465397726
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525531244
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7683,
+    "DataImpl": {},
     "ID": 22303,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22303,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22303,
+    "HFOBLLLHHLP": {
       "hash": 1465397728
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525531246
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7772,
+    "DataImpl": {},
     "ID": 22304,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22304,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22304,
+    "HFOBLLLHHLP": {
       "hash": 1465397729
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525531247
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7861,
+    "DataImpl": {},
     "ID": 22401,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22401,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22401,
+    "HFOBLLLHHLP": {
       "hash": 1465398687
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525532205
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 7950,
+    "DataImpl": {},
     "ID": 22402,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22402,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22402,
+    "HFOBLLLHHLP": {
       "hash": 1465398688
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525532206
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8039,
+    "DataImpl": {},
     "ID": 22501,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22501,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22501,
+    "HFOBLLLHHLP": {
       "hash": 1465399648
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525533166
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8128,
+    "DataImpl": {},
     "ID": 22502,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22502,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22502,
+    "HFOBLLLHHLP": {
       "hash": 1465399649
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525533167
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8217,
+    "DataImpl": {},
     "ID": 22503,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22503,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22503,
+    "HFOBLLLHHLP": {
       "hash": 1465399650
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525533168
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8306,
+    "DataImpl": {},
     "ID": 22601,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22601,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22601,
+    "HFOBLLLHHLP": {
       "hash": 1465400609
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525534127
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8395,
+    "DataImpl": {},
     "ID": 22602,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22602,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22602,
+    "HFOBLLLHHLP": {
       "hash": 1465400610
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525534128
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8484,
+    "DataImpl": {},
     "ID": 22603,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22603,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22603,
+    "HFOBLLLHHLP": {
       "hash": 1465400611
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525534129
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8573,
+    "DataImpl": {},
     "ID": 22604,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22604,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22604,
+    "HFOBLLLHHLP": {
       "hash": 1465400612
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525534130
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8662,
+    "DataImpl": {},
     "ID": 22605,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22605,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22605,
+    "HFOBLLLHHLP": {
       "hash": 1465400613
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525534131
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8751,
+    "DataImpl": {},
     "ID": 22701,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22701,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22701,
+    "HFOBLLLHHLP": {
       "hash": 1465401570
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525535088
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8840,
+    "DataImpl": {},
     "ID": 22702,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22702,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22702,
+    "HFOBLLLHHLP": {
       "hash": 1465401571
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525535089
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 8929,
+    "DataImpl": {},
     "ID": 22703,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22703,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22703,
+    "HFOBLLLHHLP": {
       "hash": 1465401572
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525535090
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9018,
+    "DataImpl": {},
     "ID": 22704,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22704,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22704,
+    "HFOBLLLHHLP": {
       "hash": 1465401573
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525535091
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9107,
+    "DataImpl": {},
     "ID": 22705,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 4,
-    "MHLNJHJLLJC": 22705,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 4,
+    "KBOLPAFCJEO": 22705,
+    "HFOBLLLHHLP": {
       "hash": 1465401574
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525535092
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9196,
+    "DataImpl": {},
     "ID": 23101,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 2,
-    "MHLNJHJLLJC": 23101,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 2,
+    "KBOLPAFCJEO": 23101,
+    "HFOBLLLHHLP": {
       "hash": 1465425595
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525559113
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Audio_Common",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Audio_Common",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9283,
+    "DataImpl": {},
     "ID": 24101,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 24101,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 24101,
+    "HFOBLLLHHLP": {
       "hash": 1465455386
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525588904
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9371,
+    "DataImpl": {},
     "ID": 24201,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 24201,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 24201,
+    "HFOBLLLHHLP": {
       "hash": 1465456347
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525589865
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9459,
+    "DataImpl": {},
     "ID": 24301,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 24301,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 24301,
+    "HFOBLLLHHLP": {
       "hash": 1465457308
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525590826
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9547,
+    "DataImpl": {},
     "ID": 24401,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 24401,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 24401,
+    "HFOBLLLHHLP": {
       "hash": 1465458269
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525591787
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9635,
+    "DataImpl": {},
     "ID": 24501,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 24501,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 24501,
+    "HFOBLLLHHLP": {
       "hash": 1465459230
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525592748
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9723,
+    "DataImpl": {},
     "ID": 24601,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 24601,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 24601,
+    "HFOBLLLHHLP": {
       "hash": 1465460191
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525593709
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9811,
+    "DataImpl": {},
     "ID": 24701,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 24701,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 24701,
+    "HFOBLLLHHLP": {
       "hash": 1465461152
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525594670
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9899,
+    "DataImpl": {},
     "ID": 24801,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 24801,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 24801,
+    "HFOBLLLHHLP": {
       "hash": 1465462113
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525595631
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 9987,
+    "DataImpl": {},
     "ID": 24901,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 24901,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 24901,
+    "HFOBLLLHHLP": {
       "hash": 1465463074
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525596592
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10076,
+    "DataImpl": {},
     "ID": 25101,
-    "ActivityType": 2,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 25101,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 2,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 25101,
+    "HFOBLLLHHLP": {
       "hash": 1465485177
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": 525618695
     },
-    "FLKJOGDIAGN": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10164,
+    "DataImpl": {},
     "ID": 30101,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 30101,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 30101,
+    "HFOBLLLHHLP": {
       "hash": 1466259743
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10204,
+    "DataImpl": {},
     "ID": 30201,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 30201,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 30201,
+    "HFOBLLLHHLP": {
       "hash": 1466260704
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10244,
+    "DataImpl": {},
     "ID": 30301,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 30301,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 30301,
+    "HFOBLLLHHLP": {
       "hash": 1466261665
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10284,
+    "DataImpl": {},
     "ID": 30302,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 30302,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 30302,
+    "HFOBLLLHHLP": {
       "hash": 1466261666
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10324,
+    "DataImpl": {},
     "ID": 30303,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 30303,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 30303,
+    "HFOBLLLHHLP": {
       "hash": 1466261667
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10364,
+    "DataImpl": {},
     "ID": 30401,
-    "ActivityType": 3,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 30401,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 3,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 30401,
+    "HFOBLLLHHLP": {
       "hash": 1466262626
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10404,
+    "DataImpl": {},
     "ID": 40001,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40001,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40001,
+    "HFOBLLLHHLP": {
       "hash": 1467182303
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10444,
+    "DataImpl": {},
     "ID": 40002,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40002,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40002,
+    "HFOBLLLHHLP": {
       "hash": 1467182304
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10484,
+    "DataImpl": {},
     "ID": 40003,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40003,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40003,
+    "HFOBLLLHHLP": {
       "hash": 1467182305
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10524,
+    "DataImpl": {},
     "ID": 40004,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40004,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40004,
+    "HFOBLLLHHLP": {
       "hash": 1467182306
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10564,
+    "DataImpl": {},
     "ID": 40005,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40005,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40005,
+    "HFOBLLLHHLP": {
       "hash": 1467182307
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10604,
+    "DataImpl": {},
     "ID": 40006,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40006,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40006,
+    "HFOBLLLHHLP": {
       "hash": 1467182308
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10644,
+    "DataImpl": {},
     "ID": 40008,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40008,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40008,
+    "HFOBLLLHHLP": {
       "hash": 1467182310
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10723,
+    "DataImpl": {},
     "ID": 40009,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40009,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40009,
+    "HFOBLLLHHLP": {
       "hash": 1467182311
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10802,
+    "DataImpl": {},
     "ID": 40010,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40010,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40010,
+    "HFOBLLLHHLP": {
       "hash": 1467182333
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": true,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10881,
+    "DataImpl": {},
     "ID": 40011,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40011,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40011,
+    "HFOBLLLHHLP": {
       "hash": 1467182334
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 10960,
+    "DataImpl": {},
     "ID": 40012,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40012,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40012,
+    "HFOBLLLHHLP": {
       "hash": 1467182335
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 11039,
+    "DataImpl": {},
     "ID": 40013,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40013,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40013,
+    "HFOBLLLHHLP": {
       "hash": 1467182336
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 11118,
+    "DataImpl": {},
     "ID": 40014,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40014,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40014,
+    "HFOBLLLHHLP": {
       "hash": 1467182337
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 11197,
+    "DataImpl": {},
     "ID": 40015,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40015,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40015,
+    "HFOBLLLHHLP": {
       "hash": 1467182338
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 11276,
+    "DataImpl": {},
     "ID": 40016,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40016,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40016,
+    "HFOBLLLHHLP": {
       "hash": 1467182339
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 11355,
+    "DataImpl": {},
     "ID": 40017,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40017,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40017,
+    "HFOBLLLHHLP": {
       "hash": 1467182340
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 11434,
+    "DataImpl": {},
     "ID": 40018,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40018,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40018,
+    "HFOBLLLHHLP": {
       "hash": 1467182341
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 11513,
+    "DataImpl": {},
     "ID": 40019,
-    "ActivityType": 0,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 40019,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 0,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40019,
+    "HFOBLLLHHLP": {
       "hash": 1467182342
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": false,
-    "LJGJNMDCPLL": false,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": 0,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 11592,
+    "DataImpl": {},
+    "ID": 40020,
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40020,
+    "HFOBLLLHHLP": {
+      "hash": 1467182364
+    },
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
+      "hash": -1466703527
+    },
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
+  },
+  {
+    "_readOffset": 11671,
+    "DataImpl": {},
+    "ID": 40021,
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40021,
+    "HFOBLLLHHLP": {
+      "hash": 1467182365
+    },
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
+      "hash": -1466703527
+    },
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
+  },
+  {
+    "_readOffset": 11750,
+    "DataImpl": {},
+    "ID": 40022,
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 40022,
+    "HFOBLLLHHLP": {
+      "hash": 1467182366
+    },
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
+      "hash": -1466703527
+    },
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": true,
+    "DNFABDGJBAI": 0,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
+  },
+  {
+    "_readOffset": 11829,
+    "DataImpl": {},
     "ID": 4000701,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 4000701,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 4000701,
+    "HFOBLLLHHLP": {
       "hash": 1212927398
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 11908,
+    "DataImpl": {},
     "ID": 4000702,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 4000702,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 4000702,
+    "HFOBLLLHHLP": {
       "hash": 1212927399
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 11987,
+    "DataImpl": {},
     "ID": 4000703,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 4000703,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 4000703,
+    "HFOBLLLHHLP": {
       "hash": 1212927400
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 12066,
+    "DataImpl": {},
     "ID": 4000704,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 4000704,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 4000704,
+    "HFOBLLLHHLP": {
       "hash": 1212927401
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 12145,
+    "DataImpl": {},
     "ID": 4000705,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 4000705,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 4000705,
+    "HFOBLLLHHLP": {
       "hash": 1212927402
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 12224,
+    "DataImpl": {},
     "ID": 4000706,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 4000706,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 4000706,
+    "HFOBLLLHHLP": {
       "hash": 1212927403
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   },
   {
+    "_readOffset": 12303,
+    "DataImpl": {},
     "ID": 4000707,
-    "ActivityType": 4,
-    "ILPMPCKEOEG": 1,
-    "MHLNJHJLLJC": 4000707,
-    "JDOJACMMJCN": {
+    "KGGFGJPLKFH": 4,
+    "AMCNIPLJLML": 1,
+    "KBOLPAFCJEO": 4000707,
+    "HFOBLLLHHLP": {
       "hash": 1212927404
     },
-    "KGEIFFLPLNC": true,
-    "LockedText": {
+    "JBJADHILKNP": true,
+    "CPIKBOLJOHN": {
       "hash": -1466703527
     },
-    "FLKJOGDIAGN": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "OPBLEEMCONA": false,
-    "KNOEHCLIKEO": true,
-    "LJGJNMDCPLL": true,
-    "APKFAAPHONE": ""
+    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "GKGMGMIHAEP": 0,
+    "DNFABDGJBAI": true,
+    "OENHMCKCABI": true,
+    "CHFHCMBFAJD": ""
   }
 ]

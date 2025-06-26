@@ -1,7 +1,9 @@
 [
   {
+    "_readOffset": 916380,
+    "DataImpl": {},
     "SpaceShipConfigID": 0,
-    "EADCIPNEMKA": false,
+    "LJKGNKDKEOK": 0,
     "Display": true,
     "SpecialTag": false,
     "ThemeUIConfig": 0,
@@ -13,7 +15,7 @@
       401998,
       401999
     ],
-    "OEPOOHPCCGA": [
+    "MPIHBNAELKI": [
       401998,
       401999,
       402000
@@ -37,8 +39,10 @@
     "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab01"
   },
   {
+    "_readOffset": 916596,
+    "DataImpl": {},
     "SpaceShipConfigID": 400001,
-    "EADCIPNEMKA": false,
+    "LJKGNKDKEOK": 0,
     "Display": false,
     "SpecialTag": false,
     "ThemeUIConfig": 100,
@@ -50,7 +54,7 @@
     "ThemeBGMConfigList": [
       401000
     ],
-    "OEPOOHPCCGA": [
+    "MPIHBNAELKI": [
       401000
     ],
     "WeatherGroupConfig": 1,
@@ -72,8 +76,10 @@
     "GiftBGPath": "SpriteOutput/LevelDetailPic/ScenePicArcCity09"
   },
   {
+    "_readOffset": 916845,
+    "DataImpl": {},
     "SpaceShipConfigID": 400002,
-    "EADCIPNEMKA": false,
+    "LJKGNKDKEOK": 0,
     "Display": true,
     "SpecialTag": false,
     "ThemeUIConfig": 0,
@@ -85,7 +91,7 @@
       401000,
       401001
     ],
-    "OEPOOHPCCGA": [
+    "MPIHBNAELKI": [
       401000,
       401001
     ],
@@ -111,8 +117,10 @@
     "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab02"
   },
   {
+    "_readOffset": 917061,
+    "DataImpl": {},
     "SpaceShipConfigID": 400003,
-    "EADCIPNEMKA": false,
+    "LJKGNKDKEOK": 0,
     "Display": true,
     "SpecialTag": false,
     "ThemeUIConfig": 0,
@@ -125,7 +133,7 @@
       401003,
       401004
     ],
-    "OEPOOHPCCGA": [
+    "MPIHBNAELKI": [
       401002,
       401003,
       401004
@@ -154,8 +162,10 @@
     "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab03"
   },
   {
+    "_readOffset": 917289,
+    "DataImpl": {},
     "SpaceShipConfigID": 400004,
-    "EADCIPNEMKA": false,
+    "LJKGNKDKEOK": 0,
     "Display": true,
     "SpecialTag": false,
     "ThemeUIConfig": 0,
@@ -167,7 +177,7 @@
       401005,
       401006
     ],
-    "OEPOOHPCCGA": [
+    "MPIHBNAELKI": [
       401005,
       401006
     ],
@@ -194,8 +204,10 @@
     "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab04"
   },
   {
+    "_readOffset": 917507,
+    "DataImpl": {},
     "SpaceShipConfigID": 400005,
-    "EADCIPNEMKA": false,
+    "LJKGNKDKEOK": 0,
     "Display": true,
     "SpecialTag": true,
     "ThemeUIConfig": 0,
@@ -206,7 +218,7 @@
     "ThemeBGMConfigList": [
       401010
     ],
-    "OEPOOHPCCGA": [
+    "MPIHBNAELKI": [
       401010
     ],
     "WeatherGroupConfig": 5,
@@ -232,8 +244,10 @@
     "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab05"
   },
   {
+    "_readOffset": 917717,
+    "DataImpl": {},
     "SpaceShipConfigID": 400006,
-    "EADCIPNEMKA": false,
+    "LJKGNKDKEOK": 0,
     "Display": true,
     "SpecialTag": false,
     "ThemeUIConfig": 0,
@@ -246,7 +260,7 @@
       401009,
       401011
     ],
-    "OEPOOHPCCGA": [
+    "MPIHBNAELKI": [
       401008,
       401009,
       401011
@@ -274,8 +288,10 @@
     "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab06"
   },
   {
+    "_readOffset": 917943,
+    "DataImpl": {},
     "SpaceShipConfigID": 400007,
-    "EADCIPNEMKA": true,
+    "LJKGNKDKEOK": true,
     "Display": true,
     "SpecialTag": false,
     "ThemeUIConfig": 0,
@@ -288,7 +304,7 @@
       401009,
       401011
     ],
-    "OEPOOHPCCGA": [
+    "MPIHBNAELKI": [
       401008,
       401009,
       401011,
