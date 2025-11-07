@@ -1,3152 +1,3500 @@
 [
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146001
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146002
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146003
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146004
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146005
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146006
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146007
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146008
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146009
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146010
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146011
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146012
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146013
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146014
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146015
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146016
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146017
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146018
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146019
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146020
-	},
-	{
-		"NeedScore": 720,
-		"MaxScore": 720,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146021
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146022
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146023
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146024
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146025
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146026
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146027
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146028
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146029
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146030
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146031
-	},
-	{
-		"NeedScore": 4000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146032
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146033
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146034
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146035
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146036
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146037
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146038
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146039
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146040
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146041
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146042
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146043
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146044
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146045
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146046
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146047
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146048
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146049
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146050
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146051
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146052
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146053
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146054
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146055
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146056
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146057
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146058
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146059
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146060
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146061
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146062
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146063
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146064
-	},
-	{
-		"NeedScore": 1500,
-		"MaxScore": 1500,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146065
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146066
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146067
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146068
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146069
-	},
-	{
-		"NeedScore": 3800,
-		"MaxScore": 3800,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146070
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146071
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146072
-	},
-	{
-		"NeedScore": 2700,
-		"MaxScore": 2700,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146073
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146074
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146075
-	},
-	{
-		"NeedScore": 3700,
-		"MaxScore": 3700,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146076
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146077
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146078
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146079
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146080
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146081
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146082
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146083
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146084
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146085
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146086
-	},
-	{
-		"NeedScore": 2700,
-		"MaxScore": 2700,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146087
-	},
-	{
-		"NeedScore": 2400,
-		"MaxScore": 2400,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146088
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146089
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146090
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146091
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146092
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146093
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146094
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146095
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146096
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146097
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146098
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146099
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146100
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146201
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146202
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146203
-	},
-	{
-		"NeedScore": 1700,
-		"MaxScore": 1700,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146204
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146205
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146206
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146207
-	},
-	{
-		"NeedScore": 1500,
-		"MaxScore": 1500,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146208
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146209
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146210
-	},
-	{
-		"NeedScore": 2500,
-		"MaxScore": 2500,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146211
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146212
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 146213
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153001
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153002
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153003
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153004
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153005
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153006
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153007
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153008
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153009
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153010
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153011
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153012
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153013
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153014
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153015
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153016
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153017
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153018
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153019
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153020
-	},
-	{
-		"NeedScore": 720,
-		"MaxScore": 720,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153021
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153022
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153023
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153024
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153025
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153026
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153027
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153028
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 4000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153029
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153030
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 1,
-		"StageID": 153031
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146001
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146002
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146003
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146004
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146005
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146006
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146007
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146008
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146009
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146010
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146011
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146012
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146013
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146014
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146015
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146017
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146018
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146019
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146020
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146021
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146022
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146023
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146024
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146025
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146026
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146028
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146030
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146031
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146032
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146033
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146034
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146036
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146037
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146038
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146039
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146040
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146041
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146042
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146043
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146044
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146045
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146046
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146047
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146048
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146050
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146051
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146054
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146056
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146057
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146059
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146060
-	},
-	{
-		"NeedScore": 1500,
-		"MaxScore": 1500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146065
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146066
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146070
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146071
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146072
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146073
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146076
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146077
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146078
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146079
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146080
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146081
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146083
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146085
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146086
-	},
-	{
-		"NeedScore": 1200,
-		"MaxScore": 1200,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146087
-	},
-	{
-		"NeedScore": 1100,
-		"MaxScore": 1100,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146088
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146089
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146090
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146091
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146093
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146094
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146095
-	},
-	{
-		"NeedScore": 2100,
-		"MaxScore": 2100,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146204
-	},
-	{
-		"NeedScore": 1500,
-		"MaxScore": 2500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146208
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146209
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146210
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146211
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146212
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 146213
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153001
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153002
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153003
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153004
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153005
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153006
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153007
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153008
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153009
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153010
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153011
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153012
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153013
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153014
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153015
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153017
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153018
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153019
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153020
-	},
-	{
-		"NeedScore": 500,
-		"MaxScore": 500,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153021
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153022
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153023
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153024
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153025
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153026
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153028
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153030
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 2,
-		"StageID": 153031
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146001
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146002
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146004
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146005
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146006
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146008
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146009
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146010
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146012
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146013
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146014
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146017
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146018
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146019
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146021
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146022
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146023
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146024
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146025
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146026
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146028
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146031
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146033
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146034
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146036
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146037
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146040
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146041
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146042
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146043
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146048
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146050
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146051
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146054
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146059
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146060
-	},
-	{
-		"NeedScore": 1500,
-		"MaxScore": 1500,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146065
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146066
-	},
-	{
-		"NeedScore": 1700,
-		"MaxScore": 1700,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146070
-	},
-	{
-		"NeedScore": 2500,
-		"MaxScore": 2500,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146071
-	},
-	{
-		"NeedScore": 2800,
-		"MaxScore": 2800,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146073
-	},
-	{
-		"NeedScore": 1800,
-		"MaxScore": 1800,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146076
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146077
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146078
-	},
-	{
-		"NeedScore": 1500,
-		"MaxScore": 1500,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146079
-	},
-	{
-		"NeedScore": 2500,
-		"MaxScore": 2500,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146080
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146081
-	},
-	{
-		"NeedScore": 2100,
-		"MaxScore": 2100,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146087
-	},
-	{
-		"NeedScore": 2500,
-		"MaxScore": 2500,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146088
-	},
-	{
-		"NeedScore": 2500,
-		"MaxScore": 2500,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146089
-	},
-	{
-		"NeedScore": 2500,
-		"MaxScore": 2500,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146090
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146094
-	},
-	{
-		"NeedScore": 2500,
-		"MaxScore": 2500,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146095
-	},
-	{
-		"NeedScore": 2200,
-		"MaxScore": 2200,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146204
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146210
-	},
-	{
-		"NeedScore": 3000,
-		"MaxScore": 3000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 146211
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153001
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153002
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153004
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153005
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153006
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153008
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153009
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153010
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153012
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153013
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153014
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153017
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153018
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153019
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153021
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153022
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153023
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153024
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153025
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153026
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153028
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 3,
-		"StageID": 153031
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146001
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146002
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146004
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146005
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146006
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146008
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146009
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146010
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146012
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146013
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146014
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146017
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146018
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146019
-	},
-	{
-		"NeedScore": 1500,
-		"MaxScore": 1500,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146021
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146022
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146023
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146024
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146025
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146026
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146028
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146031
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146033
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146034
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146036
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146037
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146041
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146042
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146043
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146048
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146051
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146054
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146059
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146060
-	},
-	{
-		"NeedScore": 1500,
-		"MaxScore": 1500,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146065
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146066
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146077
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146078
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 146079
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153001
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153002
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153004
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153005
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153006
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153008
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153009
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153010
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153012
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153013
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153014
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153017
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153018
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153019
-	},
-	{
-		"NeedScore": 1500,
-		"MaxScore": 1500,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153021
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153022
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153023
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153024
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153025
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153026
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153028
-	},
-	{
-		"NeedScore": 1000,
-		"MaxScore": 1000,
-		"DataImpl": {},
-		"FloorID": 4,
-		"StageID": 153031
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146001
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146002
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146004
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146005
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146006
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146008
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146009
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146010
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146012
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146013
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146014
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146017
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146018
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146019
-	},
-	{
-		"NeedScore": 2280,
-		"MaxScore": 2280,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146021
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146022
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146023
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146024
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146025
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146026
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146028
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146031
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146033
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146034
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146036
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146037
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146041
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146042
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146043
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146048
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146051
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146059
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146060
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146066
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146077
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 146078
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153001
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153002
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153004
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153005
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153006
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153008
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153009
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153010
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153012
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153013
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153014
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153017
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153018
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153019
-	},
-	{
-		"NeedScore": 2280,
-		"MaxScore": 2280,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153021
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153022
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153023
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153024
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153025
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153026
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153028
-	},
-	{
-		"NeedScore": 2000,
-		"MaxScore": 2000,
-		"DataImpl": {},
-		"FloorID": 5,
-		"StageID": 153031
-	}
+  {
+    "StageID": 146001,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146002,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146003,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146004,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146005,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146006,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146007,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146008,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146009,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146010,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146011,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146012,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146013,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146014,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146015,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146016,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146017,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146018,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146019,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146020,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146021,
+    "FloorID": 1,
+    "NeedScore": 720,
+    "MaxScore": 720
+  },
+  {
+    "StageID": 146022,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146023,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146024,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146025,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146026,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146027,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146028,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146029,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146030,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146031,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146032,
+    "FloorID": 1,
+    "NeedScore": 4000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146033,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146034,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146035,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146036,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146037,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146038,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146039,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146040,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146041,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146042,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146043,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146044,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146045,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146046,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146047,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146048,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146049,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146050,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146051,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146052,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146053,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146054,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146055,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146056,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146057,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146058,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146059,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146060,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146061,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146062,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146063,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146064,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146065,
+    "FloorID": 1,
+    "NeedScore": 1500,
+    "MaxScore": 1500
+  },
+  {
+    "StageID": 146066,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146067,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146068,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146069,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146070,
+    "FloorID": 1,
+    "NeedScore": 3800,
+    "MaxScore": 3800
+  },
+  {
+    "StageID": 146071,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146072,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146073,
+    "FloorID": 1,
+    "NeedScore": 2700,
+    "MaxScore": 2700
+  },
+  {
+    "StageID": 146074,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146075,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146076,
+    "FloorID": 1,
+    "NeedScore": 3700,
+    "MaxScore": 3700
+  },
+  {
+    "StageID": 146077,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146078,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146079,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146080,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146081,
+    "FloorID": 1,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146082,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146083,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146084,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146085,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146086,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146087,
+    "FloorID": 1,
+    "NeedScore": 2700,
+    "MaxScore": 2700
+  },
+  {
+    "StageID": 146088,
+    "FloorID": 1,
+    "NeedScore": 2400,
+    "MaxScore": 2400
+  },
+  {
+    "StageID": 146089,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146090,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146091,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146092,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146093,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146094,
+    "FloorID": 1,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146095,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146096,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146097,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146098,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146099,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146100,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146201,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146202,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146203,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146204,
+    "FloorID": 1,
+    "NeedScore": 1700,
+    "MaxScore": 1700
+  },
+  {
+    "StageID": 146205,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146206,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146207,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146208,
+    "FloorID": 1,
+    "NeedScore": 1500,
+    "MaxScore": 1500
+  },
+  {
+    "StageID": 146209,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146210,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146211,
+    "FloorID": 1,
+    "NeedScore": 2500,
+    "MaxScore": 2500
+  },
+  {
+    "StageID": 146212,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146213,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146214,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146215,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146216,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146217,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146218,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146219,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146220,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146221,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146222,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146223,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146224,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146225,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146226,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146227,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146228,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146229,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146230,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146231,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146232,
+    "FloorID": 1,
+    "NeedScore": 1200,
+    "MaxScore": 1200
+  },
+  {
+    "StageID": 146233,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146234,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146235,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146236,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146237,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146238,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146239,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146240,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146241,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146242,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146243,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146244,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146245,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146246,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146247,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146248,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146249,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146250,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146251,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146252,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146253,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146254,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146255,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146256,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146257,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146258,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146259,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146260,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146261,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146262,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146263,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146264,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146265,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146266,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146267,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146268,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146269,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146270,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146271,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146272,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146273,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146274,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146275,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146276,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146277,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146278,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146279,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146280,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146281,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146282,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146283,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146284,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146285,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146286,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146287,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146288,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146289,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146290,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146291,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146292,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146293,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146294,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 146295,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 153001,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153002,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153003,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153004,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153005,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153006,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153007,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153008,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153009,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153010,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153011,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153012,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153013,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153014,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153015,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153016,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 153017,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153018,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153019,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153020,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153021,
+    "FloorID": 1,
+    "NeedScore": 720,
+    "MaxScore": 720
+  },
+  {
+    "StageID": 153022,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153023,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153024,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153025,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153026,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153027,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 153028,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153029,
+    "FloorID": 1,
+    "NeedScore": 3000,
+    "MaxScore": 4000
+  },
+  {
+    "StageID": 153030,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153031,
+    "FloorID": 1,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146001,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146002,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146003,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146004,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146005,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146006,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146007,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146008,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146009,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146010,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146011,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146012,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146013,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146014,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146015,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146017,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146018,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146019,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146020,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146021,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146022,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146023,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146024,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146025,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146026,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146028,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146030,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146031,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146032,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146033,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146034,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146036,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146037,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146038,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146039,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146040,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146041,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146042,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146043,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146044,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146045,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146046,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146047,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146048,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146050,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146051,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146054,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146056,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146057,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146059,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146060,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146065,
+    "FloorID": 2,
+    "NeedScore": 1500,
+    "MaxScore": 1500
+  },
+  {
+    "StageID": 146066,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146070,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146071,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146072,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146073,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146076,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146077,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146078,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146079,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146080,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146081,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146083,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146085,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146086,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146087,
+    "FloorID": 2,
+    "NeedScore": 1200,
+    "MaxScore": 1200
+  },
+  {
+    "StageID": 146088,
+    "FloorID": 2,
+    "NeedScore": 1100,
+    "MaxScore": 1100
+  },
+  {
+    "StageID": 146089,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146090,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146091,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146093,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146094,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146095,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146204,
+    "FloorID": 2,
+    "NeedScore": 2100,
+    "MaxScore": 2100
+  },
+  {
+    "StageID": 146208,
+    "FloorID": 2,
+    "NeedScore": 1500,
+    "MaxScore": 2500
+  },
+  {
+    "StageID": 146209,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146210,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146211,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 146212,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146213,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146216,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146217,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146219,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146222,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146223,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146226,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146227,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146232,
+    "FloorID": 2,
+    "NeedScore": 800,
+    "MaxScore": 800
+  },
+  {
+    "StageID": 146233,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146234,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146236,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146241,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146242,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146243,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146244,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146249,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146250,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146253,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146267,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146274,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146285,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146286,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146287,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146288,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146290,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146292,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 153001,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153002,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153003,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 153004,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153005,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153006,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153007,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 153008,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153009,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153010,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153011,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 153012,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153013,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153014,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153015,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 153017,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153018,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153019,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153020,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 153021,
+    "FloorID": 2,
+    "NeedScore": 500,
+    "MaxScore": 500
+  },
+  {
+    "StageID": 153022,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153023,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153024,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153025,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153026,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153028,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153030,
+    "FloorID": 2,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 153031,
+    "FloorID": 2,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146001,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146002,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146004,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146005,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146006,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146008,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146009,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146010,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146012,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146013,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146014,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146017,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146018,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146019,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146021,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146022,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146023,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146024,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146025,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146026,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146028,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146031,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146033,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146034,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146036,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146037,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146040,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146041,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146042,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146043,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146048,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146050,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146051,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146054,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146059,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146060,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146065,
+    "FloorID": 3,
+    "NeedScore": 1500,
+    "MaxScore": 1500
+  },
+  {
+    "StageID": 146066,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146070,
+    "FloorID": 3,
+    "NeedScore": 1700,
+    "MaxScore": 1700
+  },
+  {
+    "StageID": 146071,
+    "FloorID": 3,
+    "NeedScore": 2500,
+    "MaxScore": 2500
+  },
+  {
+    "StageID": 146073,
+    "FloorID": 3,
+    "NeedScore": 2800,
+    "MaxScore": 2800
+  },
+  {
+    "StageID": 146076,
+    "FloorID": 3,
+    "NeedScore": 1800,
+    "MaxScore": 1800
+  },
+  {
+    "StageID": 146077,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146078,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146079,
+    "FloorID": 3,
+    "NeedScore": 1500,
+    "MaxScore": 1500
+  },
+  {
+    "StageID": 146080,
+    "FloorID": 3,
+    "NeedScore": 2500,
+    "MaxScore": 2500
+  },
+  {
+    "StageID": 146081,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146087,
+    "FloorID": 3,
+    "NeedScore": 2100,
+    "MaxScore": 2100
+  },
+  {
+    "StageID": 146088,
+    "FloorID": 3,
+    "NeedScore": 2500,
+    "MaxScore": 2500
+  },
+  {
+    "StageID": 146089,
+    "FloorID": 3,
+    "NeedScore": 2500,
+    "MaxScore": 2500
+  },
+  {
+    "StageID": 146090,
+    "FloorID": 3,
+    "NeedScore": 2500,
+    "MaxScore": 2500
+  },
+  {
+    "StageID": 146094,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146095,
+    "FloorID": 3,
+    "NeedScore": 2500,
+    "MaxScore": 2500
+  },
+  {
+    "StageID": 146204,
+    "FloorID": 3,
+    "NeedScore": 2200,
+    "MaxScore": 2200
+  },
+  {
+    "StageID": 146210,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146211,
+    "FloorID": 3,
+    "NeedScore": 3000,
+    "MaxScore": 3000
+  },
+  {
+    "StageID": 146216,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146217,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146222,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146223,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146226,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146227,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146232,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146233,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146234,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146243,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146244,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146249,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146250,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146285,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146286,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146287,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146288,
+    "FloorID": 3,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153001,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153002,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153004,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153005,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153006,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153008,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153009,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153010,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153012,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153013,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153014,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153017,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153018,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153019,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153021,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153022,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153023,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153024,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153025,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153026,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153028,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153031,
+    "FloorID": 3,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146001,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146002,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146004,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146005,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146006,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146008,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146009,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146010,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146012,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146013,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146014,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146017,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146018,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146019,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146021,
+    "FloorID": 4,
+    "NeedScore": 1500,
+    "MaxScore": 1500
+  },
+  {
+    "StageID": 146022,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146023,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146024,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146025,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146026,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146028,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146031,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146033,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146034,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146036,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146037,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146041,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146042,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146043,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146048,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146051,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146054,
+    "FloorID": 4,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146059,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146060,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146065,
+    "FloorID": 4,
+    "NeedScore": 1500,
+    "MaxScore": 1500
+  },
+  {
+    "StageID": 146066,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146077,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146078,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146079,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146243,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146244,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146249,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146250,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153001,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153002,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153004,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153005,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153006,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153008,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153009,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153010,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153012,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153013,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153014,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153017,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153018,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153019,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153021,
+    "FloorID": 4,
+    "NeedScore": 1500,
+    "MaxScore": 1500
+  },
+  {
+    "StageID": 153022,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153023,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153024,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153025,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153026,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153028,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 153031,
+    "FloorID": 4,
+    "NeedScore": 1000,
+    "MaxScore": 1000
+  },
+  {
+    "StageID": 146001,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146002,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146004,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146005,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146006,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146008,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146009,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146010,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146012,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146013,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146014,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146017,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146018,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146019,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146021,
+    "FloorID": 5,
+    "NeedScore": 2280,
+    "MaxScore": 2280
+  },
+  {
+    "StageID": 146022,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146023,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146024,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146025,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146026,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146028,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146031,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146033,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146034,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146036,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146037,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146041,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146042,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146043,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146048,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146051,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146059,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146060,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146066,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146077,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146078,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146243,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146244,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146249,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 146250,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153001,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153002,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153004,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153005,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153006,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153008,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153009,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153010,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153012,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153013,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153014,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153017,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153018,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153019,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153021,
+    "FloorID": 5,
+    "NeedScore": 2280,
+    "MaxScore": 2280
+  },
+  {
+    "StageID": 153022,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153023,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153024,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153025,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153026,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153028,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  },
+  {
+    "StageID": 153031,
+    "FloorID": 5,
+    "NeedScore": 2000,
+    "MaxScore": 2000
+  }
 ]

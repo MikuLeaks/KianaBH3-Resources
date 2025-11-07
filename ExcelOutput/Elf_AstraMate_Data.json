@@ -1,1164 +1,1071 @@
 [
   {
-    "_readOffset": 840688,
-    "DataImpl": {},
     "ElfID": 101,
-    "EIKIIOMPIPL": [
-      10101,
-      10102
-    ],
-    "DIIMGABIMLO": 2,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 2,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940258
+      "Hash": -1348940258
     },
     "ElfUIModelPath": "Entities/Elf/Elf_01/Elf_01_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.3199999928474426,
-      "z": 3.740000009536743
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.3199999928474426,
+      "Z": 3.740000009536743
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_01",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10001",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10001",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10001",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg1",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg1",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10001",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10001",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10001",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg1",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg1",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 1,
+    "NOEIIKFKPCJ": 1,
     "MaxRarity": 7,
     "Rarity": 3,
     "elfCardID": 380101,
     "elfFragmentID": 370101,
-    "DNONKNEBBDL": "BK_Elf_01_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_01_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_01_BloodEmbrace_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_01_BloodEmbrace_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414472
+    "MEEONBCGHPB": "VO_Elf_01_BloodEmbrace_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414472
     },
     "TagList": [
       {
         "TagID": 1003,
         "TagComment": {
-          "hash": -2127232172
+          "Hash": -2127232172
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144503
+    "KNHJFEABEKP": {
+      "Hash": 1359144503
     },
-    "PDGKHPCPGHF": [],
-    "HEGHKPNDCLF": 0
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 841206,
-    "DataImpl": {},
     "ElfID": 102,
-    "EIKIIOMPIPL": [
-      10201,
-      10202
-    ],
-    "DIIMGABIMLO": 1,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 1,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940257
+      "Hash": -1348940257
     },
     "ElfUIModelPath": "Entities/Elf/Elf_02/Elf_02_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.8199999928474426,
-      "z": 3.740000009536743
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.8199999928474426,
+      "Z": 3.740000009536743
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_02",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10002",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10002",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10002",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg2",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg2",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10002",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10002",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10002",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg2",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg2",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 1,
+    "NOEIIKFKPCJ": 1,
     "MaxRarity": 7,
     "Rarity": 3,
     "elfCardID": 380102,
     "elfFragmentID": 370102,
-    "DNONKNEBBDL": "BK_Elf_02_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_02_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_02_JWwings_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_02_JWwings_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414473
+    "MEEONBCGHPB": "VO_Elf_02_JWwings_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414473
     },
     "TagList": [
       {
         "TagID": 1004,
         "TagComment": {
-          "hash": -2127232171
+          "Hash": -2127232171
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144504
+    "KNHJFEABEKP": {
+      "Hash": 1359144504
     },
-    "PDGKHPCPGHF": [],
-    "HEGHKPNDCLF": 0
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 841714,
-    "DataImpl": {},
     "ElfID": 103,
-    "EIKIIOMPIPL": [
-      10301,
-      10302
-    ],
-    "DIIMGABIMLO": 3,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 3,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940256
+      "Hash": -1348940256
     },
     "ElfUIModelPath": "Entities/Elf/Elf_03/Elf_03_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.3199999928474426,
-      "z": 3.740000009536743
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.3199999928474426,
+      "Z": 3.740000009536743
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_03",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10003",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10003",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10003",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg3",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg3",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10003",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10003",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10003",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg3",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg3",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380103,
     "elfFragmentID": 370103,
-    "DNONKNEBBDL": "BK_Elf_03_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_03_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_03_SelunesElegy_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_03_SelunesElegy_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414474
+    "MEEONBCGHPB": "VO_Elf_03_SelunesElegy_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414474
     },
     "TagList": [
       {
         "TagID": 1005,
         "TagComment": {
-          "hash": -2127232170
+          "Hash": -2127232170
         }
       },
       {
         "TagID": 1007,
         "TagComment": {
-          "hash": -2127232168
+          "Hash": -2127232168
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144505
+    "KNHJFEABEKP": {
+      "Hash": 1359144505
     },
-    "PDGKHPCPGHF": [],
-    "HEGHKPNDCLF": 0
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 842241,
-    "DataImpl": {},
     "ElfID": 106,
-    "EIKIIOMPIPL": [
-      10601,
-      10602
-    ],
-    "DIIMGABIMLO": 6,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 6,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940253
+      "Hash": -1348940253
     },
     "ElfUIModelPath": "Entities/Elf/Elf_06/Elf_06_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.8199999928474426,
-      "z": 3.75
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.8199999928474426,
+      "Z": 3.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 1.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 1.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_06",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10006",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10006",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10006",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg6",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg6",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10006",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10006",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10006",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg6",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg6",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380106,
     "elfFragmentID": 370106,
-    "DNONKNEBBDL": "BK_Elf_06_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_06_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_06_BookOfFuxi_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_06_BookOfFuxi_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414477
+    "MEEONBCGHPB": "VO_Elf_06_BookOfFuxi_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414477
     },
     "TagList": [
       {
         "TagID": 1004,
         "TagComment": {
-          "hash": -2127232171
+          "Hash": -2127232171
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144508
+    "KNHJFEABEKP": {
+      "Hash": 1359144508
     },
-    "PDGKHPCPGHF": [],
-    "HEGHKPNDCLF": 0
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 842755,
-    "DataImpl": {},
     "ElfID": 108,
-    "EIKIIOMPIPL": [
-      10801,
-      10802
-    ],
-    "DIIMGABIMLO": 8,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 8,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940251
+      "Hash": -1348940251
     },
     "ElfUIModelPath": "Entities/Elf/Elf_08/Elf_08_UI",
-    "DABFAPHMAOB": {
-      "x": 0.16500000655651093,
-      "y": -0.2199999988079071,
-      "z": 3.75
+    "GPLCJBIHGKB": {
+      "X": 0.16500000655651093,
+      "Y": -0.2199999988079071,
+      "Z": 3.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 1.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 1.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_08",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10008",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10008",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10008",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg8",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg8",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10008",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10008",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10008",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg8",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg8",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380108,
     "elfFragmentID": 370108,
-    "DNONKNEBBDL": "BK_Elf_08_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_08_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_08_WotanFists_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_08_WotanFists_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414479
+    "MEEONBCGHPB": "VO_Elf_08_WotanFists_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414479
     },
     "TagList": [
       {
         "TagID": 1003,
         "TagComment": {
-          "hash": -2127232172
+          "Hash": -2127232172
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144510
+    "KNHJFEABEKP": {
+      "Hash": 1359144510
     },
-    "PDGKHPCPGHF": [
+    "LBAMBKGCICN": [
       37234
     ],
-    "HEGHKPNDCLF": 0
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 843273,
-    "DataImpl": {},
     "ElfID": 109,
-    "EIKIIOMPIPL": [
-      10901,
-      10902
-    ],
-    "DIIMGABIMLO": 9,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 9,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940250
+      "Hash": -1348940250
     },
     "ElfUIModelPath": "Entities/Elf/Elf_09/Elf_09_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.9300000071525574,
-      "z": 3.75
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.9300000071525574,
+      "Z": 3.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 1.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 1.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_09",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10009",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10009",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10009",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg9",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg9",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10009",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10009",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10009",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg9",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg9",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380109,
     "elfFragmentID": 370109,
-    "DNONKNEBBDL": "BK_Elf_09_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_09_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_09_Benares_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_09_Benares_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414480
+    "MEEONBCGHPB": "VO_Elf_09_Benares_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414480
     },
     "TagList": [
       {
         "TagID": 1006,
         "TagComment": {
-          "hash": -2127232169
+          "Hash": -2127232169
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144511
+    "KNHJFEABEKP": {
+      "Hash": 1359144511
     },
-    "PDGKHPCPGHF": [],
-    "HEGHKPNDCLF": 0
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 843781,
-    "DataImpl": {},
     "ElfID": 110,
-    "EIKIIOMPIPL": [
-      11001,
-      11002
-    ],
-    "DIIMGABIMLO": 10,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 10,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940228
+      "Hash": -1348940228
     },
     "ElfUIModelPath": "Entities/Elf/Elf_10/Elf_10_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.9300000071525574,
-      "z": 3.75
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.9300000071525574,
+      "Z": 3.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 1.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 1.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_10",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10010",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10010",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10010",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg10",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg10",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10010",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10010",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10010",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg10",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg10",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380110,
     "elfFragmentID": 370110,
-    "DNONKNEBBDL": "BK_Elf_10_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_10_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_10_Ruoshui_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_10_Ruoshui_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414502
+    "MEEONBCGHPB": "VO_Elf_10_Ruoshui_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414502
     },
     "TagList": [
       {
         "TagID": 1005,
         "TagComment": {
-          "hash": -2127232170
+          "Hash": -2127232170
         }
       },
       {
         "TagID": 1018,
         "TagComment": {
-          "hash": -2127232136
+          "Hash": -2127232136
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144533
+    "KNHJFEABEKP": {
+      "Hash": 1359144533
     },
-    "PDGKHPCPGHF": [
+    "LBAMBKGCICN": [
       37254
     ],
-    "HEGHKPNDCLF": 0
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 844304,
-    "DataImpl": {},
     "ElfID": 111,
-    "EIKIIOMPIPL": [
-      11101,
-      11102
-    ],
-    "DIIMGABIMLO": 11,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 11,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940227
+      "Hash": -1348940227
     },
     "ElfUIModelPath": "Entities/Elf/Elf_11/Elf_11_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.9700000286102295,
-      "z": 3.75
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.9700000286102295,
+      "Z": 3.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 1.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 1.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_11",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10011",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10011",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10011",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg11",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg11",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10011",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10011",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10011",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg11",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg11",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380111,
     "elfFragmentID": 370111,
-    "DNONKNEBBDL": "BK_Elf_11_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_11_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_11_Sirin_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_11_Sirin_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414503
+    "MEEONBCGHPB": "VO_Elf_11_Sirin_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414503
     },
     "TagList": [
       {
         "TagID": 1004,
         "TagComment": {
-          "hash": -2127232171
+          "Hash": -2127232171
         }
       },
       {
         "TagID": 1010,
         "TagComment": {
-          "hash": -2127232144
+          "Hash": -2127232144
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144534
+    "KNHJFEABEKP": {
+      "Hash": 1359144534
     },
-    "PDGKHPCPGHF": [
+    "LBAMBKGCICN": [
       37305
     ],
-    "HEGHKPNDCLF": 0
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 844823,
-    "DataImpl": {},
     "ElfID": 112,
-    "EIKIIOMPIPL": [
-      11201,
-      11202
-    ],
-    "DIIMGABIMLO": 12,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 12,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940226
+      "Hash": -1348940226
     },
     "ElfUIModelPath": "Entities/Elf/Elf_12/Elf_12_UI",
-    "DABFAPHMAOB": {
-      "x": 0.16500000655651093,
-      "y": -0.25,
-      "z": 3.75
+    "GPLCJBIHGKB": {
+      "X": 0.16500000655651093,
+      "Y": -0.25,
+      "Z": 3.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 1.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 1.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_12",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10012",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10012",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10012",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg12",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg12",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10012",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10012",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10012",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg12",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg12",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380112,
     "elfFragmentID": 370112,
-    "DNONKNEBBDL": "BK_Elf_12_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_12_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_12_Klein_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_12_Klein_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414504
+    "MEEONBCGHPB": "VO_Elf_12_Klein_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414504
     },
     "TagList": [
       {
         "TagID": 1006,
         "TagComment": {
-          "hash": -2127232169
+          "Hash": -2127232169
         }
       },
       {
         "TagID": 1008,
         "TagComment": {
-          "hash": -2127232167
+          "Hash": -2127232167
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144535
+    "KNHJFEABEKP": {
+      "Hash": 1359144535
     },
-    "PDGKHPCPGHF": [
+    "LBAMBKGCICN": [
       37321
     ],
-    "HEGHKPNDCLF": 0
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 845342,
-    "DataImpl": {},
     "ElfID": 113,
-    "EIKIIOMPIPL": [
-      11301,
-      11302
-    ],
-    "DIIMGABIMLO": 13,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 13,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940225
+      "Hash": -1348940225
     },
     "ElfUIModelPath": "Entities/Elf/Elf_13/Elf_13_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.9300000071525574,
-      "z": 3.75
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.9300000071525574,
+      "Z": 3.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_13",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10013",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10013",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10013",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg13",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg13",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10013",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10013",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10013",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg13",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg13",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380113,
     "elfFragmentID": 370113,
-    "DNONKNEBBDL": "BK_Elf_13_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_13_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_13_DurSword_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_13_DurSword_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414505
+    "MEEONBCGHPB": "VO_Elf_13_DurSword_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414505
     },
     "TagList": [
       {
         "TagID": 1003,
         "TagComment": {
-          "hash": -2127232172
+          "Hash": -2127232172
         }
       },
       {
         "TagID": 1018,
         "TagComment": {
-          "hash": -2127232136
+          "Hash": -2127232136
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144536
+    "KNHJFEABEKP": {
+      "Hash": 1359144536
     },
-    "PDGKHPCPGHF": [
+    "LBAMBKGCICN": [
       37327
     ],
-    "HEGHKPNDCLF": 0
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 845867,
-    "DataImpl": {},
     "ElfID": 114,
-    "EIKIIOMPIPL": [
-      11402,
-      11401
-    ],
-    "DIIMGABIMLO": 14,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 14,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940224
+      "Hash": -1348940224
     },
     "ElfUIModelPath": "Entities/Elf/Elf_14/Elf_14_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.9300000071525574,
-      "z": 3.75
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.9300000071525574,
+      "Z": 3.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_14",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10014",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10014",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10014",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg14",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg14",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10014",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10014",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10014",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg14",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg14",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380114,
     "elfFragmentID": 370114,
-    "DNONKNEBBDL": "BK_Elf_14_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_14_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_14_ElfEly_LevelUp",
-    "APFNCMKDAAN": "VO_Elf_14_ElfEly_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414506
+    "MEEONBCGHPB": "VO_Elf_14_ElfEly_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414506
     },
     "TagList": [
       {
         "TagID": 1005,
         "TagComment": {
-          "hash": -2127232170
+          "Hash": -2127232170
         }
       },
       {
         "TagID": 1018,
         "TagComment": {
-          "hash": -2127232136
+          "Hash": -2127232136
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144537
+    "KNHJFEABEKP": {
+      "Hash": 1359144537
     },
-    "PDGKHPCPGHF": [
+    "LBAMBKGCICN": [
       37341
     ],
-    "HEGHKPNDCLF": 0
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 846388,
-    "DataImpl": {},
     "ElfID": 115,
-    "EIKIIOMPIPL": [
-      11502,
-      11501
-    ],
-    "DIIMGABIMLO": 15,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 15,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940223
+      "Hash": -1348940223
     },
     "ElfUIModelPath": "Entities/Elf/Elf_15/Elf_15_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.9300000071525574,
-      "z": 3.75
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.9300000071525574,
+      "Z": 3.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_15",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10015",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10015",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10015",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg15",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg15",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10015",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10015",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10015",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg15",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg15",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380115,
     "elfFragmentID": 370115,
-    "DNONKNEBBDL": "BK_Elf_15_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_15_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_15_Kiana_LevelUp_1",
-    "APFNCMKDAAN": "VO_Elf_15_Kiana_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414507
+    "MEEONBCGHPB": "VO_Elf_15_Kiana_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414507
     },
     "TagList": [
       {
         "TagID": 1004,
         "TagComment": {
-          "hash": -2127232171
+          "Hash": -2127232171
         }
       },
       {
         "TagID": 1006,
         "TagComment": {
-          "hash": -2127232169
+          "Hash": -2127232169
         }
       },
       {
         "TagID": 1018,
         "TagComment": {
-          "hash": -2127232136
+          "Hash": -2127232136
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144538
+    "KNHJFEABEKP": {
+      "Hash": 1359144538
     },
-    "PDGKHPCPGHF": [
+    "LBAMBKGCICN": [
       37354
     ],
-    "HEGHKPNDCLF": 0
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 846918,
-    "DataImpl": {},
     "ElfID": 116,
-    "EIKIIOMPIPL": [
-      11601,
-      11602
-    ],
-    "DIIMGABIMLO": 16,
-    "OPBLACPCIHA": 1,
+    "NMFNJJBBEOO": 16,
+    "PACCHBJEPIA": 1,
     "FullName": {
-      "hash": -1348940222
+      "Hash": -1348940222
     },
     "ElfUIModelPath": "Entities/Elf/Elf_16/Elf_16_UI",
-    "DABFAPHMAOB": {
-      "x": 0.13500000536441803,
-      "y": -0.9300000071525574,
-      "z": 3.75
+    "GPLCJBIHGKB": {
+      "X": 0.13500000536441803,
+      "Y": -0.9300000071525574,
+      "Z": 3.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -7.199999809265137,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -7.199999809265137,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/ElfIcon/Elf_16",
-    "MPLFOJLKHME": "",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/Elf_10016",
-    "PIDAALJFBCK": "SpriteOutput/ElfCardFigures/Elf_10016",
-    "DGGEEKECKCM": "SpriteOutput/ElfCardFigures/Elf_10016",
-    "FDJBPODIPMB": "SpriteOutput/ElfTalentBg/TalentBg16",
-    "AKMPNAEIBIC": "SpriteOutput/ElfTalentBg/TalentBg16",
+    "DGJICMLNFEE": "",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/Elf_10016",
+    "CMIMCBFPJAB": "SpriteOutput/ElfCardFigures/Elf_10016",
+    "GHCKIIBLGLK": "SpriteOutput/ElfCardFigures/Elf_10016",
+    "IKLDKBHFKEI": "SpriteOutput/ElfTalentBg/TalentBg16",
+    "BICCMJLCJCD": "SpriteOutput/ElfTalentBg/TalentBg16",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 2,
+    "NOEIIKFKPCJ": 2,
     "MaxRarity": 7,
     "Rarity": 4,
     "elfCardID": 380116,
     "elfFragmentID": 370116,
-    "DNONKNEBBDL": "BK_Elf_16_VO_MainMenu",
+    "ABCIPBFKBEN": "BK_Elf_16_VO_MainMenu",
     "LevelUpAudio": "VO_Elf_16_Rabbit_LevelUp_1",
-    "APFNCMKDAAN": "VO_Elf_16_Rabbit_SwitchIn",
-    "MOBPLLDDIBH": {
-      "hash": 1611414508
+    "MEEONBCGHPB": "VO_Elf_16_Rabbit_SwitchIn",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414508
     },
     "TagList": [
       {
         "TagID": 1003,
         "TagComment": {
-          "hash": -2127232172
+          "Hash": -2127232172
         }
       },
       {
         "TagID": 1018,
         "TagComment": {
-          "hash": -2127232136
+          "Hash": -2127232136
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144539
+    "KNHJFEABEKP": {
+      "Hash": 1359144539
     },
-    "PDGKHPCPGHF": [
+    "LBAMBKGCICN": [
       37362
     ],
-    "HEGHKPNDCLF": 0
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 847441,
-    "DataImpl": {},
     "ElfID": 120,
-    "EIKIIOMPIPL": [
-      12001,
-      12002,
-      12003,
-      12004,
-      12005,
-      12006,
-      12007,
-      12008,
-      12009,
-      12012,
-      12010,
-      12013,
-      12011,
-      12014
-    ],
-    "DIIMGABIMLO": 20,
-    "OPBLACPCIHA": 3,
+    "NMFNJJBBEOO": 20,
+    "PACCHBJEPIA": 3,
     "FullName": {
-      "hash": -344169980
+      "Hash": -344169980
     },
     "ElfUIModelPath": "Entities/Elf/Elf_120_Entropy/Elf_120_Entropy_UI",
-    "DABFAPHMAOB": {
-      "x": 0.43799999356269836,
-      "y": -1.1699999570846558,
-      "z": 2.950000047683716
+    "GPLCJBIHGKB": {
+      "X": 0.43799999356269836,
+      "Y": -1.1699999570846558,
+      "Z": 2.950000047683716
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -9.550000190734863,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -9.550000190734863,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/AstraIcon/AstraMate_01",
-    "MPLFOJLKHME": "SpriteOutput/AstraIconSide/AstraMate_01",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/AstraMate_01",
-    "PIDAALJFBCK": "SpriteOutput/AstraCardFigures/AstraMate_01",
-    "DGGEEKECKCM": "SpriteOutput/AstraCardFigures/AstraMate_01",
-    "FDJBPODIPMB": "",
-    "AKMPNAEIBIC": "",
+    "DGJICMLNFEE": "SpriteOutput/AstraIconSide/AstraMate_01",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/AstraMate_01",
+    "CMIMCBFPJAB": "SpriteOutput/AstraCardFigures/AstraMate_01",
+    "GHCKIIBLGLK": "SpriteOutput/AstraCardFigures/AstraMate_01",
+    "IKLDKBHFKEI": "",
+    "BICCMJLCJCD": "",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 1,
+    "NOEIIKFKPCJ": 1,
     "MaxRarity": 3,
     "Rarity": 4,
     "elfCardID": 380120,
     "elfFragmentID": 370120,
-    "DNONKNEBBDL": "BK_VO_GalTouch_Entropy_1P",
+    "ABCIPBFKBEN": "BK_VO_GalTouch_Entropy_1P",
     "LevelUpAudio": "VO_M_1P_LevelUp",
-    "APFNCMKDAAN": "VO_Ngal_Player_1P_3_1",
-    "MOBPLLDDIBH": {
-      "hash": 1611414533
+    "MEEONBCGHPB": "VO_Ngal_Player_1P_3_1",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414533
     },
     "TagList": [
       {
         "TagID": 1006,
         "TagComment": {
-          "hash": -2127232169
+          "Hash": -2127232169
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144564
+    "KNHJFEABEKP": {
+      "Hash": 1359144564
     },
-    "PDGKHPCPGHF": [],
-    "HEGHKPNDCLF": 0
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 847996,
-    "DataImpl": {},
     "ElfID": 130,
-    "EIKIIOMPIPL": [
-      13001,
-      13002,
-      13003,
-      13004,
-      13005,
-      13006,
-      13007,
-      13008,
-      13009,
-      13010,
-      13011
-    ],
-    "DIIMGABIMLO": 30,
-    "OPBLACPCIHA": 3,
+    "NMFNJJBBEOO": 30,
+    "PACCHBJEPIA": 3,
     "FullName": {
-      "hash": -344169949
+      "Hash": -344169949
     },
     "ElfUIModelPath": "Entities/Elf/Elf_130_Entropy/Elf_130_Entropy_UI",
-    "DABFAPHMAOB": {
-      "x": 0.43799999356269836,
-      "y": -1.1699999570846558,
-      "z": 2.950000047683716
+    "GPLCJBIHGKB": {
+      "X": 0.43799999356269836,
+      "Y": -1.1699999570846558,
+      "Z": 2.950000047683716
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -9.550000190734863,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -9.550000190734863,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/AstraIcon/AstraMate_02",
-    "MPLFOJLKHME": "SpriteOutput/AstraIconSide/AstraMate_02",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/AstraMate_02",
-    "PIDAALJFBCK": "SpriteOutput/AstraCardFigures/AstraMate_02",
-    "DGGEEKECKCM": "SpriteOutput/AstraCardFigures/AstraMate_02",
-    "FDJBPODIPMB": "",
-    "AKMPNAEIBIC": "",
+    "DGJICMLNFEE": "SpriteOutput/AstraIconSide/AstraMate_02",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/AstraMate_02",
+    "CMIMCBFPJAB": "SpriteOutput/AstraCardFigures/AstraMate_02",
+    "GHCKIIBLGLK": "SpriteOutput/AstraCardFigures/AstraMate_02",
+    "IKLDKBHFKEI": "",
+    "BICCMJLCJCD": "",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 1,
+    "NOEIIKFKPCJ": 1,
     "MaxRarity": 3,
     "Rarity": 4,
     "elfCardID": 380130,
     "elfFragmentID": 370120,
-    "DNONKNEBBDL": "BK_VO_GalTouch_Entropy_2P",
+    "ABCIPBFKBEN": "BK_VO_GalTouch_Entropy_2P",
     "LevelUpAudio": "",
-    "APFNCMKDAAN": "VO_Ngal_Player_2P_3_1",
-    "MOBPLLDDIBH": {
-      "hash": 1611414564
+    "MEEONBCGHPB": "VO_Ngal_Player_2P_3_1",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414564
     },
     "TagList": [
       {
         "TagID": 1006,
         "TagComment": {
-          "hash": -2127232169
+          "Hash": -2127232169
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144595
+    "KNHJFEABEKP": {
+      "Hash": 1359144595
     },
-    "PDGKHPCPGHF": [],
-    "HEGHKPNDCLF": 0
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 848524,
-    "DataImpl": {},
     "ElfID": 140,
-    "EIKIIOMPIPL": [
-      14001,
-      14002,
-      14003,
-      14004,
-      14005,
-      14006,
-      14007,
-      14008,
-      14009,
-      14010,
-      14011
-    ],
-    "DIIMGABIMLO": 40,
-    "OPBLACPCIHA": 2,
+    "NMFNJJBBEOO": 40,
+    "PACCHBJEPIA": 2,
     "FullName": {
-      "hash": -344169918
+      "Hash": -344169918
     },
     "ElfUIModelPath": "Entities/Elf/Elf_140_Songque/Elf_140_Songque_UI",
-    "DABFAPHMAOB": {
-      "x": 0.41600000858306885,
-      "y": -1.1100000143051147,
-      "z": 2.75
+    "GPLCJBIHGKB": {
+      "X": 0.41600000858306885,
+      "Y": -1.1100000143051147,
+      "Z": 2.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -9.550000190734863,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -9.550000190734863,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/AstraIcon/AstraMate_03",
-    "MPLFOJLKHME": "SpriteOutput/AstraIconSide/AstraMate_03",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/AstraMate_03",
-    "PIDAALJFBCK": "SpriteOutput/AstraCardFigures/AstraMate_03",
-    "DGGEEKECKCM": "SpriteOutput/AstraCardFigures/AstraMate_03",
-    "FDJBPODIPMB": "",
-    "AKMPNAEIBIC": "",
+    "DGJICMLNFEE": "SpriteOutput/AstraIconSide/AstraMate_03",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/AstraMate_03",
+    "CMIMCBFPJAB": "SpriteOutput/AstraCardFigures/AstraMate_03",
+    "GHCKIIBLGLK": "SpriteOutput/AstraCardFigures/AstraMate_03",
+    "IKLDKBHFKEI": "",
+    "BICCMJLCJCD": "",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 1,
+    "NOEIIKFKPCJ": 1,
     "MaxRarity": 3,
     "Rarity": 4,
     "elfCardID": 380140,
     "elfFragmentID": 370140,
-    "DNONKNEBBDL": "BK_VO_GalTouch_Songque",
+    "ABCIPBFKBEN": "BK_VO_GalTouch_Songque",
     "LevelUpAudio": "VO_Ngal_SQ_3_1",
-    "APFNCMKDAAN": "VO_Ngal_SQ_3_2",
-    "MOBPLLDDIBH": {
-      "hash": 1611414595
+    "MEEONBCGHPB": "VO_Ngal_SQ_3_2",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414595
     },
     "TagList": [
       {
         "TagID": 1006,
         "TagComment": {
-          "hash": -2127232169
+          "Hash": -2127232169
         }
       },
       {
         "TagID": 1150,
         "TagComment": {
-          "hash": -2127232167
+          "Hash": -2127232167
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144626
+    "KNHJFEABEKP": {
+      "Hash": 1359144626
     },
-    "PDGKHPCPGHF": [],
-    "HEGHKPNDCLF": 0
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 849065,
-    "DataImpl": {},
     "ElfID": 150,
-    "EIKIIOMPIPL": [
-      15001,
-      15002,
-      15003,
-      15004,
-      15005,
-      15006,
-      15007,
-      15008,
-      15009,
-      15010,
-      15011
-    ],
-    "DIIMGABIMLO": 50,
-    "OPBLACPCIHA": 2,
+    "NMFNJJBBEOO": 50,
+    "PACCHBJEPIA": 2,
     "FullName": {
-      "hash": -344169887
+      "Hash": -344169887
     },
     "ElfUIModelPath": "Entities/Elf/Elf_150_Serapeum/Elf_150_Serapeum_UI",
-    "DABFAPHMAOB": {
-      "x": 0.41600000858306885,
-      "y": -1.1100000143051147,
-      "z": 2.75
+    "GPLCJBIHGKB": {
+      "X": 0.41600000858306885,
+      "Y": -1.1100000143051147,
+      "Z": 2.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -9.550000190734863,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -9.550000190734863,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/AstraIcon/AstraMate_04",
-    "MPLFOJLKHME": "SpriteOutput/AstraIconSide/AstraMate_04",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/AstraMate_04",
-    "PIDAALJFBCK": "SpriteOutput/AstraCardFigures/AstraMate_04",
-    "DGGEEKECKCM": "SpriteOutput/AstraCardFigures/AstraMate_04",
-    "FDJBPODIPMB": "",
-    "AKMPNAEIBIC": "",
+    "DGJICMLNFEE": "SpriteOutput/AstraIconSide/AstraMate_04",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/AstraMate_04",
+    "CMIMCBFPJAB": "SpriteOutput/AstraCardFigures/AstraMate_04",
+    "GHCKIIBLGLK": "SpriteOutput/AstraCardFigures/AstraMate_04",
+    "IKLDKBHFKEI": "",
+    "BICCMJLCJCD": "",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 1,
+    "NOEIIKFKPCJ": 1,
     "MaxRarity": 3,
     "Rarity": 4,
     "elfCardID": 380150,
     "elfFragmentID": 370150,
-    "DNONKNEBBDL": "BK_VO_GalTouch_Serapeum_Assister",
+    "ABCIPBFKBEN": "BK_VO_GalTouch_Serapeum_Assister",
     "LevelUpAudio": "VO_Ngal_Ser_3_1",
-    "APFNCMKDAAN": "VO_Ngal_Ser_3_2",
-    "MOBPLLDDIBH": {
-      "hash": 1611414626
+    "MEEONBCGHPB": "VO_Ngal_Ser_3_2",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414626
     },
     "TagList": [
       {
         "TagID": 1003,
         "TagComment": {
-          "hash": -2127232172
+          "Hash": -2127232172
         }
       },
       {
         "TagID": 1152,
         "TagComment": {
-          "hash": -2127232167
+          "Hash": -2127232167
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144657
+    "KNHJFEABEKP": {
+      "Hash": 1359144657
     },
-    "PDGKHPCPGHF": [],
-    "HEGHKPNDCLF": 0
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
   },
   {
-    "_readOffset": 849620,
-    "DataImpl": {},
     "ElfID": 160,
-    "EIKIIOMPIPL": [
-      16001,
-      16002,
-      16003,
-      16004,
-      16005,
-      16006,
-      16007,
-      16008,
-      16009,
-      16010,
-      16011
-    ],
-    "DIIMGABIMLO": 60,
-    "OPBLACPCIHA": 2,
+    "NMFNJJBBEOO": 60,
+    "PACCHBJEPIA": 2,
     "FullName": {
-      "hash": -344169856
+      "Hash": -344169856
     },
     "ElfUIModelPath": "Entities/Elf/Elf_160_Theresa/Elf_160_Theresa_UI",
-    "DABFAPHMAOB": {
-      "x": 0.41600000858306885,
-      "y": -1.1100000143051147,
-      "z": 2.75
+    "GPLCJBIHGKB": {
+      "X": 0.41600000858306885,
+      "Y": -1.1100000143051147,
+      "Z": 2.75
     },
     "ElfUIModelRotation": {
-      "x": 0.0,
-      "y": -9.550000190734863,
-      "z": 0.0
+      "X": 0.0,
+      "Y": -9.550000190734863,
+      "Z": 0.0
     },
     "IconPath": "SpriteOutput/AstraIcon/AstraMate_05",
-    "MPLFOJLKHME": "SpriteOutput/AstraIconSide/AstraMate_05",
-    "DNNABEFGGEB": "SpriteOutput/AvatarChibiIcons/AstraMate_05",
-    "PIDAALJFBCK": "SpriteOutput/AstraCardFigures/AstraMate_05",
-    "DGGEEKECKCM": "SpriteOutput/AstraCardFigures/AstraMate_05",
-    "FDJBPODIPMB": "",
-    "AKMPNAEIBIC": "",
+    "DGJICMLNFEE": "SpriteOutput/AstraIconSide/AstraMate_05",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/AstraMate_05",
+    "CMIMCBFPJAB": "SpriteOutput/AstraCardFigures/AstraMate_05",
+    "GHCKIIBLGLK": "SpriteOutput/AstraCardFigures/AstraMate_05",
+    "IKLDKBHFKEI": "",
+    "BICCMJLCJCD": "",
     "MaxLevel": 80,
-    "OILLIPOJGAK": 1,
+    "NOEIIKFKPCJ": 1,
     "MaxRarity": 3,
     "Rarity": 4,
     "elfCardID": 380160,
     "elfFragmentID": 370160,
-    "DNONKNEBBDL": "BK_VO_GalTouch_Theresa_Assister",
+    "ABCIPBFKBEN": "BK_VO_GalTouch_Theresa_Assister",
     "LevelUpAudio": "VO_Ngal_Theresa_Elf_3_1",
-    "APFNCMKDAAN": "VO_Ngal_Theresa_Elf_3_2",
-    "MOBPLLDDIBH": {
-      "hash": 1611414657
+    "MEEONBCGHPB": "VO_Ngal_Theresa_Elf_3_2",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414657
     },
     "TagList": [
       {
         "TagID": 1006,
         "TagComment": {
-          "hash": -2127232169
+          "Hash": -2127232169
         }
       },
       {
         "TagID": 1153,
         "TagComment": {
-          "hash": -2127232167
+          "Hash": -2127232167
         }
       }
     ],
-    "MIAJKLKKCIA": {
-      "hash": 1359144688
+    "KNHJFEABEKP": {
+      "Hash": 1359144688
     },
-    "PDGKHPCPGHF": [],
-    "HEGHKPNDCLF": 0
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
+  },
+  {
+    "ElfID": 170,
+    "NMFNJJBBEOO": 70,
+    "PACCHBJEPIA": 2,
+    "FullName": {
+      "Hash": -344169825
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_170_Chenxue/Elf_170_Chenxue_UI",
+    "GPLCJBIHGKB": {
+      "X": 0.41600000858306885,
+      "Y": -1.1100000143051147,
+      "Z": 2.75
+    },
+    "ElfUIModelRotation": {
+      "X": 0.0,
+      "Y": -9.550000190734863,
+      "Z": 0.0
+    },
+    "IconPath": "SpriteOutput/AstraIcon/AstraMate_06",
+    "DGJICMLNFEE": "SpriteOutput/AstraIconSide/AstraMate_06",
+    "GAIEJNGHFMD": "SpriteOutput/AvatarChibiIcons/AstraMate_06",
+    "CMIMCBFPJAB": "SpriteOutput/AstraCardFigures/AstraMate_06",
+    "GHCKIIBLGLK": "SpriteOutput/AstraCardFigures/AstraMate_06",
+    "IKLDKBHFKEI": "",
+    "BICCMJLCJCD": "",
+    "MaxLevel": 80,
+    "NOEIIKFKPCJ": 1,
+    "MaxRarity": 3,
+    "Rarity": 4,
+    "elfCardID": 380170,
+    "elfFragmentID": 370170,
+    "ABCIPBFKBEN": "BK_VO_GalTouch_Chenxue",
+    "LevelUpAudio": "VO_Ngal_Chenxue_3_1",
+    "MEEONBCGHPB": "VO_Ngal_Chenxue_3_2",
+    "HAIEIAKGOPA": {
+      "Hash": 1611414688
+    },
+    "TagList": [
+      {
+        "TagID": 1004,
+        "TagComment": {
+          "Hash": -2127232171
+        }
+      },
+      {
+        "TagID": 1154,
+        "TagComment": {
+          "Hash": -2127232167
+        }
+      },
+      {
+        "TagID": 1151,
+        "TagComment": {
+          "Hash": -2127232167
+        }
+      }
+    ],
+    "KNHJFEABEKP": {
+      "Hash": 1359144719
+    },
+    "LBAMBKGCICN": [],
+    "MICIPDPPGKD": 0
   }
 ]

@@ -1,7 +1,5 @@
 [
   {
-    "_readOffset": 57162,
-    "DataImpl": {},
     "ActivityID": 10001001,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -26,8 +24,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 57296,
-    "DataImpl": {},
     "ActivityID": 10003011,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_2",
@@ -52,8 +48,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 57432,
-    "DataImpl": {},
     "ActivityID": 10003021,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_3",
@@ -78,8 +72,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 57568,
-    "DataImpl": {},
     "ActivityID": 10003031,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_4",
@@ -104,8 +96,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 57704,
-    "DataImpl": {},
     "ActivityID": 10003041,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_5",
@@ -125,8 +115,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 57818,
-    "DataImpl": {},
     "ActivityID": 10003051,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_6",
@@ -146,8 +134,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 57932,
-    "DataImpl": {},
     "ActivityID": 10003061,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_7",
@@ -172,8 +158,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 58066,
-    "DataImpl": {},
     "ActivityID": 10003080,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_8",
@@ -197,8 +181,6 @@
     "SpecialMissionPanel": "UI/Menus/Widget/TowerChallenge/TowerActivityMainWidget"
   },
   {
-    "_readOffset": 58250,
-    "DataImpl": {},
     "ActivityID": 10003081,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_9",
@@ -220,8 +202,6 @@
     "SpecialMissionPanel": "UI/Menus/Widget/TowerChallenge/TowerActivityMainStargaZingWidget"
   },
   {
-    "_readOffset": 58436,
-    "DataImpl": {},
     "ActivityID": 10003082,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_10",
@@ -247,8 +227,6 @@
     "SpecialMissionPanel": "UI/Menus/Widget/TowerChallenge/TowerActivityLeilvWidget"
   },
   {
-    "_readOffset": 58630,
-    "DataImpl": {},
     "ActivityID": 10003083,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_11",
@@ -272,8 +250,6 @@
     "SpecialMissionPanel": "UI/Menus/Widget/TowerChallenge/TowerActivityRitaWidget"
   },
   {
-    "_readOffset": 58815,
-    "DataImpl": {},
     "ActivityID": 10003084,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_12",
@@ -296,8 +272,6 @@
     "SpecialMissionPanel": "UI/Menus/Widget/TowerChallenge/TowerActivityPowderHairWidget"
   },
   {
-    "_readOffset": 59002,
-    "DataImpl": {},
     "ActivityID": 10003085,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_13",
@@ -319,8 +293,6 @@
     "SpecialMissionPanel": "UI/Menus/Widget/TowerChallenge/TowerActivityDurandalWidget"
   },
   {
-    "_readOffset": 59183,
-    "DataImpl": {},
     "ActivityID": 10003086,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_14",
@@ -343,8 +315,6 @@
     "SpecialMissionPanel": "UI/Menus/Widget/TowerChallenge/TowerActivityFukaC6Widget"
   },
   {
-    "_readOffset": 59366,
-    "DataImpl": {},
     "ActivityID": 10302011,
     "ActivityType": 2,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_4",
@@ -366,8 +336,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 59490,
-    "DataImpl": {},
     "ActivityID": 10302012,
     "ActivityType": 2,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_4",
@@ -389,8 +357,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 59614,
-    "DataImpl": {},
     "ActivityID": 10302013,
     "ActivityType": 2,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_4",
@@ -412,8 +378,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 59738,
-    "DataImpl": {},
     "ActivityID": 15000001,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -448,8 +412,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 59912,
-    "DataImpl": {},
     "ActivityID": 15000002,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -484,8 +446,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 60086,
-    "DataImpl": {},
     "ActivityID": 15000003,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -520,8 +480,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 60260,
-    "DataImpl": {},
     "ActivityID": 15000004,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -556,8 +514,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 60434,
-    "DataImpl": {},
     "ActivityID": 15000005,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -592,8 +548,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 60608,
-    "DataImpl": {},
     "ActivityID": 15000006,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -628,8 +582,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 60782,
-    "DataImpl": {},
     "ActivityID": 15000007,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -664,8 +616,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 60956,
-    "DataImpl": {},
     "ActivityID": 15000008,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -700,8 +650,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 61130,
-    "DataImpl": {},
     "ActivityID": 15000009,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -736,8 +684,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 61304,
-    "DataImpl": {},
     "ActivityID": 15000010,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -772,8 +718,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 61478,
-    "DataImpl": {},
     "ActivityID": 15000011,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -808,8 +752,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 61652,
-    "DataImpl": {},
     "ActivityID": 15000012,
     "ActivityType": 3,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",
@@ -844,8 +786,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 61826,
-    "DataImpl": {},
     "ActivityID": 40000121,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_13",
@@ -864,8 +804,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 61937,
-    "DataImpl": {},
     "ActivityID": 40000122,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_15",
@@ -887,8 +825,6 @@
     "SpecialMissionPanel": "UI/Menus/Widget/TowerChallenge/TowerActivityDurandalWidget"
   },
   {
-    "_readOffset": 62118,
-    "DataImpl": {},
     "ActivityID": 40000132,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_16",
@@ -910,8 +846,6 @@
     "SpecialMissionPanel": "UI/Menus/Widget/TowerChallenge/TowerActivitySeeleWidget"
   },
   {
-    "_readOffset": 62296,
-    "DataImpl": {},
     "ActivityID": 40000141,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_17",
@@ -933,8 +867,6 @@
     "SpecialMissionPanel": "UI/Menus/Widget/TowerChallenge/TowerActivitySeeleWidget"
   },
   {
-    "_readOffset": 62474,
-    "DataImpl": {},
     "ActivityID": 40000221,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5_13",
@@ -953,8 +885,6 @@
     "SpecialMissionPanel": ""
   },
   {
-    "_readOffset": 62585,
-    "DataImpl": 0,
     "ActivityID": 50000001,
     "ActivityType": 1,
     "EnterImg": "SpriteOutput/WorldMap/Entry/Cover_5",

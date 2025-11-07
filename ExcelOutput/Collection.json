@@ -1,3522 +1,3260 @@
 [
   {
-    "_readOffset": 1416,
-    "DataImpl": {},
     "ID": 1,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 1,
-    "HFOBLLLHHLP": {
-      "hash": 1463549915
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 1,
+    "KHIBOILIBDO": {
+      "Hash": 1463549915
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1456,
-    "DataImpl": {},
     "ID": 2,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 2,
-    "HFOBLLLHHLP": {
-      "hash": 1463549916
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 2,
+    "KHIBOILIBDO": {
+      "Hash": 1463549916
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766934
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766934
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1496,
-    "DataImpl": {},
     "ID": 3,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 3,
-    "HFOBLLLHHLP": {
-      "hash": 1463549917
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 3,
+    "KHIBOILIBDO": {
+      "Hash": 1463549917
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766933
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766933
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1536,
-    "DataImpl": {},
     "ID": 4,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 4,
-    "HFOBLLLHHLP": {
-      "hash": 1463549918
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 4,
+    "KHIBOILIBDO": {
+      "Hash": 1463549918
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766932
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766932
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1576,
-    "DataImpl": {},
     "ID": 5,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 5,
-    "HFOBLLLHHLP": {
-      "hash": 1463549919
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 5,
+    "KHIBOILIBDO": {
+      "Hash": 1463549919
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766931
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766931
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1616,
-    "DataImpl": {},
     "ID": 6,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 6,
-    "HFOBLLLHHLP": {
-      "hash": 1463549920
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 6,
+    "KHIBOILIBDO": {
+      "Hash": 1463549920
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766930
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766930
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1656,
-    "DataImpl": {},
     "ID": 7,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 7,
-    "HFOBLLLHHLP": {
-      "hash": 1463549921
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 7,
+    "KHIBOILIBDO": {
+      "Hash": 1463549921
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766929
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766929
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1696,
-    "DataImpl": {},
     "ID": 8,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 8,
-    "HFOBLLLHHLP": {
-      "hash": 1463549922
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 8,
+    "KHIBOILIBDO": {
+      "Hash": 1463549922
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766928
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766928
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1736,
-    "DataImpl": {},
     "ID": 9,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 9,
-    "HFOBLLLHHLP": {
-      "hash": 1463549923
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 9,
+    "KHIBOILIBDO": {
+      "Hash": 1463549923
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766927
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766927
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1776,
-    "DataImpl": {},
     "ID": 10,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 10,
-    "HFOBLLLHHLP": {
-      "hash": -1874592843
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 10,
+    "KHIBOILIBDO": {
+      "Hash": -1874592843
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265497
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265497
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1816,
-    "DataImpl": {},
     "ID": 11,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 11,
-    "HFOBLLLHHLP": {
-      "hash": -1874592842
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 11,
+    "KHIBOILIBDO": {
+      "Hash": -1874592842
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265496
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265496
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1856,
-    "DataImpl": {},
     "ID": 12,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 12,
-    "HFOBLLLHHLP": {
-      "hash": -1874592841
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 12,
+    "KHIBOILIBDO": {
+      "Hash": -1874592841
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265495
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265495
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1896,
-    "DataImpl": {},
     "ID": 13,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 13,
-    "HFOBLLLHHLP": {
-      "hash": -1874592840
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 13,
+    "KHIBOILIBDO": {
+      "Hash": -1874592840
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265494
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265494
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1936,
-    "DataImpl": {},
     "ID": 14,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 14,
-    "HFOBLLLHHLP": {
-      "hash": -1874592839
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 14,
+    "KHIBOILIBDO": {
+      "Hash": -1874592839
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265493
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265493
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 1976,
-    "DataImpl": {},
     "ID": 15,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 15,
-    "HFOBLLLHHLP": {
-      "hash": -1874592838
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 15,
+    "KHIBOILIBDO": {
+      "Hash": -1874592838
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265492
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265492
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2016,
-    "DataImpl": {},
     "ID": 16,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 16,
-    "HFOBLLLHHLP": {
-      "hash": -1874592837
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 16,
+    "KHIBOILIBDO": {
+      "Hash": -1874592837
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265491
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265491
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2056,
-    "DataImpl": {},
     "ID": 17,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 17,
-    "HFOBLLLHHLP": {
-      "hash": -1874592836
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 17,
+    "KHIBOILIBDO": {
+      "Hash": -1874592836
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265490
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265490
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2096,
-    "DataImpl": {},
     "ID": 18,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 18,
-    "HFOBLLLHHLP": {
-      "hash": -1874592835
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 18,
+    "KHIBOILIBDO": {
+      "Hash": -1874592835
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265489
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265489
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2136,
-    "DataImpl": {},
     "ID": 19,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 19,
-    "HFOBLLLHHLP": {
-      "hash": -1874592834
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 19,
+    "KHIBOILIBDO": {
+      "Hash": -1874592834
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265488
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265488
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2176,
-    "DataImpl": {},
     "ID": 20,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 20,
-    "HFOBLLLHHLP": {
-      "hash": -1874592812
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 20,
+    "KHIBOILIBDO": {
+      "Hash": -1874592812
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265466
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265466
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2216,
-    "DataImpl": {},
     "ID": 21,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 21,
-    "HFOBLLLHHLP": {
-      "hash": -1874592811
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 21,
+    "KHIBOILIBDO": {
+      "Hash": -1874592811
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265465
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265465
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2256,
-    "DataImpl": {},
     "ID": 22,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 22,
-    "HFOBLLLHHLP": {
-      "hash": -1874592810
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 22,
+    "KHIBOILIBDO": {
+      "Hash": -1874592810
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265464
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265464
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2296,
-    "DataImpl": {},
     "ID": 23,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 23,
-    "HFOBLLLHHLP": {
-      "hash": -1874592809
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 23,
+    "KHIBOILIBDO": {
+      "Hash": -1874592809
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265463
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265463
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2336,
-    "DataImpl": {},
     "ID": 24,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 24,
-    "HFOBLLLHHLP": {
-      "hash": -1874592808
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 24,
+    "KHIBOILIBDO": {
+      "Hash": -1874592808
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265462
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265462
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2376,
-    "DataImpl": {},
     "ID": 25,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 25,
-    "HFOBLLLHHLP": {
-      "hash": -1874592807
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 25,
+    "KHIBOILIBDO": {
+      "Hash": -1874592807
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265461
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265461
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2416,
-    "DataImpl": {},
     "ID": 26,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 26,
-    "HFOBLLLHHLP": {
-      "hash": -1874592806
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 26,
+    "KHIBOILIBDO": {
+      "Hash": -1874592806
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265460
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265460
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2456,
-    "DataImpl": {},
     "ID": 27,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 27,
-    "HFOBLLLHHLP": {
-      "hash": -1874592805
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 27,
+    "KHIBOILIBDO": {
+      "Hash": -1874592805
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265459
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265459
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2496,
-    "DataImpl": {},
     "ID": 28,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 28,
-    "HFOBLLLHHLP": {
-      "hash": -1874592804
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 28,
+    "KHIBOILIBDO": {
+      "Hash": -1874592804
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265458
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265458
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2536,
-    "DataImpl": {},
     "ID": 29,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 29,
-    "HFOBLLLHHLP": {
-      "hash": -1874592803
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 29,
+    "KHIBOILIBDO": {
+      "Hash": -1874592803
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265457
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265457
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2576,
-    "DataImpl": {},
     "ID": 30,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 30,
-    "HFOBLLLHHLP": {
-      "hash": -1874592781
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 30,
+    "KHIBOILIBDO": {
+      "Hash": -1874592781
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265435
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265435
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2616,
-    "DataImpl": {},
     "ID": 31,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 31,
-    "HFOBLLLHHLP": {
-      "hash": -1874592780
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 31,
+    "KHIBOILIBDO": {
+      "Hash": -1874592780
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265434
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265434
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2656,
-    "DataImpl": {},
     "ID": 32,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 32,
-    "HFOBLLLHHLP": {
-      "hash": -1874592779
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 32,
+    "KHIBOILIBDO": {
+      "Hash": -1874592779
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265433
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265433
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2696,
-    "DataImpl": {},
     "ID": 33,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 33,
-    "HFOBLLLHHLP": {
-      "hash": -1874592778
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 33,
+    "KHIBOILIBDO": {
+      "Hash": -1874592778
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265432
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265432
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2736,
-    "DataImpl": {},
     "ID": 34,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 34,
-    "HFOBLLLHHLP": {
-      "hash": -1874592777
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 34,
+    "KHIBOILIBDO": {
+      "Hash": -1874592777
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265431
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265431
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2776,
-    "DataImpl": {},
     "ID": 35,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 35,
-    "HFOBLLLHHLP": {
-      "hash": -1874592776
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 35,
+    "KHIBOILIBDO": {
+      "Hash": -1874592776
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265430
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265430
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2816,
-    "DataImpl": {},
     "ID": 36,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 36,
-    "HFOBLLLHHLP": {
-      "hash": -1874592775
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 36,
+    "KHIBOILIBDO": {
+      "Hash": -1874592775
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265429
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265429
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2856,
-    "DataImpl": {},
     "ID": 37,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 37,
-    "HFOBLLLHHLP": {
-      "hash": -1874592774
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 37,
+    "KHIBOILIBDO": {
+      "Hash": -1874592774
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265428
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265428
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2896,
-    "DataImpl": {},
     "ID": 38,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 38,
-    "HFOBLLLHHLP": {
-      "hash": -1874592773
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 38,
+    "KHIBOILIBDO": {
+      "Hash": -1874592773
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265427
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265427
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2936,
-    "DataImpl": {},
     "ID": 39,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 39,
-    "HFOBLLLHHLP": {
-      "hash": -1874592772
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 39,
+    "KHIBOILIBDO": {
+      "Hash": -1874592772
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265426
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265426
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 2976,
-    "DataImpl": {},
     "ID": 40,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 40,
-    "HFOBLLLHHLP": {
-      "hash": -1874592750
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 40,
+    "KHIBOILIBDO": {
+      "Hash": -1874592750
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265404
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265404
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3016,
-    "DataImpl": {},
     "ID": 41,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 41,
-    "HFOBLLLHHLP": {
-      "hash": -1874592749
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 41,
+    "KHIBOILIBDO": {
+      "Hash": -1874592749
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265403
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265403
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3056,
-    "DataImpl": {},
     "ID": 42,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 42,
-    "HFOBLLLHHLP": {
-      "hash": -1874592748
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 42,
+    "KHIBOILIBDO": {
+      "Hash": -1874592748
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265402
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265402
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3096,
-    "DataImpl": {},
     "ID": 43,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 43,
-    "HFOBLLLHHLP": {
-      "hash": -1874592747
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 43,
+    "KHIBOILIBDO": {
+      "Hash": -1874592747
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265401
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265401
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3136,
-    "DataImpl": {},
     "ID": 44,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 44,
-    "HFOBLLLHHLP": {
-      "hash": -1874592746
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 44,
+    "KHIBOILIBDO": {
+      "Hash": -1874592746
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265400
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265400
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3176,
-    "DataImpl": {},
     "ID": 50,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 50,
-    "HFOBLLLHHLP": {
-      "hash": -1874592719
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 50,
+    "KHIBOILIBDO": {
+      "Hash": -1874592719
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265373
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265373
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3216,
-    "DataImpl": {},
     "ID": 51,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 51,
-    "HFOBLLLHHLP": {
-      "hash": -1874592718
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 51,
+    "KHIBOILIBDO": {
+      "Hash": -1874592718
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265372
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265372
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3256,
-    "DataImpl": {},
     "ID": 52,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 52,
-    "HFOBLLLHHLP": {
-      "hash": -1874592717
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 52,
+    "KHIBOILIBDO": {
+      "Hash": -1874592717
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265371
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265371
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3296,
-    "DataImpl": {},
     "ID": 53,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 53,
-    "HFOBLLLHHLP": {
-      "hash": -1874592716
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 53,
+    "KHIBOILIBDO": {
+      "Hash": -1874592716
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265370
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265370
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3336,
-    "DataImpl": {},
     "ID": 54,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 54,
-    "HFOBLLLHHLP": {
-      "hash": -1874592715
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 54,
+    "KHIBOILIBDO": {
+      "Hash": -1874592715
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265369
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265369
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3376,
-    "DataImpl": {},
     "ID": 55,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 55,
-    "HFOBLLLHHLP": {
-      "hash": -1874592714
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 55,
+    "KHIBOILIBDO": {
+      "Hash": -1874592714
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265368
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265368
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3416,
-    "DataImpl": {},
     "ID": 56,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 56,
-    "HFOBLLLHHLP": {
-      "hash": -1874592713
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 56,
+    "KHIBOILIBDO": {
+      "Hash": -1874592713
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265367
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265367
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3456,
-    "DataImpl": {},
     "ID": 57,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 57,
-    "HFOBLLLHHLP": {
-      "hash": -1874592712
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 57,
+    "KHIBOILIBDO": {
+      "Hash": -1874592712
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265366
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265366
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3496,
-    "DataImpl": {},
     "ID": 58,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 58,
-    "HFOBLLLHHLP": {
-      "hash": -1874592711
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 58,
+    "KHIBOILIBDO": {
+      "Hash": -1874592711
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265365
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265365
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3536,
-    "DataImpl": {},
     "ID": 59,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 59,
-    "HFOBLLLHHLP": {
-      "hash": -1874592710
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 59,
+    "KHIBOILIBDO": {
+      "Hash": -1874592710
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265364
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265364
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3576,
-    "DataImpl": {},
     "ID": 60,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 60,
-    "HFOBLLLHHLP": {
-      "hash": -1874592688
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 60,
+    "KHIBOILIBDO": {
+      "Hash": -1874592688
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265342
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265342
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3616,
-    "DataImpl": {},
     "ID": 61,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 61,
-    "HFOBLLLHHLP": {
-      "hash": -1874592687
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 61,
+    "KHIBOILIBDO": {
+      "Hash": -1874592687
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265341
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265341
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3656,
-    "DataImpl": {},
     "ID": 62,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 62,
-    "HFOBLLLHHLP": {
-      "hash": -1874592686
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 62,
+    "KHIBOILIBDO": {
+      "Hash": -1874592686
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265340
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265340
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3696,
-    "DataImpl": {},
     "ID": 63,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 3,
-    "KBOLPAFCJEO": 63,
-    "HFOBLLLHHLP": {
-      "hash": -1874592685
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 3,
+    "OPENPNALDJF": 63,
+    "KHIBOILIBDO": {
+      "Hash": -1874592685
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -172265339
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -172265339
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3736,
-    "DataImpl": {},
     "ID": 10101,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10101,
-    "HFOBLLLHHLP": {
-      "hash": 1464412701
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10101,
+    "KHIBOILIBDO": {
+      "Hash": 1464412701
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 524546219
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 524546219
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3776,
-    "DataImpl": {},
     "ID": 10201,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10201,
-    "HFOBLLLHHLP": {
-      "hash": 1464413662
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10201,
+    "KHIBOILIBDO": {
+      "Hash": 1464413662
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 524547180
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 524547180
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3816,
-    "DataImpl": {},
     "ID": 10301,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10301,
-    "HFOBLLLHHLP": {
-      "hash": 1464414623
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10301,
+    "KHIBOILIBDO": {
+      "Hash": 1464414623
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 524548141
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 524548141
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3856,
-    "DataImpl": {},
     "ID": 10401,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 2,
-    "KBOLPAFCJEO": 10401,
-    "HFOBLLLHHLP": {
-      "hash": 1464415584
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 2,
+    "OPENPNALDJF": 10401,
+    "KHIBOILIBDO": {
+      "Hash": 1464415584
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 524549102
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 524549102
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3896,
-    "DataImpl": {},
     "ID": 10402,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 2,
-    "KBOLPAFCJEO": 10402,
-    "HFOBLLLHHLP": {
-      "hash": 1464415585
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 2,
+    "OPENPNALDJF": 10402,
+    "KHIBOILIBDO": {
+      "Hash": 1464415585
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 524549103
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 524549103
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3936,
-    "DataImpl": {},
     "ID": 10403,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 2,
-    "KBOLPAFCJEO": 10403,
-    "HFOBLLLHHLP": {
-      "hash": 1464415586
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 2,
+    "OPENPNALDJF": 10403,
+    "KHIBOILIBDO": {
+      "Hash": 1464415586
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 524549104
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 524549104
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 3976,
-    "DataImpl": {},
     "ID": 10501,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10501,
-    "HFOBLLLHHLP": {
-      "hash": 1464416545
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10501,
+    "KHIBOILIBDO": {
+      "Hash": 1464416545
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4016,
-    "DataImpl": {},
     "ID": 10502,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10502,
-    "HFOBLLLHHLP": {
-      "hash": 1464416546
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10502,
+    "KHIBOILIBDO": {
+      "Hash": 1464416546
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4056,
-    "DataImpl": {},
     "ID": 10503,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10503,
-    "HFOBLLLHHLP": {
-      "hash": 1464416547
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10503,
+    "KHIBOILIBDO": {
+      "Hash": 1464416547
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4096,
-    "DataImpl": {},
     "ID": 10504,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10504,
-    "HFOBLLLHHLP": {
-      "hash": 1464416548
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10504,
+    "KHIBOILIBDO": {
+      "Hash": 1464416548
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4136,
-    "DataImpl": {},
     "ID": 10601,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10601,
-    "HFOBLLLHHLP": {
-      "hash": 1464417506
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10601,
+    "KHIBOILIBDO": {
+      "Hash": 1464417506
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4176,
-    "DataImpl": {},
     "ID": 10701,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10701,
-    "HFOBLLLHHLP": {
-      "hash": 1464418467
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10701,
+    "KHIBOILIBDO": {
+      "Hash": 1464418467
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4216,
-    "DataImpl": {},
     "ID": 10801,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10801,
-    "HFOBLLLHHLP": {
-      "hash": 1464419428
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10801,
+    "KHIBOILIBDO": {
+      "Hash": 1464419428
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4256,
-    "DataImpl": {},
     "ID": 10901,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10901,
-    "HFOBLLLHHLP": {
-      "hash": 1464420389
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10901,
+    "KHIBOILIBDO": {
+      "Hash": 1464420389
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4296,
-    "DataImpl": {},
     "ID": 10902,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10902,
-    "HFOBLLLHHLP": {
-      "hash": 1464420390
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10902,
+    "KHIBOILIBDO": {
+      "Hash": 1464420390
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4336,
-    "DataImpl": {},
     "ID": 10903,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 10903,
-    "HFOBLLLHHLP": {
-      "hash": 1464420391
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 10903,
+    "KHIBOILIBDO": {
+      "Hash": 1464420391
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -2083766935
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -2083766935
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4376,
-    "DataImpl": {},
     "ID": 11001,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 11001,
-    "HFOBLLLHHLP": {
-      "hash": 1464441531
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 11001,
+    "KHIBOILIBDO": {
+      "Hash": 1464441531
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4416,
-    "DataImpl": {},
     "ID": 11002,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 11002,
-    "HFOBLLLHHLP": {
-      "hash": 1464441532
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 11002,
+    "KHIBOILIBDO": {
+      "Hash": 1464441532
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4456,
-    "DataImpl": {},
     "ID": 11003,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 11003,
-    "HFOBLLLHHLP": {
-      "hash": 1464441533
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 11003,
+    "KHIBOILIBDO": {
+      "Hash": 1464441533
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4496,
-    "DataImpl": {},
     "ID": 11101,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 11101,
-    "HFOBLLLHHLP": {
-      "hash": 1464442492
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 11101,
+    "KHIBOILIBDO": {
+      "Hash": 1464442492
     },
-    "JBJADHILKNP": 0,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": false,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4536,
-    "DataImpl": {},
     "ID": 11201,
-    "KGGFGJPLKFH": 1,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 11201,
-    "HFOBLLLHHLP": {
-      "hash": 1464443453
+    "GEPHADJMAAP": 1,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 11201,
+    "KHIBOILIBDO": {
+      "Hash": 1464443453
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4576,
-    "DataImpl": {},
     "ID": 20101,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20101,
-    "HFOBLLLHHLP": {
-      "hash": 1465336222
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20101,
+    "KHIBOILIBDO": {
+      "Hash": 1465336222
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525469740
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525469740
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4665,
-    "DataImpl": {},
     "ID": 20201,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20201,
-    "HFOBLLLHHLP": {
-      "hash": 1465337183
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20201,
+    "KHIBOILIBDO": {
+      "Hash": 1465337183
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525470701
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525470701
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4754,
-    "DataImpl": {},
     "ID": 20301,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20301,
-    "HFOBLLLHHLP": {
-      "hash": 1465338144
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20301,
+    "KHIBOILIBDO": {
+      "Hash": 1465338144
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525471662
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525471662
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4843,
-    "DataImpl": {},
     "ID": 20401,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20401,
-    "HFOBLLLHHLP": {
-      "hash": 1465339105
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20401,
+    "KHIBOILIBDO": {
+      "Hash": 1465339105
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525472623
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525472623
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_Common",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_Common",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 4929,
-    "DataImpl": {},
     "ID": 20501,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20501,
-    "HFOBLLLHHLP": {
-      "hash": 1465340066
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20501,
+    "KHIBOILIBDO": {
+      "Hash": 1465340066
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525473584
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525473584
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5017,
-    "DataImpl": {},
     "ID": 20601,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20601,
-    "HFOBLLLHHLP": {
-      "hash": 1465341027
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20601,
+    "KHIBOILIBDO": {
+      "Hash": 1465341027
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525474545
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525474545
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5106,
-    "DataImpl": {},
     "ID": 20701,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20701,
-    "HFOBLLLHHLP": {
-      "hash": 1465341988
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20701,
+    "KHIBOILIBDO": {
+      "Hash": 1465341988
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525475506
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525475506
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5195,
-    "DataImpl": {},
     "ID": 20801,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20801,
-    "HFOBLLLHHLP": {
-      "hash": 1465342949
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20801,
+    "KHIBOILIBDO": {
+      "Hash": 1465342949
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525476467
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525476467
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5284,
-    "DataImpl": {},
     "ID": 20802,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20802,
-    "HFOBLLLHHLP": {
-      "hash": 1465342950
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20802,
+    "KHIBOILIBDO": {
+      "Hash": 1465342950
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525476468
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525476468
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5373,
-    "DataImpl": {},
     "ID": 20803,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20803,
-    "HFOBLLLHHLP": {
-      "hash": 1465342951
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20803,
+    "KHIBOILIBDO": {
+      "Hash": 1465342951
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525476469
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525476469
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5462,
-    "DataImpl": {},
     "ID": 20901,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 20901,
-    "HFOBLLLHHLP": {
-      "hash": 1465343910
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 20901,
+    "KHIBOILIBDO": {
+      "Hash": 1465343910
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525477428
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525477428
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5551,
-    "DataImpl": {},
     "ID": 21001,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21001,
-    "HFOBLLLHHLP": {
-      "hash": 1465365052
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21001,
+    "KHIBOILIBDO": {
+      "Hash": 1465365052
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525498570
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525498570
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5639,
-    "DataImpl": {},
     "ID": 21101,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21101,
-    "HFOBLLLHHLP": {
-      "hash": 1465366013
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21101,
+    "KHIBOILIBDO": {
+      "Hash": 1465366013
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525499531
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525499531
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5727,
-    "DataImpl": {},
     "ID": 21201,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21201,
-    "HFOBLLLHHLP": {
-      "hash": 1465366974
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21201,
+    "KHIBOILIBDO": {
+      "Hash": 1465366974
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525500492
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525500492
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5816,
-    "DataImpl": {},
     "ID": 21202,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21202,
-    "HFOBLLLHHLP": {
-      "hash": 1465366975
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21202,
+    "KHIBOILIBDO": {
+      "Hash": 1465366975
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525500493
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525500493
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5905,
-    "DataImpl": {},
     "ID": 21203,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21203,
-    "HFOBLLLHHLP": {
-      "hash": 1465366976
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21203,
+    "KHIBOILIBDO": {
+      "Hash": 1465366976
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525500494
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525500494
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 5994,
-    "DataImpl": {},
     "ID": 21204,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21204,
-    "HFOBLLLHHLP": {
-      "hash": 1465366977
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21204,
+    "KHIBOILIBDO": {
+      "Hash": 1465366977
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525500495
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525500495
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6083,
-    "DataImpl": {},
     "ID": 21301,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21301,
-    "HFOBLLLHHLP": {
-      "hash": 1465367935
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21301,
+    "KHIBOILIBDO": {
+      "Hash": 1465367935
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525501453
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525501453
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6172,
-    "DataImpl": {},
     "ID": 21401,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21401,
-    "HFOBLLLHHLP": {
-      "hash": 1465368896
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21401,
+    "KHIBOILIBDO": {
+      "Hash": 1465368896
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525502414
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525502414
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6261,
-    "DataImpl": {},
     "ID": 21501,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21501,
-    "HFOBLLLHHLP": {
-      "hash": 1465369857
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21501,
+    "KHIBOILIBDO": {
+      "Hash": 1465369857
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525503375
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525503375
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6350,
-    "DataImpl": {},
     "ID": 21601,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21601,
-    "HFOBLLLHHLP": {
-      "hash": 1465370818
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21601,
+    "KHIBOILIBDO": {
+      "Hash": 1465370818
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525504336
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525504336
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6439,
-    "DataImpl": {},
     "ID": 21701,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21701,
-    "HFOBLLLHHLP": {
-      "hash": 1465371779
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21701,
+    "KHIBOILIBDO": {
+      "Hash": 1465371779
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525505297
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525505297
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6528,
-    "DataImpl": {},
     "ID": 21801,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21801,
-    "HFOBLLLHHLP": {
-      "hash": 1465372740
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21801,
+    "KHIBOILIBDO": {
+      "Hash": 1465372740
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525506258
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525506258
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6617,
-    "DataImpl": {},
     "ID": 21901,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21901,
-    "HFOBLLLHHLP": {
-      "hash": 1465373701
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21901,
+    "KHIBOILIBDO": {
+      "Hash": 1465373701
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525507219
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525507219
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6706,
-    "DataImpl": {},
     "ID": 21911,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21911,
-    "HFOBLLLHHLP": {
-      "hash": 1465373732
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21911,
+    "KHIBOILIBDO": {
+      "Hash": 1465373732
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525507250
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525507250
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6794,
-    "DataImpl": {},
     "ID": 21912,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21912,
-    "HFOBLLLHHLP": {
-      "hash": 1465373733
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21912,
+    "KHIBOILIBDO": {
+      "Hash": 1465373733
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525507251
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525507251
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6882,
-    "DataImpl": {},
     "ID": 21913,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 21913,
-    "HFOBLLLHHLP": {
-      "hash": 1465373734
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 21913,
+    "KHIBOILIBDO": {
+      "Hash": 1465373734
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525507252
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525507252
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 6971,
-    "DataImpl": {},
     "ID": 22101,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22101,
-    "HFOBLLLHHLP": {
-      "hash": 1465395804
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22101,
+    "KHIBOILIBDO": {
+      "Hash": 1465395804
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525529322
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525529322
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7060,
-    "DataImpl": {},
     "ID": 22102,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22102,
-    "HFOBLLLHHLP": {
-      "hash": 1465395805
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22102,
+    "KHIBOILIBDO": {
+      "Hash": 1465395805
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525529323
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525529323
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7149,
-    "DataImpl": {},
     "ID": 22103,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22103,
-    "HFOBLLLHHLP": {
-      "hash": 1465395806
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22103,
+    "KHIBOILIBDO": {
+      "Hash": 1465395806
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525529324
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525529324
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7238,
-    "DataImpl": {},
     "ID": 22201,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22201,
-    "HFOBLLLHHLP": {
-      "hash": 1465396765
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22201,
+    "KHIBOILIBDO": {
+      "Hash": 1465396765
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525530283
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525530283
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7327,
-    "DataImpl": {},
     "ID": 22202,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22202,
-    "HFOBLLLHHLP": {
-      "hash": 1465396766
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22202,
+    "KHIBOILIBDO": {
+      "Hash": 1465396766
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525530284
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525530284
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7416,
-    "DataImpl": {},
     "ID": 22204,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22204,
-    "HFOBLLLHHLP": {
-      "hash": 1465396768
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22204,
+    "KHIBOILIBDO": {
+      "Hash": 1465396768
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525530286
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525530286
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7505,
-    "DataImpl": {},
     "ID": 22205,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22205,
-    "HFOBLLLHHLP": {
-      "hash": 1465396769
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22205,
+    "KHIBOILIBDO": {
+      "Hash": 1465396769
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525530287
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525530287
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7594,
-    "DataImpl": {},
     "ID": 22301,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22301,
-    "HFOBLLLHHLP": {
-      "hash": 1465397726
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22301,
+    "KHIBOILIBDO": {
+      "Hash": 1465397726
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525531244
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525531244
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7683,
-    "DataImpl": {},
     "ID": 22303,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22303,
-    "HFOBLLLHHLP": {
-      "hash": 1465397728
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22303,
+    "KHIBOILIBDO": {
+      "Hash": 1465397728
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525531246
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525531246
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7772,
-    "DataImpl": {},
     "ID": 22304,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22304,
-    "HFOBLLLHHLP": {
-      "hash": 1465397729
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22304,
+    "KHIBOILIBDO": {
+      "Hash": 1465397729
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525531247
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525531247
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7861,
-    "DataImpl": {},
     "ID": 22401,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22401,
-    "HFOBLLLHHLP": {
-      "hash": 1465398687
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22401,
+    "KHIBOILIBDO": {
+      "Hash": 1465398687
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525532205
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525532205
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 7950,
-    "DataImpl": {},
     "ID": 22402,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22402,
-    "HFOBLLLHHLP": {
-      "hash": 1465398688
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22402,
+    "KHIBOILIBDO": {
+      "Hash": 1465398688
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525532206
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525532206
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8039,
-    "DataImpl": {},
     "ID": 22501,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22501,
-    "HFOBLLLHHLP": {
-      "hash": 1465399648
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22501,
+    "KHIBOILIBDO": {
+      "Hash": 1465399648
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525533166
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525533166
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8128,
-    "DataImpl": {},
     "ID": 22502,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22502,
-    "HFOBLLLHHLP": {
-      "hash": 1465399649
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22502,
+    "KHIBOILIBDO": {
+      "Hash": 1465399649
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525533167
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525533167
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8217,
-    "DataImpl": {},
     "ID": 22503,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22503,
-    "HFOBLLLHHLP": {
-      "hash": 1465399650
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22503,
+    "KHIBOILIBDO": {
+      "Hash": 1465399650
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525533168
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525533168
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8306,
-    "DataImpl": {},
     "ID": 22601,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22601,
-    "HFOBLLLHHLP": {
-      "hash": 1465400609
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22601,
+    "KHIBOILIBDO": {
+      "Hash": 1465400609
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525534127
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525534127
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8395,
-    "DataImpl": {},
     "ID": 22602,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22602,
-    "HFOBLLLHHLP": {
-      "hash": 1465400610
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22602,
+    "KHIBOILIBDO": {
+      "Hash": 1465400610
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525534128
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525534128
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8484,
-    "DataImpl": {},
     "ID": 22603,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22603,
-    "HFOBLLLHHLP": {
-      "hash": 1465400611
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22603,
+    "KHIBOILIBDO": {
+      "Hash": 1465400611
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525534129
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525534129
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8573,
-    "DataImpl": {},
     "ID": 22604,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22604,
-    "HFOBLLLHHLP": {
-      "hash": 1465400612
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22604,
+    "KHIBOILIBDO": {
+      "Hash": 1465400612
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525534130
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525534130
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8662,
-    "DataImpl": {},
     "ID": 22605,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22605,
-    "HFOBLLLHHLP": {
-      "hash": 1465400613
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22605,
+    "KHIBOILIBDO": {
+      "Hash": 1465400613
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525534131
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525534131
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8751,
-    "DataImpl": {},
     "ID": 22701,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22701,
-    "HFOBLLLHHLP": {
-      "hash": 1465401570
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22701,
+    "KHIBOILIBDO": {
+      "Hash": 1465401570
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525535088
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525535088
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8840,
-    "DataImpl": {},
     "ID": 22702,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22702,
-    "HFOBLLLHHLP": {
-      "hash": 1465401571
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22702,
+    "KHIBOILIBDO": {
+      "Hash": 1465401571
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525535089
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525535089
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 8929,
-    "DataImpl": {},
     "ID": 22703,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22703,
-    "HFOBLLLHHLP": {
-      "hash": 1465401572
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22703,
+    "KHIBOILIBDO": {
+      "Hash": 1465401572
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525535090
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525535090
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9018,
-    "DataImpl": {},
     "ID": 22704,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22704,
-    "HFOBLLLHHLP": {
-      "hash": 1465401573
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22704,
+    "KHIBOILIBDO": {
+      "Hash": 1465401573
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525535091
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525535091
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9107,
-    "DataImpl": {},
     "ID": 22705,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 4,
-    "KBOLPAFCJEO": 22705,
-    "HFOBLLLHHLP": {
-      "hash": 1465401574
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 4,
+    "OPENPNALDJF": 22705,
+    "KHIBOILIBDO": {
+      "Hash": 1465401574
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525535092
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525535092
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9196,
-    "DataImpl": {},
     "ID": 23101,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 2,
-    "KBOLPAFCJEO": 23101,
-    "HFOBLLLHHLP": {
-      "hash": 1465425595
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 2,
+    "OPENPNALDJF": 23101,
+    "KHIBOILIBDO": {
+      "Hash": 1465425595
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525559113
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525559113
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Audio_Common",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Audio_Common",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9283,
-    "DataImpl": {},
     "ID": 24101,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 24101,
-    "HFOBLLLHHLP": {
-      "hash": 1465455386
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 24101,
+    "KHIBOILIBDO": {
+      "Hash": 1465455386
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525588904
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525588904
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9371,
-    "DataImpl": {},
     "ID": 24201,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 24201,
-    "HFOBLLLHHLP": {
-      "hash": 1465456347
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 24201,
+    "KHIBOILIBDO": {
+      "Hash": 1465456347
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525589865
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525589865
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9459,
-    "DataImpl": {},
     "ID": 24301,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 24301,
-    "HFOBLLLHHLP": {
-      "hash": 1465457308
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 24301,
+    "KHIBOILIBDO": {
+      "Hash": 1465457308
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525590826
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525590826
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9547,
-    "DataImpl": {},
     "ID": 24401,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 24401,
-    "HFOBLLLHHLP": {
-      "hash": 1465458269
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 24401,
+    "KHIBOILIBDO": {
+      "Hash": 1465458269
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525591787
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525591787
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9635,
-    "DataImpl": {},
     "ID": 24501,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 24501,
-    "HFOBLLLHHLP": {
-      "hash": 1465459230
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 24501,
+    "KHIBOILIBDO": {
+      "Hash": 1465459230
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525592748
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525592748
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9723,
-    "DataImpl": {},
     "ID": 24601,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 24601,
-    "HFOBLLLHHLP": {
-      "hash": 1465460191
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 24601,
+    "KHIBOILIBDO": {
+      "Hash": 1465460191
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525593709
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525593709
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9811,
-    "DataImpl": {},
     "ID": 24701,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 24701,
-    "HFOBLLLHHLP": {
-      "hash": 1465461152
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 24701,
+    "KHIBOILIBDO": {
+      "Hash": 1465461152
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525594670
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525594670
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9899,
-    "DataImpl": {},
     "ID": 24801,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 24801,
-    "HFOBLLLHHLP": {
-      "hash": 1465462113
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 24801,
+    "KHIBOILIBDO": {
+      "Hash": 1465462113
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525595631
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525595631
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 9987,
-    "DataImpl": {},
     "ID": 24901,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 24901,
-    "HFOBLLLHHLP": {
-      "hash": 1465463074
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 24901,
+    "KHIBOILIBDO": {
+      "Hash": 1465463074
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525596592
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525596592
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10076,
-    "DataImpl": {},
     "ID": 25101,
-    "KGGFGJPLKFH": 2,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 25101,
-    "HFOBLLLHHLP": {
-      "hash": 1465485177
+    "GEPHADJMAAP": 2,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 25101,
+    "KHIBOILIBDO": {
+      "Hash": 1465485177
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": 525618695
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": 525618695
     },
-    "BNAHFDKNLID": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10164,
-    "DataImpl": {},
     "ID": 30101,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 30101,
-    "HFOBLLLHHLP": {
-      "hash": 1466259743
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 30101,
+    "KHIBOILIBDO": {
+      "Hash": 1466259743
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10204,
-    "DataImpl": {},
     "ID": 30201,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 30201,
-    "HFOBLLLHHLP": {
-      "hash": 1466260704
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 30201,
+    "KHIBOILIBDO": {
+      "Hash": 1466260704
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10244,
-    "DataImpl": {},
     "ID": 30301,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 30301,
-    "HFOBLLLHHLP": {
-      "hash": 1466261665
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 30301,
+    "KHIBOILIBDO": {
+      "Hash": 1466261665
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10284,
-    "DataImpl": {},
     "ID": 30302,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 30302,
-    "HFOBLLLHHLP": {
-      "hash": 1466261666
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 30302,
+    "KHIBOILIBDO": {
+      "Hash": 1466261666
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10324,
-    "DataImpl": {},
     "ID": 30303,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 30303,
-    "HFOBLLLHHLP": {
-      "hash": 1466261667
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 30303,
+    "KHIBOILIBDO": {
+      "Hash": 1466261667
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10364,
-    "DataImpl": {},
     "ID": 30401,
-    "KGGFGJPLKFH": 3,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 30401,
-    "HFOBLLLHHLP": {
-      "hash": 1466262626
+    "GEPHADJMAAP": 3,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 30401,
+    "KHIBOILIBDO": {
+      "Hash": 1466262626
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10404,
-    "DataImpl": {},
     "ID": 40001,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40001,
-    "HFOBLLLHHLP": {
-      "hash": 1467182303
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40001,
+    "KHIBOILIBDO": {
+      "Hash": 1467182303
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10444,
-    "DataImpl": {},
     "ID": 40002,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40002,
-    "HFOBLLLHHLP": {
-      "hash": 1467182304
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40002,
+    "KHIBOILIBDO": {
+      "Hash": 1467182304
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10484,
-    "DataImpl": {},
     "ID": 40003,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40003,
-    "HFOBLLLHHLP": {
-      "hash": 1467182305
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40003,
+    "KHIBOILIBDO": {
+      "Hash": 1467182305
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10524,
-    "DataImpl": {},
     "ID": 40004,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40004,
-    "HFOBLLLHHLP": {
-      "hash": 1467182306
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40004,
+    "KHIBOILIBDO": {
+      "Hash": 1467182306
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10564,
-    "DataImpl": {},
     "ID": 40005,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40005,
-    "HFOBLLLHHLP": {
-      "hash": 1467182307
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40005,
+    "KHIBOILIBDO": {
+      "Hash": 1467182307
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10604,
-    "DataImpl": {},
     "ID": 40006,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40006,
-    "HFOBLLLHHLP": {
-      "hash": 1467182308
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40006,
+    "KHIBOILIBDO": {
+      "Hash": 1467182308
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10644,
-    "DataImpl": {},
     "ID": 40008,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40008,
-    "HFOBLLLHHLP": {
-      "hash": 1467182310
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40008,
+    "KHIBOILIBDO": {
+      "Hash": 1467182310
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10723,
-    "DataImpl": {},
     "ID": 40009,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40009,
-    "HFOBLLLHHLP": {
-      "hash": 1467182311
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40009,
+    "KHIBOILIBDO": {
+      "Hash": 1467182311
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10802,
-    "DataImpl": {},
     "ID": 40010,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40010,
-    "HFOBLLLHHLP": {
-      "hash": 1467182333
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40010,
+    "KHIBOILIBDO": {
+      "Hash": 1467182333
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10881,
-    "DataImpl": {},
     "ID": 40011,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40011,
-    "HFOBLLLHHLP": {
-      "hash": 1467182334
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40011,
+    "KHIBOILIBDO": {
+      "Hash": 1467182334
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 10960,
-    "DataImpl": {},
     "ID": 40012,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40012,
-    "HFOBLLLHHLP": {
-      "hash": 1467182335
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40012,
+    "KHIBOILIBDO": {
+      "Hash": 1467182335
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11039,
-    "DataImpl": {},
     "ID": 40013,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40013,
-    "HFOBLLLHHLP": {
-      "hash": 1467182336
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40013,
+    "KHIBOILIBDO": {
+      "Hash": 1467182336
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11118,
-    "DataImpl": {},
     "ID": 40014,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40014,
-    "HFOBLLLHHLP": {
-      "hash": 1467182337
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40014,
+    "KHIBOILIBDO": {
+      "Hash": 1467182337
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11197,
-    "DataImpl": {},
     "ID": 40015,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40015,
-    "HFOBLLLHHLP": {
-      "hash": 1467182338
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40015,
+    "KHIBOILIBDO": {
+      "Hash": 1467182338
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11276,
-    "DataImpl": {},
     "ID": 40016,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40016,
-    "HFOBLLLHHLP": {
-      "hash": 1467182339
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40016,
+    "KHIBOILIBDO": {
+      "Hash": 1467182339
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11355,
-    "DataImpl": {},
     "ID": 40017,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40017,
-    "HFOBLLLHHLP": {
-      "hash": 1467182340
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40017,
+    "KHIBOILIBDO": {
+      "Hash": 1467182340
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11434,
-    "DataImpl": {},
     "ID": 40018,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40018,
-    "HFOBLLLHHLP": {
-      "hash": 1467182341
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40018,
+    "KHIBOILIBDO": {
+      "Hash": 1467182341
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11513,
-    "DataImpl": {},
     "ID": 40019,
-    "KGGFGJPLKFH": 0,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40019,
-    "HFOBLLLHHLP": {
-      "hash": 1467182342
+    "GEPHADJMAAP": 0,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40019,
+    "KHIBOILIBDO": {
+      "Hash": 1467182342
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": 0,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11592,
-    "DataImpl": {},
     "ID": 40020,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40020,
-    "HFOBLLLHHLP": {
-      "hash": 1467182364
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40020,
+    "KHIBOILIBDO": {
+      "Hash": 1467182364
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11671,
-    "DataImpl": {},
     "ID": 40021,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40021,
-    "HFOBLLLHHLP": {
-      "hash": 1467182365
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40021,
+    "KHIBOILIBDO": {
+      "Hash": 1467182365
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11750,
-    "DataImpl": {},
     "ID": 40022,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 40022,
-    "HFOBLLLHHLP": {
-      "hash": 1467182366
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40022,
+    "KHIBOILIBDO": {
+      "Hash": 1467182366
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": true,
-    "DNFABDGJBAI": 0,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11829,
-    "DataImpl": {},
+    "ID": 40023,
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40023,
+    "KHIBOILIBDO": {
+      "Hash": 1467182367
+    },
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
+    },
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
+  },
+  {
+    "ID": 40024,
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40024,
+    "KHIBOILIBDO": {
+      "Hash": 1467182368
+    },
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
+    },
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
+  },
+  {
+    "ID": 40025,
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40025,
+    "KHIBOILIBDO": {
+      "Hash": 1467182369
+    },
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
+    },
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
+  },
+  {
+    "ID": 40026,
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40026,
+    "KHIBOILIBDO": {
+      "Hash": 1467182370
+    },
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
+    },
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
+  },
+  {
+    "ID": 40027,
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 40027,
+    "KHIBOILIBDO": {
+      "Hash": 1467182371
+    },
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
+    },
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": true,
+    "NKJJHHGKDKE": false,
+    "PLNNLPCHJMM": false,
+    "MDFACHHDFJE": ""
+  },
+  {
     "ID": 4000701,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 4000701,
-    "HFOBLLLHHLP": {
-      "hash": 1212927398
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 4000701,
+    "KHIBOILIBDO": {
+      "Hash": 1212927398
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11908,
-    "DataImpl": {},
     "ID": 4000702,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 4000702,
-    "HFOBLLLHHLP": {
-      "hash": 1212927399
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 4000702,
+    "KHIBOILIBDO": {
+      "Hash": 1212927399
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 11987,
-    "DataImpl": {},
     "ID": 4000703,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 4000703,
-    "HFOBLLLHHLP": {
-      "hash": 1212927400
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 4000703,
+    "KHIBOILIBDO": {
+      "Hash": 1212927400
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 12066,
-    "DataImpl": {},
     "ID": 4000704,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 4000704,
-    "HFOBLLLHHLP": {
-      "hash": 1212927401
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 4000704,
+    "KHIBOILIBDO": {
+      "Hash": 1212927401
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 12145,
-    "DataImpl": {},
     "ID": 4000705,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 4000705,
-    "HFOBLLLHHLP": {
-      "hash": 1212927402
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 4000705,
+    "KHIBOILIBDO": {
+      "Hash": 1212927402
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 12224,
-    "DataImpl": {},
     "ID": 4000706,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 4000706,
-    "HFOBLLLHHLP": {
-      "hash": 1212927403
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 4000706,
+    "KHIBOILIBDO": {
+      "Hash": 1212927403
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   },
   {
-    "_readOffset": 12303,
-    "DataImpl": {},
     "ID": 4000707,
-    "KGGFGJPLKFH": 4,
-    "AMCNIPLJLML": 1,
-    "KBOLPAFCJEO": 4000707,
-    "HFOBLLLHHLP": {
-      "hash": 1212927404
+    "GEPHADJMAAP": 4,
+    "LDAMGKDIPII": 1,
+    "OPENPNALDJF": 4000707,
+    "KHIBOILIBDO": {
+      "Hash": 1212927404
     },
-    "JBJADHILKNP": true,
-    "CPIKBOLJOHN": {
-      "hash": -1466703527
+    "CMDGONJGMEF": true,
+    "DDHMDPFIEHH": {
+      "Hash": -1466703527
     },
-    "BNAHFDKNLID": "SpriteOutput/ChapterARK/ChapterARK_Book",
-    "GKGMGMIHAEP": 0,
-    "DNFABDGJBAI": true,
-    "OENHMCKCABI": true,
-    "CHFHCMBFAJD": ""
+    "LCMPNHAFPHG": "SpriteOutput/ChapterARK/ChapterARK_Book",
+    "NHLFHKHLGMH": false,
+    "NKJJHHGKDKE": true,
+    "PLNNLPCHJMM": true,
+    "MDFACHHDFJE": ""
   }
 ]

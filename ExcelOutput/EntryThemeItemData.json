@@ -1,7 +1,5 @@
 [
   {
-    "_readOffset": 918351,
-    "DataImpl": {},
     "ThemeItemID": 400001,
     "UnlockType": 1,
     "UnlockPartID": 100,
@@ -12,8 +10,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/TestIcon"
   },
   {
-    "_readOffset": 918510,
-    "DataImpl": {},
     "ThemeItemID": 400002,
     "UnlockType": 1,
     "UnlockPartID": 101,
@@ -24,8 +20,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/400002"
   },
   {
-    "_readOffset": 918663,
-    "DataImpl": {},
     "ThemeItemID": 400003,
     "UnlockType": 1,
     "UnlockPartID": 102,
@@ -36,8 +30,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/400003"
   },
   {
-    "_readOffset": 918816,
-    "DataImpl": {},
     "ThemeItemID": 400004,
     "UnlockType": 1,
     "UnlockPartID": 103,
@@ -48,8 +40,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/400004"
   },
   {
-    "_readOffset": 918984,
-    "DataImpl": {},
     "ThemeItemID": 400005,
     "UnlockType": 1,
     "UnlockPartID": 104,
@@ -60,8 +50,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/400005"
   },
   {
-    "_readOffset": 919152,
-    "DataImpl": {},
     "ThemeItemID": 400006,
     "UnlockType": 1,
     "UnlockPartID": 105,
@@ -72,8 +60,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/400006"
   },
   {
-    "_readOffset": 919320,
-    "DataImpl": {},
     "ThemeItemID": 400007,
     "UnlockType": 1,
     "UnlockPartID": 106,
@@ -84,8 +70,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/TestIcon"
   },
   {
-    "_readOffset": 919479,
-    "DataImpl": {},
     "ThemeItemID": 401000,
     "UnlockType": 2,
     "UnlockPartID": 200,
@@ -96,8 +80,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401000"
   },
   {
-    "_readOffset": 919632,
-    "DataImpl": {},
     "ThemeItemID": 401001,
     "UnlockType": 2,
     "UnlockPartID": 201,
@@ -108,8 +90,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401001"
   },
   {
-    "_readOffset": 919785,
-    "DataImpl": {},
     "ThemeItemID": 401002,
     "UnlockType": 2,
     "UnlockPartID": 202,
@@ -120,8 +100,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401002"
   },
   {
-    "_readOffset": 919938,
-    "DataImpl": {},
     "ThemeItemID": 401003,
     "UnlockType": 2,
     "UnlockPartID": 203,
@@ -132,8 +110,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401003"
   },
   {
-    "_readOffset": 920091,
-    "DataImpl": {},
     "ThemeItemID": 401004,
     "UnlockType": 2,
     "UnlockPartID": 204,
@@ -144,8 +120,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401004"
   },
   {
-    "_readOffset": 920244,
-    "DataImpl": {},
     "ThemeItemID": 401005,
     "UnlockType": 2,
     "UnlockPartID": 205,
@@ -156,8 +130,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401000"
   },
   {
-    "_readOffset": 920397,
-    "DataImpl": {},
     "ThemeItemID": 401006,
     "UnlockType": 2,
     "UnlockPartID": 206,
@@ -168,8 +140,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401001"
   },
   {
-    "_readOffset": 920550,
-    "DataImpl": {},
     "ThemeItemID": 401008,
     "UnlockType": 2,
     "UnlockPartID": 208,
@@ -180,8 +150,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401002"
   },
   {
-    "_readOffset": 920703,
-    "DataImpl": {},
     "ThemeItemID": 401009,
     "UnlockType": 2,
     "UnlockPartID": 209,
@@ -192,8 +160,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401003"
   },
   {
-    "_readOffset": 920856,
-    "DataImpl": {},
     "ThemeItemID": 401010,
     "UnlockType": 2,
     "UnlockPartID": 207,
@@ -204,8 +170,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401000"
   },
   {
-    "_readOffset": 921009,
-    "DataImpl": {},
     "ThemeItemID": 401011,
     "UnlockType": 2,
     "UnlockPartID": 210,
@@ -216,8 +180,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401004"
   },
   {
-    "_readOffset": 921162,
-    "DataImpl": {},
     "ThemeItemID": 401012,
     "UnlockType": 2,
     "UnlockPartID": 211,
@@ -228,8 +190,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401004"
   },
   {
-    "_readOffset": 921315,
-    "DataImpl": {},
     "ThemeItemID": 401998,
     "UnlockType": 2,
     "UnlockPartID": 0,
@@ -240,8 +200,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401000"
   },
   {
-    "_readOffset": 921468,
-    "DataImpl": {},
     "ThemeItemID": 401999,
     "UnlockType": 2,
     "UnlockPartID": 1,
@@ -252,8 +210,6 @@
     "ImagePath": "SpriteOutput/MaterialFigures/401001"
   },
   {
-    "_readOffset": 921621,
-    "DataImpl": {},
     "ThemeItemID": 402000,
     "UnlockType": 2,
     "UnlockPartID": 10,

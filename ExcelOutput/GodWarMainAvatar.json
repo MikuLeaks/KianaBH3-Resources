@@ -1,1872 +1,2210 @@
 [
-	{
-		"AbilityName": "ABL_RogueTower_MH_Revive",
-		"ParamList": [
-			"0.6",
-			"3",
-			"30"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660230,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660232,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1010501,
-			1010502,
-			1010503
-		],
-		"AvatarMissionList": [
-			87409,
-			87410,
-			87411
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700210,
-			10700211,
-			10700212
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 105
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Kiana_SK_0",
-		"ParamList": [
-			"0.3",
-			"450",
-			"0.4",
-			"100"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660921,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660922,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1010601,
-			1010602,
-			1010603,
-			1010604
-		],
-		"AvatarMissionList": [
-			87868,
-			87869,
-			87870
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700315,
-			10700316,
-			10700317
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 106
-	},
-	{
-		"AbilityName": "ABL_Kallen_KT_Rogue_12000",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660915,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660916,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1011101,
-			1011102,
-			1011103,
-			1011104
-		],
-		"AvatarMissionList": [
-			87817,
-			87818,
-			87819
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700309,
-			10700310,
-			10700311
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 111
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Kallen_C2_MC_0",
-		"ParamList": [
-			"3.9"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 87356,
-				"StepID": 2
-			},
-			{
-				"MissionID": 87358,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1011201,
-			1011202
-		],
-		"AvatarMissionList": [
-			87406,
-			87407,
-			87408
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700207,
-			10700208,
-			10700209
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 112
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Kiana_YL_0",
-		"ParamList": [
-			"0",
-			"0.3",
-			"240",
-			"0",
-			"20"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660900,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660901,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1011301,
-			1011302,
-			1011303,
-			1011304
-		],
-		"AvatarMissionList": [
-			87493,
-			87494,
-			87495
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700285,
-			10700286,
-			10700287
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 113
-	},
-	{
-		"AbilityName": "ABL_RogueTower_DH_Blade",
-		"ParamList": [
-			"1"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660708,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660710,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1020301,
-			1020302
-		],
-		"AvatarMissionList": [
-			87430,
-			87431,
-			87432
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700231,
-			10700232,
-			10700233
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 203
-	},
-	{
-		"AbilityName": "ABL_Mei_C5_AC_Rogue_Default_ABLS",
-		"ParamList": [
-			"0",
-			"0",
-			"0",
-			"0"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660196,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660198,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1020501,
-			1020502
-		],
-		"AvatarMissionList": [
-			87400,
-			87401,
-			87402
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700201,
-			10700202,
-			10700203
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 205
-	},
-	{
-		"AbilityName": "ABL_Mei_GM_Rogue_13100",
-		"ParamList": [
-			"0.2"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660918,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660919,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1020601,
-			1020602,
-			1020603
-		],
-		"AvatarMissionList": [
-			87865,
-			87866,
-			87867
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700312,
-			10700313,
-			10700314
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 206
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Sakura_ZF_0",
-		"ParamList": [
-			"0",
-			"0.3",
-			"0",
-			"8",
-			"0.8",
-			"300"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660891,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660892,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1021201,
-			1021202,
-			1021203,
-			1021204
-		],
-		"AvatarMissionList": [
-			87484,
-			87485,
-			87486
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700288,
-			10700289,
-			10700290
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 212
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Bronya_C7_RogueExec",
-		"ParamList": [
-			"0"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660200,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660202,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1031301,
-			1031302
-		],
-		"AvatarMissionList": [
-			87403,
-			87404,
-			87405
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700204,
-			10700205,
-			10700206
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 313
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Bronya_C10_JS_0",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660861,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660862,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1031501,
-			1031502
-		],
-		"AvatarMissionList": [
-			87454,
-			87455,
-			87456
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700255,
-			10700256,
-			10700257
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 315
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Bronya_GB_0",
-		"ParamList": [
-			"0.3",
-			"200",
-			"0.3",
-			"0.3"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660912,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660913,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1031701,
-			1031702,
-			1031703,
-			1031704
-		],
-		"AvatarMissionList": [
-			87814,
-			87815,
-			87816
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700306,
-			10700307,
-			10700308
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 317
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Himeko_SD_0",
-		"ParamList": [
-			"9"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660906,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660907,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1041201,
-			1041202,
-			1041203,
-			1041204,
-			1041205
-		],
-		"AvatarMissionList": [
-			87781,
-			87782,
-			87783
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700300,
-			10700301,
-			10700302
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 412
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Twins_BS_0",
-		"ParamList": [
-			"0.5",
-			"0.3",
-			"0.5",
-			"1",
-			"12",
-			"6"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660885,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660886,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1042201,
-			1042202,
-			1042203,
-			1042204,
-			1042205
-		],
-		"AvatarMissionList": [
-			87478,
-			87479,
-			87480
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700279,
-			10700280,
-			10700281
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 422
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Theresa_C2_DEF",
-		"ParamList": [
-			"200",
-			"50"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660851,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660852,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1050201,
-			1050202,
-			1050203
-		],
-		"AvatarMissionList": [
-			87445,
-			87446,
-			87447
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700246,
-			10700247,
-			10700248
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 502
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Theresa_C5_GM_0",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660704,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660706,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1051101,
-			1051102,
-			1051103
-		],
-		"AvatarMissionList": [
-			87424,
-			87425,
-			87426
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700225,
-			10700226,
-			10700227
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 511
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Fuka_NL_0",
-		"ParamList": [
-			"50",
-			"150"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660924,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660925,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1060201,
-			1060202,
-			1060203,
-			1060204
-		],
-		"AvatarMissionList": [
-			87887,
-			87888,
-			87889
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700318,
-			10700319,
-			10700320
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 602
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Fuka_C6_FL_0",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660854,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660855,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1061201,
-			1061202
-		],
-		"AvatarMissionList": [
-			87448,
-			87449,
-			87450
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700249,
-			10700250,
-			10700251
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 612
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 87360,
-				"StepID": 2
-			},
-			{
-				"MissionID": 87362,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1070401
-		],
-		"AvatarMissionList": [
-			87412,
-			87413,
-			87414
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700213,
-			10700214,
-			10700215
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 704
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Rita_IA_0",
-		"ParamList": [
-			"25",
-			"0.5",
-			"15"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660873,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660874,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1070501,
-			1070502,
-			1070503,
-			1070504
-		],
-		"AvatarMissionList": [
-			87466,
-			87467,
-			87468
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700267,
-			10700268,
-			10700269
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 705
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Rita_RW_0",
-		"ParamList": [
-			"600",
-			"40",
-			"0.3",
-			"-75"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660870,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660871,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1070601,
-			1070602
-		],
-		"AvatarMissionList": [
-			87463,
-			87464,
-			87465
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700264,
-			10700265,
-			10700266
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 706
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 87339,
-				"StepID": 2
-			},
-			{
-				"MissionID": 87341,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1071201
-		],
-		"AvatarMissionList": [
-			87421,
-			87422,
-			87423
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700222,
-			10700223,
-			10700224
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 712
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Seele_SP_DEF",
-		"ParamList": [
-			"1.6",
-			"1",
-			"0.03"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660781,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660782,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1071301,
-			1071302,
-			1071303
-		],
-		"AvatarMissionList": [
-			87436,
-			87437,
-			87438
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700237,
-			10700238,
-			10700239
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 713
-	},
-	{
-		"AbilityName": "ABL_RogueTower_TJ_Ability0",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 87352,
-				"StepID": 2
-			},
-			{
-				"MissionID": 87354,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1080101
-		],
-		"AvatarMissionList": [
-			87415,
-			87416,
-			87417
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700216,
-			10700217,
-			10700218
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 801
-	},
-	{
-		"AbilityName": "ABL_Rogue_Durandal_GD_DEFAULT",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660700,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660702,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1080201,
-			1080202
-		],
-		"AvatarMissionList": [
-			87427,
-			87428,
-			87429
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700228,
-			10700229,
-			10700230
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 802
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Durandal_C3_SW_0",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660864,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660865,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1080301,
-			1080302
-		],
-		"AvatarMissionList": [
-			87457,
-			87458,
-			87459
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700258,
-			10700259,
-			10700260
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 803
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Durandal_C4_DK_0",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660867,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660868,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1080401,
-			1080402
-		],
-		"AvatarMissionList": [
-			87460,
-			87461,
-			87462
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700261,
-			10700262,
-			10700263
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 804
-	},
-	{
-		"AbilityName": "ABL_RogueTower_FS_BulletReflect",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 87348,
-				"StepID": 2
-			},
-			{
-				"MissionID": 87350,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1210101
-		],
-		"AvatarMissionList": [
-			87418,
-			87419,
-			87420
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700219,
-			10700220,
-			10700221
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2101
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Elysia_GS_0",
-		"ParamList": [
-			"0",
-			"45"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660696,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660698,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1220101,
-			1220102,
-			1220103,
-			1220104
-		],
-		"AvatarMissionList": [
-			87433,
-			87434,
-			87435
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700234,
-			10700235,
-			10700236
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2201
-	},
-	{
-		"AbilityName": "ABL_Rogue_Elysia_C2_Buff_70006",
-		"ParamList": [
-			"0.5"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660897,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660898,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1220201,
-			1220202,
-			1220203,
-			1220204,
-			1220205
-		],
-		"AvatarMissionList": [
-			87490,
-			87491,
-			87492
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700294,
-			10700295,
-			10700296
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2202
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Mobius_SY_0",
-		"ParamList": [
-			"0"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660784,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660785,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1230101,
-			1230102,
-			1230103
-		],
-		"AvatarMissionList": [
-			87439,
-			87440,
-			87441
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700240,
-			10700241,
-			10700242
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2301
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Raven_DC_0",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660787,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660788,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1240101,
-			1240102,
-			1240103,
-			1240104
-		],
-		"AvatarMissionList": [
-			87442,
-			87443,
-			87444
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700243,
-			10700244,
-			10700245
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2401
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Carol_C3_SP_0",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660857,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660858,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1250101,
-			1250102,
-			1250103,
-			1250104
-		],
-		"AvatarMissionList": [
-			87451,
-			87452,
-			87453
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700252,
-			10700253,
-			10700254
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2501
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Pardofelis_C1_CG_0",
-		"ParamList": [
-			"50",
-			"0.5"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660876,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660877,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1260101,
-			1260102,
-			1260103
-		],
-		"AvatarMissionList": [
-			87469,
-			87470,
-			87471
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700270,
-			10700271,
-			10700272
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2601
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Aponia_C1_TT_0",
-		"ParamList": [
-			"2",
-			"25",
-			"4",
-			"500",
-			"8",
-			"15",
-			"4"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660879,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660880,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1270101,
-			1270102,
-			1270103,
-			1270104
-		],
-		"AvatarMissionList": [
-			87472,
-			87473,
-			87474
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700273,
-			10700274,
-			10700275
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2701
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660882,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660883,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1280101,
-			1280102,
-			1280103
-		],
-		"AvatarMissionList": [
-			87475,
-			87476,
-			87477
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700276,
-			10700277,
-			10700278
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2801
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Griseo_HJ_0",
-		"ParamList": [
-			"0.5"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660888,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660889,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1290101,
-			1290102,
-			1290103,
-			1290104
-		],
-		"AvatarMissionList": [
-			87481,
-			87482,
-			87483
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700282,
-			10700283,
-			10700284
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2901
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Vill_V_TK_0",
-		"ParamList": [
-			"0.3",
-			"1",
-			"1",
-			"15",
-			"6"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660894,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660895,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1300101,
-			1300102,
-			1300103,
-			1300104,
-			1300105
-		],
-		"AvatarMissionList": [
-			87487,
-			87488,
-			87489
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700291,
-			10700292,
-			10700293
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 3001
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Lisushang_TX_0",
-		"ParamList": [
-			"0.5"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660903,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660904,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1310101,
-			1310102,
-			1310103
-		],
-		"AvatarMissionList": [
-			87767,
-			87768,
-			87769
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700297,
-			10700298,
-			10700299
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 3101
-	},
-	{
-		"AbilityName": "ABL_RogueTower_AI_JC_0",
-		"ParamList": [
-			"1.5",
-			"0.5"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660909,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660910,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1320101
-		],
-		"AvatarMissionList": [
-			87784,
-			87785,
-			87786
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700303,
-			10700304,
-			10700305
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 3201
-	},
-	{
-		"AbilityName": "ABL_Susanaah_Rogue_17000",
-		"ParamList": [
-			"10",
-			"15",
-			"0.15",
-			"0.3",
-			"2",
-			"3",
-			"1",
-			"25",
-			"5",
-			"3",
-			"3",
-			"2",
-			"9.5",
-			"19.5"
-		],
-		"StepUnlockMissionMap": [
-			{
-				"MissionID": 10001,
-				"StepID": 1
-			},
-			{
-				"MissionID": 660927,
-				"StepID": 2
-			},
-			{
-				"MissionID": 660928,
-				"StepID": 3
-			}
-		],
-		"AvatarAbilityID": [
-			1330101,
-			1330102,
-			1330103,
-			1330104
-		],
-		"AvatarMissionList": [
-			87890,
-			87891,
-			87892
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700321,
-			10700322,
-			10700323
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 3301
-	},
-	{
-		"AbilityName": "ABL_RogueTower_FeatheredRabbit_DU_0",
-		"ParamList": [
-			"0.5",
-			"-0.65",
-			"100",
-			"0.5"
-		],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [
-			1340101,
-			1340102,
-			1340103
-		],
-		"AvatarMissionList": [
-			87920,
-			87921,
-			87922
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700324,
-			10700325,
-			10700326
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 3401
-	},
-	{
-		"AbilityName": "ABL_RogueTower_Prometheus_TS_0",
-		"ParamList": [
-			"40",
-			"0.5",
-			"0.2"
-		],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [
-			1350101,
-			1350102,
-			1350103,
-			1350104
-		],
-		"AvatarMissionList": [
-			87923,
-			87924,
-			87925
-		],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [
-			10700327,
-			10700328,
-			10700329
-		],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 3501
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 3601
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 714
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 3701
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 507
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 2902
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 613
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 20201
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 20301
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 20401
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 20501
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 20601
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 20701
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 512
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 20801
-	},
-	{
-		"AbilityName": "",
-		"ParamList": [],
-		"StepUnlockMissionMap": [],
-		"AvatarAbilityID": [],
-		"AvatarMissionList": [],
-		"RecommendLink": "",
-		"AvatarChallengeStageIDList": [],
-		"DataImpl": {},
-		"GodWarID": 1,
-		"MainAvatarID": 20901
-	}
+  {
+    "MainAvatarID": 105,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_MH_Revive",
+    "ParamList": [
+      "0.6",
+      "3",
+      "30"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660230
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660232
+      }
+    ],
+    "AvatarAbilityID": [
+      1010501,
+      1010502,
+      1010503
+    ],
+    "AvatarMissionList": [
+      87409,
+      87410,
+      87411
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700210,
+      10700211,
+      10700212
+    ]
+  },
+  {
+    "MainAvatarID": 106,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Kiana_SK_0",
+    "ParamList": [
+      "0.3",
+      "450",
+      "0.4",
+      "100",
+      "0.3",
+      "0",
+      "-1",
+      "8",
+      "30",
+      "2.2"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660921
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660922
+      }
+    ],
+    "AvatarAbilityID": [
+      1010601,
+      1010602,
+      1010603,
+      1010604,
+      1010605
+    ],
+    "AvatarMissionList": [
+      87868,
+      87869,
+      87870
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700315,
+      10700316,
+      10700317
+    ]
+  },
+  {
+    "MainAvatarID": 111,
+    "GodWarID": 1,
+    "AbilityName": "ABL_Kallen_KT_Rogue_12000",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660915
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660916
+      }
+    ],
+    "AvatarAbilityID": [
+      1011101,
+      1011102,
+      1011103,
+      1011104
+    ],
+    "AvatarMissionList": [
+      87817,
+      87818,
+      87819
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700309,
+      10700310,
+      10700311
+    ]
+  },
+  {
+    "MainAvatarID": 112,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Kallen_C2_MC_0",
+    "ParamList": [
+      "3.9"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 87356
+      },
+      {
+        "MissionID": 3,
+        "StepID": 87358
+      }
+    ],
+    "AvatarAbilityID": [
+      1011201,
+      1011202
+    ],
+    "AvatarMissionList": [
+      87406,
+      87407,
+      87408
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700207,
+      10700208,
+      10700209
+    ]
+  },
+  {
+    "MainAvatarID": 113,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Kiana_YL_0",
+    "ParamList": [
+      "0",
+      "0.3",
+      "240",
+      "0",
+      "20"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660900
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660901
+      }
+    ],
+    "AvatarAbilityID": [
+      1011301,
+      1011302,
+      1011303,
+      1011304
+    ],
+    "AvatarMissionList": [
+      87493,
+      87494,
+      87495
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700285,
+      10700286,
+      10700287
+    ]
+  },
+  {
+    "MainAvatarID": 115,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Kiana_WS_0",
+    "ParamList": [
+      "200",
+      "-0.8",
+      "0.5",
+      "5",
+      "3",
+      "3",
+      "-0.6"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      1011501,
+      1011502,
+      1011503
+    ],
+    "AvatarMissionList": [
+      90248,
+      90249,
+      90250
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700378,
+      10700379,
+      10700380
+    ]
+  },
+  {
+    "MainAvatarID": 203,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_DH_Blade",
+    "ParamList": [
+      "1"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660708
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660710
+      }
+    ],
+    "AvatarAbilityID": [
+      1020301,
+      1020302
+    ],
+    "AvatarMissionList": [
+      87430,
+      87431,
+      87432
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700231,
+      10700232,
+      10700233
+    ]
+  },
+  {
+    "MainAvatarID": 205,
+    "GodWarID": 1,
+    "AbilityName": "ABL_Mei_C5_AC_Rogue_Default_ABLS",
+    "ParamList": [
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660196
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660198
+      }
+    ],
+    "AvatarAbilityID": [
+      1020501,
+      1020502
+    ],
+    "AvatarMissionList": [
+      87400,
+      87401,
+      87402
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700201,
+      10700202,
+      10700203
+    ]
+  },
+  {
+    "MainAvatarID": 206,
+    "GodWarID": 1,
+    "AbilityName": "ABL_Mei_GM_Rogue_13100",
+    "ParamList": [
+      "0.2"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660918
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660919
+      }
+    ],
+    "AvatarAbilityID": [
+      1020601,
+      1020602,
+      1020603
+    ],
+    "AvatarMissionList": [
+      87865,
+      87866,
+      87867
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700312,
+      10700313,
+      10700314
+    ]
+  },
+  {
+    "MainAvatarID": 212,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Sakura_ZF_0",
+    "ParamList": [
+      "0",
+      "0.3",
+      "0",
+      "8",
+      "0.8",
+      "300"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660891
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660892
+      }
+    ],
+    "AvatarAbilityID": [
+      1021201,
+      1021202,
+      1021203,
+      1021204
+    ],
+    "AvatarMissionList": [
+      87484,
+      87485,
+      87486
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700288,
+      10700289,
+      10700290
+    ]
+  },
+  {
+    "MainAvatarID": 313,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Bronya_C7_RogueExec",
+    "ParamList": [
+      "0"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660200
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660202
+      }
+    ],
+    "AvatarAbilityID": [
+      1031301,
+      1031302
+    ],
+    "AvatarMissionList": [
+      87403,
+      87404,
+      87405
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700204,
+      10700205,
+      10700206
+    ]
+  },
+  {
+    "MainAvatarID": 315,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Bronya_C10_JS_0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660861
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660862
+      }
+    ],
+    "AvatarAbilityID": [
+      1031501,
+      1031502
+    ],
+    "AvatarMissionList": [
+      87454,
+      87455,
+      87456
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700255,
+      10700256,
+      10700257
+    ]
+  },
+  {
+    "MainAvatarID": 317,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Bronya_GB_0",
+    "ParamList": [
+      "0.3",
+      "200",
+      "0.3",
+      "0.3"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660912
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660913
+      }
+    ],
+    "AvatarAbilityID": [
+      1031701,
+      1031702,
+      1031703,
+      1031704
+    ],
+    "AvatarMissionList": [
+      87814,
+      87815,
+      87816
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700306,
+      10700307,
+      10700308
+    ]
+  },
+  {
+    "MainAvatarID": 412,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Himeko_SD_0",
+    "ParamList": [
+      "9"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660906
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660907
+      }
+    ],
+    "AvatarAbilityID": [
+      1041201,
+      1041202,
+      1041203,
+      1041204,
+      1041205
+    ],
+    "AvatarMissionList": [
+      87781,
+      87782,
+      87783
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700300,
+      10700301,
+      10700302
+    ]
+  },
+  {
+    "MainAvatarID": 422,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Twins_BS_0",
+    "ParamList": [
+      "0.5",
+      "0.3",
+      "0.5",
+      "1",
+      "12",
+      "6"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660885
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660886
+      }
+    ],
+    "AvatarAbilityID": [
+      1042201,
+      1042202,
+      1042203,
+      1042204,
+      1042205
+    ],
+    "AvatarMissionList": [
+      87478,
+      87479,
+      87480
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700279,
+      10700280,
+      10700281
+    ]
+  },
+  {
+    "MainAvatarID": 502,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Theresa_C2_DEF",
+    "ParamList": [
+      "200",
+      "50"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660851
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660852
+      }
+    ],
+    "AvatarAbilityID": [
+      1050201,
+      1050202,
+      1050203
+    ],
+    "AvatarMissionList": [
+      87445,
+      87446,
+      87447
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700246,
+      10700247,
+      10700248
+    ]
+  },
+  {
+    "MainAvatarID": 507,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Theresa_BW_0",
+    "ParamList": [
+      "0.02",
+      "5",
+      "0.1",
+      "2"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      1380101,
+      1380102,
+      1380103
+    ],
+    "AvatarMissionList": [
+      90209,
+      90210,
+      90211
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700339,
+      10700340,
+      10700341
+    ]
+  },
+  {
+    "MainAvatarID": 511,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Theresa_C5_GM_0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660704
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660706
+      }
+    ],
+    "AvatarAbilityID": [
+      1051101,
+      1051102,
+      1051103
+    ],
+    "AvatarMissionList": [
+      87424,
+      87425,
+      87426
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700225,
+      10700226,
+      10700227
+    ]
+  },
+  {
+    "MainAvatarID": 512,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Theresa_BS_0",
+    "ParamList": [
+      "100",
+      "0.3"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      151201,
+      151202,
+      151203
+    ],
+    "AvatarMissionList": [
+      90236,
+      90237,
+      90238
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700366,
+      10700367,
+      10700368
+    ]
+  },
+  {
+    "MainAvatarID": 602,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Fuka_NL_0",
+    "ParamList": [
+      "50",
+      "150"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660924
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660925
+      }
+    ],
+    "AvatarAbilityID": [
+      1060201,
+      1060202,
+      1060203,
+      1060204
+    ],
+    "AvatarMissionList": [
+      87887,
+      87888,
+      87889
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700318,
+      10700319,
+      10700320
+    ]
+  },
+  {
+    "MainAvatarID": 612,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Fuka_C6_FL_0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660854
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660855
+      }
+    ],
+    "AvatarAbilityID": [
+      1061201,
+      1061202,
+      1061203
+    ],
+    "AvatarMissionList": [
+      87448,
+      87449,
+      87450
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700249,
+      10700250,
+      10700251
+    ]
+  },
+  {
+    "MainAvatarID": 613,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Fuka_GM_0",
+    "ParamList": [
+      "5000",
+      "3000"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      1061301,
+      1061302,
+      1061303,
+      1061304
+    ],
+    "AvatarMissionList": [
+      90215,
+      90216,
+      90217
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700345,
+      10700346,
+      10700347
+    ]
+  },
+  {
+    "MainAvatarID": 704,
+    "GodWarID": 1,
+    "AbilityName": "",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 87360
+      },
+      {
+        "MissionID": 3,
+        "StepID": 87362
+      }
+    ],
+    "AvatarAbilityID": [
+      1070401
+    ],
+    "AvatarMissionList": [
+      87412,
+      87413,
+      87414
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700213,
+      10700214,
+      10700215
+    ]
+  },
+  {
+    "MainAvatarID": 705,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Rita_IA_0",
+    "ParamList": [
+      "25",
+      "0.5",
+      "15"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660873
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660874
+      }
+    ],
+    "AvatarAbilityID": [
+      1070501,
+      1070502,
+      1070503,
+      1070504
+    ],
+    "AvatarMissionList": [
+      87466,
+      87467,
+      87468
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700267,
+      10700268,
+      10700269
+    ]
+  },
+  {
+    "MainAvatarID": 706,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Rita_RW_0",
+    "ParamList": [
+      "600",
+      "40",
+      "0.3",
+      "-75"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660870
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660871
+      }
+    ],
+    "AvatarAbilityID": [
+      1070601,
+      1070602
+    ],
+    "AvatarMissionList": [
+      87463,
+      87464,
+      87465
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700264,
+      10700265,
+      10700266
+    ]
+  },
+  {
+    "MainAvatarID": 712,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_HY_85FIX",
+    "ParamList": [
+      "0.7"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 87339
+      },
+      {
+        "MissionID": 3,
+        "StepID": 87341
+      }
+    ],
+    "AvatarAbilityID": [
+      1071201
+    ],
+    "AvatarMissionList": [
+      87421,
+      87422,
+      87423
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700222,
+      10700223,
+      10700224
+    ]
+  },
+  {
+    "MainAvatarID": 713,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Seele_SP_DEF",
+    "ParamList": [
+      "1.6",
+      "1",
+      "0.03"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660781
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660782
+      }
+    ],
+    "AvatarAbilityID": [
+      1071301,
+      1071302,
+      1071303
+    ],
+    "AvatarMissionList": [
+      87436,
+      87437,
+      87438
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700237,
+      10700238,
+      10700239
+    ]
+  },
+  {
+    "MainAvatarID": 714,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Seele_SL_0",
+    "ParamList": [
+      "999",
+      "0.4",
+      "0",
+      "0.4",
+      "0.2",
+      "125",
+      "175"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      1071401,
+      1071402,
+      1071403,
+      1071404
+    ],
+    "AvatarMissionList": [
+      90203,
+      90204,
+      90205
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700333,
+      10700334,
+      10700335
+    ]
+  },
+  {
+    "MainAvatarID": 801,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_TJ_Ability0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 87352
+      },
+      {
+        "MissionID": 3,
+        "StepID": 87354
+      }
+    ],
+    "AvatarAbilityID": [
+      1080101
+    ],
+    "AvatarMissionList": [
+      87415,
+      87416,
+      87417
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700216,
+      10700217,
+      10700218
+    ]
+  },
+  {
+    "MainAvatarID": 802,
+    "GodWarID": 1,
+    "AbilityName": "ABL_Rogue_Durandal_GD_DEFAULT",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660700
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660702
+      }
+    ],
+    "AvatarAbilityID": [
+      1080201,
+      1080202
+    ],
+    "AvatarMissionList": [
+      87427,
+      87428,
+      87429
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700228,
+      10700229,
+      10700230
+    ]
+  },
+  {
+    "MainAvatarID": 803,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Durandal_C3_SW_0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660864
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660865
+      }
+    ],
+    "AvatarAbilityID": [
+      1080301,
+      1080302
+    ],
+    "AvatarMissionList": [
+      87457,
+      87458,
+      87459
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700258,
+      10700259,
+      10700260
+    ]
+  },
+  {
+    "MainAvatarID": 804,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Durandal_C4_DK_0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660867
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660868
+      }
+    ],
+    "AvatarAbilityID": [
+      1080401,
+      1080402
+    ],
+    "AvatarMissionList": [
+      87460,
+      87461,
+      87462
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700261,
+      10700262,
+      10700263
+    ]
+  },
+  {
+    "MainAvatarID": 806,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Durandal_AK_0",
+    "ParamList": [
+      "200",
+      "1.5",
+      "-0.8",
+      "500",
+      "0.3"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      180601
+    ],
+    "AvatarMissionList": [
+      90245,
+      90246,
+      90247
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700375,
+      10700376,
+      10700377
+    ]
+  },
+  {
+    "MainAvatarID": 2101,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_FS_BulletReflect",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 87348
+      },
+      {
+        "MissionID": 3,
+        "StepID": 87350
+      }
+    ],
+    "AvatarAbilityID": [
+      1210101
+    ],
+    "AvatarMissionList": [
+      87418,
+      87419,
+      87420
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700219,
+      10700220,
+      10700221
+    ]
+  },
+  {
+    "MainAvatarID": 2201,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Elysia_GS_0",
+    "ParamList": [
+      "0",
+      "45"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660696
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660698
+      }
+    ],
+    "AvatarAbilityID": [
+      1220101,
+      1220102,
+      1220103,
+      1220104
+    ],
+    "AvatarMissionList": [
+      87433,
+      87434,
+      87435
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700234,
+      10700235,
+      10700236
+    ]
+  },
+  {
+    "MainAvatarID": 2202,
+    "GodWarID": 1,
+    "AbilityName": "ABL_Rogue_Elysia_C2_Buff_70006",
+    "ParamList": [
+      "0.5"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660897
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660898
+      }
+    ],
+    "AvatarAbilityID": [
+      1220201,
+      1220202,
+      1220203,
+      1220204,
+      1220205
+    ],
+    "AvatarMissionList": [
+      87490,
+      87491,
+      87492
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700294,
+      10700295,
+      10700296
+    ]
+  },
+  {
+    "MainAvatarID": 2301,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Mobius_SY_0",
+    "ParamList": [
+      "0"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660784
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660785
+      }
+    ],
+    "AvatarAbilityID": [
+      1230101,
+      1230102,
+      1230103
+    ],
+    "AvatarMissionList": [
+      87439,
+      87440,
+      87441
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700240,
+      10700241,
+      10700242
+    ]
+  },
+  {
+    "MainAvatarID": 2401,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Raven_DC_0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660787
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660788
+      }
+    ],
+    "AvatarAbilityID": [
+      1240101,
+      1240102,
+      1240103,
+      1240104
+    ],
+    "AvatarMissionList": [
+      87442,
+      87443,
+      87444
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700243,
+      10700244,
+      10700245
+    ]
+  },
+  {
+    "MainAvatarID": 2501,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Carol_C3_SP_0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660857
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660858
+      }
+    ],
+    "AvatarAbilityID": [
+      1250101,
+      1250102,
+      1250103,
+      1250104
+    ],
+    "AvatarMissionList": [
+      87451,
+      87452,
+      87453
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700252,
+      10700253,
+      10700254
+    ]
+  },
+  {
+    "MainAvatarID": 2601,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Pardofelis_C1_CG_0",
+    "ParamList": [
+      "50",
+      "0.5"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660876
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660877
+      }
+    ],
+    "AvatarAbilityID": [
+      1260101,
+      1260102,
+      1260103
+    ],
+    "AvatarMissionList": [
+      87469,
+      87470,
+      87471
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700270,
+      10700271,
+      10700272
+    ]
+  },
+  {
+    "MainAvatarID": 2701,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Aponia_C1_TT_0",
+    "ParamList": [
+      "2",
+      "25",
+      "4",
+      "500",
+      "8",
+      "15",
+      "4"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660879
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660880
+      }
+    ],
+    "AvatarAbilityID": [
+      1270101,
+      1270102,
+      1270103,
+      1270104
+    ],
+    "AvatarMissionList": [
+      87472,
+      87473,
+      87474
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700273,
+      10700274,
+      10700275
+    ]
+  },
+  {
+    "MainAvatarID": 2801,
+    "GodWarID": 1,
+    "AbilityName": "",
+    "ParamList": [],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660882
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660883
+      }
+    ],
+    "AvatarAbilityID": [
+      1280101,
+      1280102,
+      1280103
+    ],
+    "AvatarMissionList": [
+      87475,
+      87476,
+      87477
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700276,
+      10700277,
+      10700278
+    ]
+  },
+  {
+    "MainAvatarID": 2901,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Griseo_HJ_0",
+    "ParamList": [
+      "0.5"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660888
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660889
+      }
+    ],
+    "AvatarAbilityID": [
+      1290101,
+      1290102,
+      1290103,
+      1290104
+    ],
+    "AvatarMissionList": [
+      87481,
+      87482,
+      87483
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700282,
+      10700283,
+      10700284
+    ]
+  },
+  {
+    "MainAvatarID": 2902,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Griseo_ST_0",
+    "ParamList": [
+      "8",
+      "-5",
+      "0.5",
+      "0.45"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      1290201,
+      1290202,
+      1290203,
+      1290204,
+      1290205
+    ],
+    "AvatarMissionList": [
+      90212,
+      90213,
+      90214
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700342,
+      10700343,
+      10700344
+    ]
+  },
+  {
+    "MainAvatarID": 3001,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Vill_V_TK_0",
+    "ParamList": [
+      "0.3",
+      "1",
+      "1",
+      "15",
+      "6"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660894
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660895
+      }
+    ],
+    "AvatarAbilityID": [
+      1300101,
+      1300102,
+      1300103,
+      1300104,
+      1300105
+    ],
+    "AvatarMissionList": [
+      87487,
+      87488,
+      87489
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700291,
+      10700292,
+      10700293
+    ]
+  },
+  {
+    "MainAvatarID": 3101,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Lisushang_TX_0",
+    "ParamList": [
+      "0.5"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660903
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660904
+      }
+    ],
+    "AvatarAbilityID": [
+      1310101,
+      1310102,
+      1310103
+    ],
+    "AvatarMissionList": [
+      87767,
+      87768,
+      87769
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700297,
+      10700298,
+      10700299
+    ]
+  },
+  {
+    "MainAvatarID": 3102,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Lisushang_LS_0",
+    "ParamList": [
+      "200"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      1310201
+    ],
+    "AvatarMissionList": [
+      90251,
+      90252,
+      90253
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700381,
+      10700382,
+      10700383
+    ]
+  },
+  {
+    "MainAvatarID": 3201,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_AI_JC_0",
+    "ParamList": [
+      "1.5",
+      "0.5"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660909
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660910
+      }
+    ],
+    "AvatarAbilityID": [
+      1320101
+    ],
+    "AvatarMissionList": [
+      87784,
+      87785,
+      87786
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700303,
+      10700304,
+      10700305
+    ]
+  },
+  {
+    "MainAvatarID": 3301,
+    "GodWarID": 1,
+    "AbilityName": "ABL_Susanaah_Rogue_17000",
+    "ParamList": [
+      "10",
+      "15",
+      "0.15",
+      "0.3",
+      "2",
+      "3",
+      "1",
+      "25",
+      "5",
+      "3",
+      "3",
+      "2",
+      "9.5",
+      "19.5"
+    ],
+    "StepUnlockMissionMap": [
+      {
+        "MissionID": 1,
+        "StepID": 10001
+      },
+      {
+        "MissionID": 2,
+        "StepID": 660927
+      },
+      {
+        "MissionID": 3,
+        "StepID": 660928
+      }
+    ],
+    "AvatarAbilityID": [
+      1330101,
+      1330102,
+      1330103,
+      1330104
+    ],
+    "AvatarMissionList": [
+      87890,
+      87891,
+      87892
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700321,
+      10700322,
+      10700323
+    ]
+  },
+  {
+    "MainAvatarID": 3401,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_FeatheredRabbit_DU_0",
+    "ParamList": [
+      "0.5",
+      "-0.65",
+      "100",
+      "0.5"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      1340101,
+      1340102,
+      1340103
+    ],
+    "AvatarMissionList": [
+      87920,
+      87921,
+      87922
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700324,
+      10700325,
+      10700326
+    ]
+  },
+  {
+    "MainAvatarID": 3501,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Prometheus_TS_0",
+    "ParamList": [
+      "40",
+      "0.5",
+      "0.2"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      1350101,
+      1350102,
+      1350103,
+      1350104
+    ],
+    "AvatarMissionList": [
+      87923,
+      87924,
+      87925
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700327,
+      10700328,
+      10700329
+    ]
+  },
+  {
+    "MainAvatarID": 3601,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_ShigureKira_ID_0",
+    "ParamList": [
+      "0"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      1360101,
+      1360102,
+      1360103,
+      1360104,
+      1360105
+    ],
+    "AvatarMissionList": [
+      90200,
+      90201,
+      90202
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700330,
+      10700331,
+      10700332
+    ]
+  },
+  {
+    "MainAvatarID": 3701,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Sirin_MS_0",
+    "ParamList": [
+      "1.5",
+      "5",
+      "3",
+      "2",
+      "10",
+      "0.3",
+      "60",
+      "5"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      1370101,
+      1370102,
+      1370103
+    ],
+    "AvatarMissionList": [
+      90206,
+      90207,
+      90208
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700336,
+      10700337,
+      10700338
+    ]
+  },
+  {
+    "MainAvatarID": 20201,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Senadina_SD_0",
+    "ParamList": [
+      "5",
+      "-5",
+      "-5",
+      "0.5",
+      "0.5"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12020101,
+      12020102,
+      12020103,
+      12020104
+    ],
+    "AvatarMissionList": [
+      90218,
+      90219,
+      90220
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700348,
+      10700349,
+      10700350
+    ]
+  },
+  {
+    "MainAvatarID": 20301,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Coralle_CL_0",
+    "ParamList": [
+      "8",
+      "100"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12030101,
+      12030102,
+      12030103
+    ],
+    "AvatarMissionList": [
+      90221,
+      90222,
+      90223
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700351,
+      10700352,
+      10700353
+    ]
+  },
+  {
+    "MainAvatarID": 20302,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Coralie_DG_0",
+    "ParamList": [
+      "0.2"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12030201,
+      12030202
+    ],
+    "AvatarMissionList": [
+      90257,
+      90258,
+      90259
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700387,
+      10700388,
+      10700389
+    ]
+  },
+  {
+    "MainAvatarID": 20401,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Avatar_Helia_HL_0",
+    "ParamList": [
+      "150",
+      "100"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12040101,
+      12040102,
+      12040103
+    ],
+    "AvatarMissionList": [
+      90224,
+      90225,
+      90226
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700354,
+      10700355,
+      10700356
+    ]
+  },
+  {
+    "MainAvatarID": 20402,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Helia_GF_0",
+    "ParamList": [
+      "200"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12040201
+    ],
+    "AvatarMissionList": [
+      90254,
+      90255,
+      90256
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700384,
+      10700385,
+      10700386
+    ]
+  },
+  {
+    "MainAvatarID": 20501,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Thelema_DR_0",
+    "ParamList": [
+      "40",
+      "0"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12050101,
+      12050102,
+      12050103
+    ],
+    "AvatarMissionList": [
+      90227,
+      90228,
+      90229
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700357,
+      10700358,
+      10700359
+    ]
+  },
+  {
+    "MainAvatarID": 20601,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Lantern_SG_BUFF0",
+    "ParamList": [
+      "3.5"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12060101
+    ],
+    "AvatarMissionList": [
+      90230,
+      90231,
+      90232
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700360,
+      10700361,
+      10700362
+    ]
+  },
+  {
+    "MainAvatarID": 20701,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Songque_SQ_0",
+    "ParamList": [
+      "0.2"
+    ],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12070101,
+      12070201
+    ],
+    "AvatarMissionList": [
+      90233,
+      90234,
+      90235
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700363,
+      10700364,
+      10700365
+    ]
+  },
+  {
+    "MainAvatarID": 20801,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Vita_CS_0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12080101
+    ],
+    "AvatarMissionList": [
+      90239,
+      90240,
+      90241
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700369,
+      10700370,
+      10700371
+    ]
+  },
+  {
+    "MainAvatarID": 20901,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_Avatar_Sparkle_LD_0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12090101,
+      12090102
+    ],
+    "AvatarMissionList": [
+      90242,
+      90243,
+      90244
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700372,
+      10700373,
+      10700374
+    ]
+  },
+  {
+    "MainAvatarID": 21001,
+    "GodWarID": 1,
+    "AbilityName": "ABL_RogueTower_NO85_VN_0",
+    "ParamList": [],
+    "StepUnlockMissionMap": [],
+    "AvatarAbilityID": [
+      12100101,
+      12100102,
+      12100103
+    ],
+    "AvatarMissionList": [
+      90260,
+      90261,
+      90262
+    ],
+    "RecommendLink": "",
+    "AvatarChallengeStageIDList": [
+      10700390,
+      10700391,
+      10700392
+    ]
+  }
 ]

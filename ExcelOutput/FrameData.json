@@ -1,14 +1,12 @@
 [
   {
-    "_readOffset": 688,
-    "DataImpl": {},
     "id": 200001,
     "name": {
-      "hash": -512036890
+      "Hash": -512036890
     },
     "rarity": 1,
     "desc": {
-      "hash": -1953892064
+      "Hash": -1953892064
     },
     "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Empty",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Empty",
@@ -17,15 +15,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 832,
-    "DataImpl": {},
     "id": 200002,
     "name": {
-      "hash": -512036889
+      "Hash": -512036889
     },
     "rarity": 3,
     "desc": {
-      "hash": -1953892063
+      "Hash": -1953892063
     },
     "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master",
@@ -34,15 +30,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 978,
-    "DataImpl": {},
     "id": 200003,
     "name": {
-      "hash": -512036888
+      "Hash": -512036888
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892062
+      "Hash": -1953892062
     },
     "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master2",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Master2",
@@ -51,15 +45,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 1126,
-    "DataImpl": {},
     "id": 200004,
     "name": {
-      "hash": -512036887
+      "Hash": -512036887
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892061
+      "Hash": -1953892061
     },
     "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Crystal",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Crystal",
@@ -68,15 +60,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 1274,
-    "DataImpl": {},
     "id": 200005,
     "name": {
-      "hash": -512036886
+      "Hash": -512036886
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892060
+      "Hash": -1953892060
     },
     "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_OceanRaid",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_OceanRaid",
@@ -85,15 +75,13 @@
     "Type": 1
   },
   {
-    "_readOffset": 1426,
-    "DataImpl": {},
     "id": 200006,
     "name": {
-      "hash": -512036885
+      "Hash": -512036885
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892059
+      "Hash": -1953892059
     },
     "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_LevelBreak",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_LevelBreak",
@@ -102,15 +90,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 1580,
-    "DataImpl": {},
     "id": 200007,
     "name": {
-      "hash": -512036884
+      "Hash": -512036884
     },
     "rarity": 3,
     "desc": {
-      "hash": -1953892058
+      "Hash": -1953892058
     },
     "iconPath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_KindomWar2019",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_KindomWar2019",
@@ -119,15 +105,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 1740,
-    "DataImpl": {},
     "id": 200010,
     "name": {
-      "hash": -512036860
+      "Hash": -512036860
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892034
+      "Hash": -1953892034
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePass",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePass",
@@ -136,15 +120,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 1899,
-    "DataImpl": {},
     "id": 200011,
     "name": {
-      "hash": -512036859
+      "Hash": -512036859
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892033
+      "Hash": -1953892033
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200011",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200011",
@@ -153,15 +135,13 @@
     "Type": 1
   },
   {
-    "_readOffset": 2050,
-    "DataImpl": {},
     "id": 200012,
     "name": {
-      "hash": -512036858
+      "Hash": -512036858
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892032
+      "Hash": -1953892032
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200012",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200012",
@@ -170,15 +150,13 @@
     "Type": 1
   },
   {
-    "_readOffset": 2201,
-    "DataImpl": {},
     "id": 200013,
     "name": {
-      "hash": -512036857
+      "Hash": -512036857
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892031
+      "Hash": -1953892031
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS2",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS2",
@@ -187,15 +165,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 2364,
-    "DataImpl": {},
     "id": 200014,
     "name": {
-      "hash": -512036856
+      "Hash": -512036856
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892030
+      "Hash": -1953892030
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Login01",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Login01",
@@ -204,15 +180,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 2517,
-    "DataImpl": {},
     "id": 200015,
     "name": {
-      "hash": -512036855
+      "Hash": -512036855
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892029
+      "Hash": -1953892029
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Login02",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Login02",
@@ -221,15 +195,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 2670,
-    "DataImpl": {},
     "id": 200016,
     "name": {
-      "hash": -512036854
+      "Hash": -512036854
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892028
+      "Hash": -1953892028
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS3",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS3",
@@ -238,15 +210,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 2833,
-    "DataImpl": {},
     "id": 200017,
     "name": {
-      "hash": -512036853
+      "Hash": -512036853
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892027
+      "Hash": -1953892027
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Seele",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Seele",
@@ -255,15 +225,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 2982,
-    "DataImpl": {},
     "id": 200018,
     "name": {
-      "hash": -512036852
+      "Hash": -512036852
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892026
+      "Hash": -1953892026
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS4",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS4",
@@ -272,15 +240,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 3145,
-    "DataImpl": {},
     "id": 200019,
     "name": {
-      "hash": -512036851
+      "Hash": -512036851
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892025
+      "Hash": -1953892025
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS5",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS5",
@@ -289,15 +255,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 3308,
-    "DataImpl": {},
     "id": 200020,
     "name": {
-      "hash": -512036829
+      "Hash": -512036829
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892003
+      "Hash": -1953892003
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_FukaC4",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_FukaC4",
@@ -306,15 +270,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 3459,
-    "DataImpl": {},
     "id": 200021,
     "name": {
-      "hash": -512036828
+      "Hash": -512036828
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892002
+      "Hash": -1953892002
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_AichanFarm",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_AichanFarm",
@@ -323,15 +285,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 3618,
-    "DataImpl": {},
     "id": 200022,
     "name": {
-      "hash": -512036827
+      "Hash": -512036827
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892001
+      "Hash": -1953892001
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS6",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS6",
@@ -340,15 +300,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 3781,
-    "DataImpl": {},
     "id": 200023,
     "name": {
-      "hash": -512036826
+      "Hash": -512036826
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953892000
+      "Hash": -1953892000
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS7",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS7",
@@ -357,15 +315,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 3944,
-    "DataImpl": {},
     "id": 200024,
     "name": {
-      "hash": -512036825
+      "Hash": -512036825
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891999
+      "Hash": -1953891999
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Tmall",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Tmall",
@@ -374,15 +330,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 4093,
-    "DataImpl": {},
     "id": 200025,
     "name": {
-      "hash": -512036824
+      "Hash": -512036824
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891998
+      "Hash": -1953891998
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_DuanWu",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_DuanWu",
@@ -391,15 +345,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 4244,
-    "DataImpl": {},
     "id": 200026,
     "name": {
-      "hash": -512036823
+      "Hash": -512036823
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891997
+      "Hash": -1953891997
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_MeiDragon",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_MeiDragon",
@@ -408,15 +360,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 4401,
-    "DataImpl": {},
     "id": 200027,
     "name": {
-      "hash": -512036822
+      "Hash": -512036822
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891996
+      "Hash": -1953891996
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS8",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS8",
@@ -425,15 +375,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 4564,
-    "DataImpl": {},
     "id": 200028,
     "name": {
-      "hash": -512036821
+      "Hash": -512036821
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891995
+      "Hash": -1953891995
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_4thAnniversary",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_4thAnniversary",
@@ -442,15 +390,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 4731,
-    "DataImpl": {},
     "id": 200029,
     "name": {
-      "hash": -512036820
+      "Hash": -512036820
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891994
+      "Hash": -1953891994
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_20KCharge",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_20KCharge",
@@ -459,15 +405,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 4888,
-    "DataImpl": {},
     "id": 200030,
     "name": {
-      "hash": -512036798
+      "Hash": -512036798
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891972
+      "Hash": -1953891972
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_Login03",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_Login03",
@@ -476,15 +420,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 5041,
-    "DataImpl": {},
     "id": 200031,
     "name": {
-      "hash": -512036797
+      "Hash": -512036797
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891971
+      "Hash": -1953891971
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_BattlePassS9",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_BattlePassS9",
@@ -493,15 +435,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 5204,
-    "DataImpl": {},
     "id": 200032,
     "name": {
-      "hash": -512036796
+      "Hash": -512036796
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891970
+      "Hash": -1953891970
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200031",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200031",
@@ -510,15 +450,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 5355,
-    "DataImpl": {},
     "id": 200033,
     "name": {
-      "hash": -512036795
+      "Hash": -512036795
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891969
+      "Hash": -1953891969
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200033",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200033",
@@ -527,15 +465,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 5506,
-    "DataImpl": {},
     "id": 200035,
     "name": {
-      "hash": -512036793
+      "Hash": -512036793
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891967
+      "Hash": -1953891967
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200035",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200035",
@@ -544,15 +480,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 5657,
-    "DataImpl": {},
     "id": 200036,
     "name": {
-      "hash": -512036792
+      "Hash": -512036792
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891966
+      "Hash": -1953891966
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200036",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200036",
@@ -561,15 +495,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 5808,
-    "DataImpl": {},
     "id": 200037,
     "name": {
-      "hash": -512036791
+      "Hash": -512036791
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891965
+      "Hash": -1953891965
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200037",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200037",
@@ -578,15 +510,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 5959,
-    "DataImpl": {},
     "id": 200038,
     "name": {
-      "hash": -512036790
+      "Hash": -512036790
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891964
+      "Hash": -1953891964
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200038",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200038",
@@ -595,15 +525,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 6110,
-    "DataImpl": {},
     "id": 200040,
     "name": {
-      "hash": -512036767
+      "Hash": -512036767
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891941
+      "Hash": -1953891941
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200040",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200040",
@@ -612,15 +540,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 6261,
-    "DataImpl": {},
     "id": 200041,
     "name": {
-      "hash": -512036766
+      "Hash": -512036766
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891940
+      "Hash": -1953891940
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200041",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200041",
@@ -629,15 +555,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 6412,
-    "DataImpl": {},
     "id": 200042,
     "name": {
-      "hash": -512036765
+      "Hash": -512036765
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891939
+      "Hash": -1953891939
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200042",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200042",
@@ -646,15 +570,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 6563,
-    "DataImpl": {},
     "id": 200043,
     "name": {
-      "hash": -512036764
+      "Hash": -512036764
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891938
+      "Hash": -1953891938
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200043",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200043",
@@ -663,15 +585,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 6714,
-    "DataImpl": {},
     "id": 200044,
     "name": {
-      "hash": -512036763
+      "Hash": -512036763
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891937
+      "Hash": -1953891937
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200044",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200044",
@@ -680,15 +600,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 6865,
-    "DataImpl": {},
     "id": 200045,
     "name": {
-      "hash": -512036762
+      "Hash": -512036762
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891936
+      "Hash": -1953891936
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200045",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200045",
@@ -697,15 +615,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 7016,
-    "DataImpl": {},
     "id": 200046,
     "name": {
-      "hash": -512036761
+      "Hash": -512036761
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891935
+      "Hash": -1953891935
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200046",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200046",
@@ -714,15 +630,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 7167,
-    "DataImpl": {},
     "id": 200047,
     "name": {
-      "hash": -512036760
+      "Hash": -512036760
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891934
+      "Hash": -1953891934
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200047",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200047",
@@ -731,32 +645,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 7318,
-    "DataImpl": {},
-    "id": 200048,
-    "name": {
-      "hash": -512036759
-    },
-    "rarity": 4,
-    "desc": {
-      "hash": -1953891933
-    },
-    "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200039",
-    "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200039",
-    "isShow": true,
-    "UIShowOrder": 43,
-    "Type": 0
-  },
-  {
-    "_readOffset": 7469,
-    "DataImpl": {},
     "id": 200049,
     "name": {
-      "hash": -512036758
+      "Hash": -512036758
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891932
+      "Hash": -1953891932
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200049",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200049",
@@ -765,15 +660,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 7620,
-    "DataImpl": {},
     "id": 200050,
     "name": {
-      "hash": -512036736
+      "Hash": -512036736
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891910
+      "Hash": -1953891910
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200050",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200050",
@@ -782,15 +675,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 7771,
-    "DataImpl": {},
     "id": 200051,
     "name": {
-      "hash": -512036735
+      "Hash": -512036735
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891909
+      "Hash": -1953891909
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200051",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200051",
@@ -799,15 +690,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 7922,
-    "DataImpl": {},
     "id": 200052,
     "name": {
-      "hash": -512036734
+      "Hash": -512036734
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891908
+      "Hash": -1953891908
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200052",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200052",
@@ -816,15 +705,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 8073,
-    "DataImpl": {},
     "id": 200053,
     "name": {
-      "hash": -512036733
+      "Hash": -512036733
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891907
+      "Hash": -1953891907
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200053",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200053",
@@ -833,15 +720,28 @@
     "Type": 0
   },
   {
-    "_readOffset": 8224,
-    "DataImpl": {},
+    "id": 200055,
+    "name": {
+      "Hash": -512036731
+    },
+    "rarity": 5,
+    "desc": {
+      "Hash": -1953891905
+    },
+    "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200055",
+    "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200055",
+    "isShow": true,
+    "UIShowOrder": 49,
+    "Type": 0
+  },
+  {
     "id": 200056,
     "name": {
-      "hash": -512036730
+      "Hash": -512036730
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891904
+      "Hash": -1953891904
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200056",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200056",
@@ -850,15 +750,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 8375,
-    "DataImpl": {},
     "id": 200057,
     "name": {
-      "hash": -512036729
+      "Hash": -512036729
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891903
+      "Hash": -1953891903
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200057",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200057",
@@ -867,15 +765,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 8526,
-    "DataImpl": {},
     "id": 200058,
     "name": {
-      "hash": -512036728
+      "Hash": -512036728
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891902
+      "Hash": -1953891902
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200058",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200058",
@@ -884,15 +780,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 8677,
-    "DataImpl": {},
     "id": 200059,
     "name": {
-      "hash": -512036727
+      "Hash": -512036727
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891901
+      "Hash": -1953891901
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200059",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200059",
@@ -901,15 +795,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 8828,
-    "DataImpl": {},
     "id": 200060,
     "name": {
-      "hash": -512036705
+      "Hash": -512036705
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891879
+      "Hash": -1953891879
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200060",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200060",
@@ -918,15 +810,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 8979,
-    "DataImpl": {},
     "id": 200061,
     "name": {
-      "hash": -512036704
+      "Hash": -512036704
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891878
+      "Hash": -1953891878
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200061",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200061",
@@ -935,15 +825,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 9130,
-    "DataImpl": {},
     "id": 200062,
     "name": {
-      "hash": -512036703
+      "Hash": -512036703
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891877
+      "Hash": -1953891877
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200062",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200062",
@@ -952,15 +840,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 9281,
-    "DataImpl": {},
     "id": 200063,
     "name": {
-      "hash": -512036702
+      "Hash": -512036702
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891876
+      "Hash": -1953891876
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200063",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200063",
@@ -969,15 +855,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 9432,
-    "DataImpl": {},
     "id": 200064,
     "name": {
-      "hash": -512036701
+      "Hash": -512036701
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891875
+      "Hash": -1953891875
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200064",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200064",
@@ -986,15 +870,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 9583,
-    "DataImpl": {},
     "id": 200065,
     "name": {
-      "hash": -512036700
+      "Hash": -512036700
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891874
+      "Hash": -1953891874
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200065",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200065",
@@ -1003,15 +885,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 9734,
-    "DataImpl": {},
     "id": 200066,
     "name": {
-      "hash": -512036699
+      "Hash": -512036699
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891873
+      "Hash": -1953891873
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200066",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200066",
@@ -1020,15 +900,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 9885,
-    "DataImpl": {},
     "id": 200067,
     "name": {
-      "hash": -512036698
+      "Hash": -512036698
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891872
+      "Hash": -1953891872
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200067",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200067",
@@ -1037,15 +915,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 10036,
-    "DataImpl": {},
     "id": 200068,
     "name": {
-      "hash": -512036697
+      "Hash": -512036697
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891871
+      "Hash": -1953891871
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200068",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200068",
@@ -1054,15 +930,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 10187,
-    "DataImpl": {},
     "id": 200069,
     "name": {
-      "hash": -512036696
+      "Hash": -512036696
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891870
+      "Hash": -1953891870
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200069",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200069",
@@ -1071,15 +945,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 10338,
-    "DataImpl": {},
     "id": 200071,
     "name": {
-      "hash": -512036673
+      "Hash": -512036673
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891847
+      "Hash": -1953891847
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200071",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200071",
@@ -1088,15 +960,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 10489,
-    "DataImpl": {},
     "id": 200072,
     "name": {
-      "hash": -512036672
+      "Hash": -512036672
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891846
+      "Hash": -1953891846
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200072",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200072",
@@ -1105,15 +975,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 10640,
-    "DataImpl": {},
     "id": 200073,
     "name": {
-      "hash": -512036671
+      "Hash": -512036671
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891845
+      "Hash": -1953891845
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200073",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200073",
@@ -1122,15 +990,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 10791,
-    "DataImpl": {},
     "id": 200074,
     "name": {
-      "hash": -512036670
+      "Hash": -512036670
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891844
+      "Hash": -1953891844
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200074",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200074",
@@ -1139,15 +1005,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 10942,
-    "DataImpl": {},
     "id": 200075,
     "name": {
-      "hash": -512036669
+      "Hash": -512036669
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891843
+      "Hash": -1953891843
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200075",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200075",
@@ -1156,15 +1020,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 11093,
-    "DataImpl": {},
     "id": 200076,
     "name": {
-      "hash": -512036668
+      "Hash": -512036668
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891842
+      "Hash": -1953891842
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200076",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200076",
@@ -1173,15 +1035,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 11244,
-    "DataImpl": {},
     "id": 200077,
     "name": {
-      "hash": -512036667
+      "Hash": -512036667
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891841
+      "Hash": -1953891841
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200077",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200077",
@@ -1190,15 +1050,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 11395,
-    "DataImpl": {},
     "id": 200078,
     "name": {
-      "hash": -512036666
+      "Hash": -512036666
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891840
+      "Hash": -1953891840
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200078",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200078",
@@ -1207,15 +1065,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 11546,
-    "DataImpl": {},
     "id": 200079,
     "name": {
-      "hash": -512036665
+      "Hash": -512036665
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891839
+      "Hash": -1953891839
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200079",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200079",
@@ -1224,15 +1080,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 11697,
-    "DataImpl": {},
     "id": 200080,
     "name": {
-      "hash": -512036643
+      "Hash": -512036643
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891817
+      "Hash": -1953891817
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200080",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200080",
@@ -1241,15 +1095,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 11848,
-    "DataImpl": {},
     "id": 200081,
     "name": {
-      "hash": -512036642
+      "Hash": -512036642
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891816
+      "Hash": -1953891816
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200081",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200081",
@@ -1258,15 +1110,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 11999,
-    "DataImpl": {},
     "id": 200082,
     "name": {
-      "hash": -512036641
+      "Hash": -512036641
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891815
+      "Hash": -1953891815
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200082",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200082",
@@ -1275,15 +1125,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 12150,
-    "DataImpl": {},
     "id": 200083,
     "name": {
-      "hash": -512036640
+      "Hash": -512036640
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891814
+      "Hash": -1953891814
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200083",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200083",
@@ -1292,15 +1140,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 12301,
-    "DataImpl": {},
     "id": 200084,
     "name": {
-      "hash": -512036639
+      "Hash": -512036639
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891813
+      "Hash": -1953891813
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200084",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200084",
@@ -1309,15 +1155,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 12452,
-    "DataImpl": {},
     "id": 200085,
     "name": {
-      "hash": -512036638
+      "Hash": -512036638
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891812
+      "Hash": -1953891812
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200085",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200085",
@@ -1326,15 +1170,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 12603,
-    "DataImpl": {},
     "id": 200086,
     "name": {
-      "hash": -512036637
+      "Hash": -512036637
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891811
+      "Hash": -1953891811
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/200086",
     "imagePath": "SpriteOutput/AvatarCardBorder/200086",
@@ -1343,15 +1185,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 12720,
-    "DataImpl": {},
     "id": 200087,
     "name": {
-      "hash": -512036636
+      "Hash": -512036636
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891810
+      "Hash": -1953891810
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200087",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200087",
@@ -1360,15 +1200,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 12871,
-    "DataImpl": {},
     "id": 200088,
     "name": {
-      "hash": -512036635
+      "Hash": -512036635
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891809
+      "Hash": -1953891809
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200088",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200088",
@@ -1377,15 +1215,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 13022,
-    "DataImpl": {},
     "id": 200089,
     "name": {
-      "hash": -512036634
+      "Hash": -512036634
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891808
+      "Hash": -1953891808
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200089",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200089",
@@ -1394,15 +1230,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 13173,
-    "DataImpl": {},
     "id": 200090,
     "name": {
-      "hash": -512036612
+      "Hash": -512036612
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891786
+      "Hash": -1953891786
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200090",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200090",
@@ -1411,15 +1245,13 @@
     "Type": 0
   },
   {
-    "_readOffset": 13324,
-    "DataImpl": {},
     "id": 200091,
     "name": {
-      "hash": -512036611
+      "Hash": -512036611
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891785
+      "Hash": -1953891785
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200091",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200091",
@@ -1428,20 +1260,63 @@
     "Type": 0
   },
   {
-    "_readOffset": 13475,
-    "DataImpl": {},
     "id": 200092,
     "name": {
-      "hash": -512036610
+      "Hash": -512036610
     },
     "rarity": 4,
     "desc": {
-      "hash": -1953891784
+      "Hash": -1953891784
     },
     "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200092",
     "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200092",
     "isShow": true,
     "UIShowOrder": 85,
+    "Type": 0
+  },
+  {
+    "id": 200093,
+    "name": {
+      "Hash": -512036609
+    },
+    "rarity": 4,
+    "desc": {
+      "Hash": -1953891783
+    },
+    "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200093",
+    "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200093",
+    "isShow": true,
+    "UIShowOrder": 86,
+    "Type": 0
+  },
+  {
+    "id": 200094,
+    "name": {
+      "Hash": -512036608
+    },
+    "rarity": 4,
+    "desc": {
+      "Hash": -1953891782
+    },
+    "iconPath": "SpriteOutput/AvatarCardBorderIcons/AvatarCardBorder_200094",
+    "imagePath": "SpriteOutput/AvatarCardBorder/AvatarCardBorder_200094",
+    "isShow": true,
+    "UIShowOrder": 87,
+    "Type": 0
+  },
+  {
+    "id": 200095,
+    "name": {
+      "Hash": -512036607
+    },
+    "rarity": 4,
+    "desc": {
+      "Hash": -1953891781
+    },
+    "iconPath": "event/Immediately/AvatarCardBorderIcons/back_8.5_AvatarCardBorder_200095",
+    "imagePath": "event/Immediately/AvatarCardBorder/back_8.5_AvatarCardBorder_200095",
+    "isShow": false,
+    "UIShowOrder": 88,
     "Type": 0
   }
 ]

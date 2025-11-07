@@ -1,12 +1,10 @@
 [
   {
-    "_readOffset": 520,
-    "DataImpl": {},
     "ActivityID": 40000085,
-    "AvatarID": 705,
+    "avatarID": 705,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81814942
+      "Hash": 81814942
     },
     "SiteList": [
       1,
@@ -30,17 +28,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 637,
-    "DataImpl": {},
     "ActivityID": 40000086,
-    "AvatarID": 802,
+    "avatarID": 802,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81814943
+      "Hash": 81814943
     },
     "SiteList": [
       7,
@@ -65,17 +61,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 758,
-    "DataImpl": {},
     "ActivityID": 40000087,
-    "AvatarID": 506,
+    "avatarID": 506,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81814944
+      "Hash": 81814944
     },
     "SiteList": [
       14,
@@ -99,17 +93,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 875,
-    "DataImpl": {},
     "ActivityID": 40000088,
-    "AvatarID": 205,
+    "avatarID": 205,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81814945
+      "Hash": 81814945
     },
     "SiteList": [
       18,
@@ -135,17 +127,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 1000,
-    "DataImpl": {},
     "ActivityID": 40000117,
-    "AvatarID": 202,
+    "avatarID": 202,
     "ArtifactPath": "SpriteOutput/AvatarCardIcons/202_05_02",
     "TitleName": {
-      "hash": 81815688
+      "Hash": 81815688
     },
     "SiteList": [
       24,
@@ -164,17 +154,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 1139,
-    "DataImpl": {},
     "ActivityID": 40000118,
-    "AvatarID": 422,
+    "avatarID": 422,
     "ArtifactPath": "SpriteOutput/AvatarCardIcons/60422_05_01",
     "TitleName": {
-      "hash": 81815689
+      "Hash": 81815689
     },
     "SiteList": [
       28,
@@ -198,17 +186,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 1296,
-    "DataImpl": {},
     "ActivityID": 40000119,
-    "AvatarID": 803,
+    "avatarID": 803,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815690
+      "Hash": 81815690
     },
     "SiteList": [
       34,
@@ -232,17 +218,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 1413,
-    "DataImpl": {},
     "ActivityID": 40000120,
-    "AvatarID": 901,
+    "avatarID": 901,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815712
+      "Hash": 81815712
     },
     "SiteList": [
       40,
@@ -262,17 +246,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 1518,
-    "DataImpl": {},
     "ActivityID": 40000130,
-    "AvatarID": 612,
+    "avatarID": 612,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815743
+      "Hash": 81815743
     },
     "SiteList": [
       45,
@@ -297,17 +279,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 1639,
-    "DataImpl": {},
     "ActivityID": 40000131,
-    "AvatarID": 314,
+    "avatarID": 314,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815744
+      "Hash": 81815744
     },
     "SiteList": [
       52,
@@ -332,17 +312,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 1760,
-    "DataImpl": {},
     "ActivityID": 40000133,
-    "AvatarID": 713,
+    "avatarID": 713,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815746
+      "Hash": 81815746
     },
     "SiteList": [
       57,
@@ -367,17 +345,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 1881,
-    "DataImpl": {},
     "ActivityID": 40000134,
-    "AvatarID": 2101,
+    "avatarID": 2101,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815747
+      "Hash": 81815747
     },
     "SiteList": [
       64,
@@ -402,17 +378,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 2002,
-    "DataImpl": {},
     "ActivityID": 40000135,
-    "AvatarID": 704,
+    "avatarID": 704,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815748
+      "Hash": 81815748
     },
     "SiteList": [
       69,
@@ -435,17 +409,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 2115,
-    "DataImpl": {},
     "ActivityID": 40000136,
-    "AvatarID": 313,
+    "avatarID": 313,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815749
+      "Hash": 81815749
     },
     "SiteList": [
       74,
@@ -468,17 +440,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 2228,
-    "DataImpl": {},
     "ActivityID": 40000137,
-    "AvatarID": 712,
+    "avatarID": 712,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815750
+      "Hash": 81815750
     },
     "SiteList": [
       78,
@@ -504,17 +474,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 2353,
-    "DataImpl": {},
     "ActivityID": 40000138,
-    "AvatarID": 112,
+    "avatarID": 112,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815751
+      "Hash": 81815751
     },
     "SiteList": [
       82,
@@ -532,17 +500,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 2450,
-    "DataImpl": {},
     "ActivityID": 40000139,
-    "AvatarID": 801,
+    "avatarID": 801,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815752
+      "Hash": 81815752
     },
     "SiteList": [
       85,
@@ -560,17 +526,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 2547,
-    "DataImpl": {},
     "ActivityID": 40000140,
-    "AvatarID": 105,
+    "avatarID": 105,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815774
+      "Hash": 81815774
     },
     "SiteList": [
       88,
@@ -594,17 +558,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 2664,
-    "DataImpl": {},
     "ActivityID": 40000142,
-    "AvatarID": 2201,
+    "avatarID": 2201,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815776
+      "Hash": 81815776
     },
     "SiteList": [
       94,
@@ -628,17 +590,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 2781,
-    "DataImpl": {},
     "ActivityID": 40000143,
-    "AvatarID": 203,
+    "avatarID": 203,
     "ArtifactPath": "SpriteOutput/AvatarCardIcons/60203_05_01",
     "TitleName": {
-      "hash": 81815777
+      "Hash": 81815777
     },
     "SiteList": [
       100,
@@ -656,17 +616,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 2918,
-    "DataImpl": {},
     "ActivityID": 40000144,
-    "AvatarID": 511,
+    "avatarID": 511,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815778
+      "Hash": 81815778
     },
     "SiteList": [
       103,
@@ -684,17 +642,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 3015,
-    "DataImpl": {},
     "ActivityID": 40000147,
-    "AvatarID": 2301,
+    "avatarID": 2301,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815781
+      "Hash": 81815781
     },
     "SiteList": [
       105,
@@ -728,17 +684,15 @@
     "TagBeginTime": "2021-09-23 08:00:00",
     "TagEndTime": "2021-10-22 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 3206,
-    "DataImpl": {},
     "ActivityID": 40000148,
-    "AvatarID": 2401,
+    "avatarID": 2401,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815782
+      "Hash": 81815782
     },
     "SiteList": [
       110,
@@ -770,17 +724,15 @@
     "TagBeginTime": "2021-09-23 08:00:00",
     "TagEndTime": "2021-10-22 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 3389,
-    "DataImpl": {},
     "ActivityID": 40000149,
-    "AvatarID": 502,
+    "avatarID": 502,
     "ArtifactPath": "SpriteOutput/AvatarCardIcons/60502_05_01",
     "TitleName": {
-      "hash": 81815783
+      "Hash": 81815783
     },
     "SiteList": [
       114,
@@ -802,17 +754,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 3538,
-    "DataImpl": {},
     "ActivityID": 40000150,
-    "AvatarID": 2501,
+    "avatarID": 2501,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815805
+      "Hash": 81815805
     },
     "SiteList": [
       118,
@@ -844,17 +794,15 @@
     "TagBeginTime": "2021-11-04 08:00:00",
     "TagEndTime": "2021-12-03 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 3721,
-    "DataImpl": {},
     "ActivityID": 40000151,
-    "AvatarID": 315,
+    "avatarID": 315,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815806
+      "Hash": 81815806
     },
     "SiteList": [
       122,
@@ -888,17 +836,15 @@
     "TagBeginTime": "2021-12-16 08:00:00",
     "TagEndTime": "2022-01-07 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 3912,
-    "DataImpl": {},
     "ActivityID": 40000155,
-    "AvatarID": 804,
+    "avatarID": 804,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815810
+      "Hash": 81815810
     },
     "SiteList": [
       127,
@@ -933,17 +879,15 @@
     "TagBeginTime": "2022-01-27 08:00:00",
     "TagEndTime": "2022-02-25 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 4107,
-    "DataImpl": {},
     "ActivityID": 40000156,
-    "AvatarID": 706,
+    "avatarID": 706,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815811
+      "Hash": 81815811
     },
     "SiteList": [
       132,
@@ -978,17 +922,15 @@
     "TagBeginTime": "2022-01-27 08:00:00",
     "TagEndTime": "2022-02-25 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 4302,
-    "DataImpl": {},
     "ActivityID": 40000164,
-    "AvatarID": 711,
+    "avatarID": 711,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815840
+      "Hash": 81815840
     },
     "SiteList": [
       137,
@@ -1007,17 +949,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 4403,
-    "DataImpl": {},
     "ActivityID": 40000165,
-    "AvatarID": 302,
+    "avatarID": 302,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815841
+      "Hash": 81815841
     },
     "SiteList": [
       140,
@@ -1036,17 +976,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 4504,
-    "DataImpl": {},
     "ActivityID": 40000166,
-    "AvatarID": 113,
+    "avatarID": 113,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815842
+      "Hash": 81815842
     },
     "SiteList": [
       143,
@@ -1071,17 +1009,15 @@
     "TagBeginTime": "",
     "TagEndTime": "",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 4625,
-    "DataImpl": {},
     "ActivityID": 40000167,
-    "AvatarID": 2601,
+    "avatarID": 2601,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815843
+      "Hash": 81815843
     },
     "SiteList": [
       160,
@@ -1116,17 +1052,15 @@
     "TagBeginTime": "2022-03-10 08:00:00",
     "TagEndTime": "2022-04-08 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 4820,
-    "DataImpl": {},
     "ActivityID": 40000168,
-    "AvatarID": 2801,
+    "avatarID": 2801,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815844
+      "Hash": 81815844
     },
     "SiteList": [
       165,
@@ -1157,20 +1091,18 @@
     ],
     "EntryWeight": 570,
     "IsActivityEntry": true,
-    "TagBeginTime": "2022-04-21 08:00:00",
-    "TagEndTime": "2022-05-20 11:59:59",
+    "TagBeginTime": "2022-05-19 04:00:00",
+    "TagEndTime": "2022-06-17 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 5011,
-    "DataImpl": {},
     "ActivityID": 40000169,
-    "AvatarID": 2701,
+    "avatarID": 2701,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815845
+      "Hash": 81815845
     },
     "SiteList": [
       169,
@@ -1202,20 +1134,18 @@
     ],
     "EntryWeight": 571,
     "IsActivityEntry": true,
-    "TagBeginTime": "2022-04-21 08:00:00",
-    "TagEndTime": "2022-05-20 11:59:59",
+    "TagBeginTime": "2022-05-19 04:00:00",
+    "TagEndTime": "2022-06-17 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 5206,
-    "DataImpl": {},
     "ActivityID": 40000171,
-    "AvatarID": 2901,
+    "avatarID": 2901,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815868
+      "Hash": 81815868
     },
     "SiteList": [
       179,
@@ -1234,7 +1164,7 @@
       87738,
       87739,
       671847,
-      87744
+      1063520
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -1247,20 +1177,18 @@
     ],
     "EntryWeight": 581,
     "IsActivityEntry": true,
-    "TagBeginTime": "2022-06-02 08:00:00",
-    "TagEndTime": "2022-07-01 11:59:59",
+    "TagBeginTime": "2022-06-30 04:00:00",
+    "TagEndTime": "2022-07-29 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 5401,
-    "DataImpl": {},
     "ActivityID": 40000172,
-    "AvatarID": 3001,
+    "avatarID": 3001,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815869
+      "Hash": 81815869
     },
     "SiteList": [
       184,
@@ -1278,7 +1206,7 @@
       87748,
       87749,
       87750,
-      87755
+      1063608
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -1291,20 +1219,18 @@
     ],
     "EntryWeight": 591,
     "IsActivityEntry": true,
-    "TagBeginTime": "2022-07-14 08:00:00",
-    "TagEndTime": "2022-08-05 11:59:59",
+    "TagBeginTime": "2022-08-11 04:00:00",
+    "TagEndTime": "2022-09-02 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 5592,
-    "DataImpl": {},
     "ActivityID": 40000173,
-    "AvatarID": 2202,
+    "avatarID": 2202,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815870
+      "Hash": 81815870
     },
     "SiteList": [
       189,
@@ -1335,20 +1261,18 @@
     ],
     "EntryWeight": 601,
     "IsActivityEntry": true,
-    "TagBeginTime": "2025-01-23 07:00:00",
-    "TagEndTime": "2025-02-21 11:59:59",
+    "TagBeginTime": "2025-02-20 04:00:00",
+    "TagEndTime": "2025-03-21 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 5783,
-    "DataImpl": {},
     "ActivityID": 40000174,
-    "AvatarID": 3101,
+    "avatarID": 3101,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815871
+      "Hash": 81815871
     },
     "SiteList": [
       194,
@@ -1367,7 +1291,7 @@
       87774,
       87775,
       672688,
-      87780
+      1063731
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -1380,20 +1304,18 @@
     ],
     "EntryWeight": 610,
     "IsActivityEntry": true,
-    "TagBeginTime": "2022-09-29 08:00:00",
-    "TagEndTime": "2022-10-14 11:59:59",
+    "TagBeginTime": "2022-10-27 04:00:00",
+    "TagEndTime": "2022-11-11 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 5978,
-    "DataImpl": {},
     "ActivityID": 40000175,
-    "AvatarID": 3201,
+    "avatarID": 3201,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815872
+      "Hash": 81815872
     },
     "SiteList": [
       199,
@@ -1412,7 +1334,7 @@
       87791,
       87792,
       87798,
-      87797
+      1063775
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -1425,20 +1347,18 @@
     ],
     "EntryWeight": 621,
     "IsActivityEntry": true,
-    "TagBeginTime": "2022-11-10 08:00:00",
-    "TagEndTime": "2022-12-02 11:59:59",
+    "TagBeginTime": "2022-12-08 04:00:00",
+    "TagEndTime": "2022-12-30 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 6173,
-    "DataImpl": {},
     "ActivityID": 40000176,
-    "AvatarID": 317,
+    "avatarID": 317,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815873
+      "Hash": 81815873
     },
     "SiteList": [
       204,
@@ -1458,7 +1378,7 @@
       87806,
       87807,
       87808,
-      87813
+      1063830
     ],
     "Width": 1700,
     "GachatypeList": [
@@ -1471,20 +1391,18 @@
     ],
     "EntryWeight": 631,
     "IsActivityEntry": true,
-    "TagBeginTime": "2022-12-15 08:00:00",
-    "TagEndTime": "2023-01-06 11:59:59",
+    "TagBeginTime": "2023-01-12 04:00:00",
+    "TagEndTime": "2023-02-03 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 6372,
-    "DataImpl": {},
     "ActivityID": 40000177,
-    "AvatarID": 206,
+    "avatarID": 206,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815874
+      "Hash": 81815874
     },
     "SiteList": [
       212,
@@ -1503,7 +1421,7 @@
       87836,
       87849,
       87837,
-      87847
+      1063862
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -1517,20 +1435,18 @@
     ],
     "EntryWeight": 641,
     "IsActivityEntry": true,
-    "TagBeginTime": "2023-01-19 08:00:00",
-    "TagEndTime": "2023-02-17 11:59:59",
+    "TagBeginTime": "2023-02-16 04:00:00",
+    "TagEndTime": "2023-03-17 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 6571,
-    "DataImpl": {},
     "ActivityID": 40000178,
-    "AvatarID": 106,
+    "avatarID": 106,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815875
+      "Hash": 81815875
     },
     "SiteList": [
       217,
@@ -1555,7 +1471,6 @@
       4,
       6,
       15,
-      20,
       31,
       32,
       38,
@@ -1564,20 +1479,18 @@
     ],
     "EntryWeight": 642,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-09-19 07:00:00",
-    "TagEndTime": "2024-10-18 11:59:59",
+    "TagBeginTime": "2024-10-17 04:00:00",
+    "TagEndTime": "2024-11-15 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 6774,
-    "DataImpl": {},
     "ActivityID": 40000179,
-    "AvatarID": 3301,
+    "avatarID": 3301,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815876
+      "Hash": 81815876
     },
     "SiteList": [
       223,
@@ -1608,20 +1521,18 @@
     ],
     "EntryWeight": 651,
     "IsActivityEntry": true,
-    "TagBeginTime": "2023-03-09 08:00:00",
-    "TagEndTime": "2023-03-31 11:59:59",
+    "TagBeginTime": "2023-04-06 04:00:00",
+    "TagEndTime": "2023-04-28 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 6965,
-    "DataImpl": {},
     "ActivityID": 40000180,
-    "AvatarID": 3501,
+    "avatarID": 3501,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815898
+      "Hash": 81815898
     },
     "SiteList": [
       228,
@@ -1638,7 +1549,7 @@
       87912,
       87913,
       87914,
-      87919
+      1063932
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -1651,20 +1562,18 @@
     ],
     "EntryWeight": 660,
     "IsActivityEntry": true,
-    "TagBeginTime": "2023-04-20 08:00:00",
-    "TagEndTime": "2023-05-19 11:59:59",
+    "TagBeginTime": "2023-05-18 04:00:00",
+    "TagEndTime": "2023-06-16 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 7152,
-    "DataImpl": {},
     "ActivityID": 40000181,
-    "AvatarID": 3401,
+    "avatarID": 3401,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815899
+      "Hash": 81815899
     },
     "SiteList": [
       232,
@@ -1681,7 +1590,7 @@
       87901,
       87902,
       87903,
-      87908
+      1063931
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -1694,20 +1603,18 @@
     ],
     "EntryWeight": 661,
     "IsActivityEntry": true,
-    "TagBeginTime": "2023-04-20 08:00:00",
-    "TagEndTime": "2023-05-19 11:59:59",
+    "TagBeginTime": "2023-05-18 04:00:00",
+    "TagEndTime": "2023-06-16 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 7339,
-    "DataImpl": {},
     "ActivityID": 40000182,
-    "AvatarID": 3601,
+    "avatarID": 3601,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815900
+      "Hash": 81815900
     },
     "SiteList": [
       236,
@@ -1723,8 +1630,7 @@
       87932,
       87933,
       87934,
-      87935,
-      87940
+      87935
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -1737,27 +1643,29 @@
     ],
     "EntryWeight": 671,
     "IsActivityEntry": true,
-    "TagBeginTime": "2023-06-01 08:00:00",
-    "TagEndTime": "2023-06-23 11:59:59",
+    "TagBeginTime": "2023-06-29 04:00:00",
+    "TagEndTime": "2023-07-21 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 7526,
-    "DataImpl": {},
     "ActivityID": 40000183,
-    "AvatarID": 714,
+    "avatarID": 714,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815901
+      "Hash": 81815901
     },
     "SiteList": [
       240,
       241,
       242,
       243,
-      244
+      244,
+      349,
+      350,
+      351,
+      352
     ],
     "AvatarImgOffset": [
       -120.0,
@@ -1768,9 +1676,11 @@
       87949,
       87950,
       87951,
-      87956
+      87956,
+      692803,
+      692804
     ],
-    "Width": 1370,
+    "Width": 2360,
     "GachatypeList": [
       5,
       18,
@@ -1784,17 +1694,15 @@
     "TagBeginTime": "2023-07-06 08:00:00",
     "TagEndTime": "2023-08-04 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 7717,
-    "DataImpl": {},
     "ActivityID": 40000184,
-    "AvatarID": 3701,
+    "avatarID": 3701,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815902
+      "Hash": 81815902
     },
     "SiteList": [
       245,
@@ -1824,20 +1732,18 @@
     ],
     "EntryWeight": 691,
     "IsActivityEntry": true,
-    "TagBeginTime": "2023-08-17 08:00:00",
-    "TagEndTime": "2023-09-08 11:59:59",
+    "TagBeginTime": "2023-09-14 04:00:00",
+    "TagEndTime": "2023-10-06 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 7904,
-    "DataImpl": {},
     "ActivityID": 40000185,
-    "AvatarID": 507,
+    "avatarID": 507,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815903
+      "Hash": 81815903
     },
     "SiteList": [
       249,
@@ -1868,20 +1774,18 @@
     ],
     "EntryWeight": 701,
     "IsActivityEntry": true,
-    "TagBeginTime": "2023-09-28 07:00:00",
-    "TagEndTime": "2023-10-27 11:59:59",
+    "TagBeginTime": "2023-10-26 04:00:00",
+    "TagEndTime": "2023-11-24 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 8095,
-    "DataImpl": {},
     "ActivityID": 40000186,
-    "AvatarID": 2902,
+    "avatarID": 2902,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815904
+      "Hash": 81815904
     },
     "SiteList": [
       256,
@@ -1913,20 +1817,18 @@
     ],
     "EntryWeight": 711,
     "IsActivityEntry": true,
-    "TagBeginTime": "2023-11-09 07:00:00",
-    "TagEndTime": "2023-12-01 11:59:59",
+    "TagBeginTime": "2023-12-07 04:00:00",
+    "TagEndTime": "2023-12-29 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 8290,
-    "DataImpl": {},
     "ActivityID": 40000187,
-    "AvatarID": 613,
+    "avatarID": 613,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815905
+      "Hash": 81815905
     },
     "SiteList": [
       262,
@@ -1943,7 +1845,7 @@
       681857,
       681858,
       681859,
-      681864
+      1064095
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -1956,20 +1858,18 @@
     ],
     "EntryWeight": 721,
     "IsActivityEntry": true,
-    "TagBeginTime": "2023-12-21 07:00:00",
-    "TagEndTime": "2024-01-19 11:59:59",
+    "TagBeginTime": "2024-01-18 04:00:00",
+    "TagEndTime": "2024-02-16 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 8477,
-    "DataImpl": {},
     "ActivityID": 40000188,
-    "AvatarID": 20201,
+    "avatarID": 20201,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815906
+      "Hash": 81815906
     },
     "SiteList": [
       266,
@@ -1988,7 +1888,7 @@
       682660,
       682667,
       682668,
-      682681
+      1064120
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -2001,20 +1901,18 @@
     ],
     "EntryWeight": 732,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-02-01 07:00:00",
-    "TagEndTime": "2024-03-01 11:59:59",
+    "TagBeginTime": "2024-02-29 04:00:00",
+    "TagEndTime": "2024-03-29 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 8672,
-    "DataImpl": {},
     "ActivityID": 40000189,
-    "AvatarID": 20301,
+    "avatarID": 20301,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815907
+      "Hash": 81815907
     },
     "SiteList": [
       271,
@@ -2033,7 +1931,7 @@
       682666,
       682667,
       682668,
-      682683
+      1064122
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -2046,20 +1944,18 @@
     ],
     "EntryWeight": 731,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-02-01 07:00:00",
-    "TagEndTime": "2024-03-01 11:59:59",
+    "TagBeginTime": "2024-02-29 04:00:00",
+    "TagEndTime": "2024-03-29 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 8867,
-    "DataImpl": {},
     "ActivityID": 40000190,
-    "AvatarID": 20401,
+    "avatarID": 20401,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815929
+      "Hash": 81815929
     },
     "SiteList": [
       274,
@@ -2078,7 +1974,7 @@
       682663,
       682667,
       682668,
-      682682
+      1064121
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -2091,20 +1987,18 @@
     ],
     "EntryWeight": 730,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-02-01 07:00:00",
-    "TagEndTime": "2024-03-01 11:59:59",
+    "TagBeginTime": "2024-02-29 04:00:00",
+    "TagEndTime": "2024-03-29 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 9062,
-    "DataImpl": {},
     "ActivityID": 40000191,
-    "AvatarID": 20501,
+    "avatarID": 20501,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815930
+      "Hash": 81815930
     },
     "SiteList": [
       277,
@@ -2123,7 +2017,7 @@
       683511,
       683512,
       683513,
-      683518
+      1064185
     ],
     "Width": 1370,
     "GachatypeList": [
@@ -2138,20 +2032,18 @@
     ],
     "EntryWeight": 741,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-03-28 07:00:00",
-    "TagEndTime": "2024-04-26 11:59:59",
+    "TagBeginTime": "2024-04-25 04:00:00",
+    "TagEndTime": "2024-05-24 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 9265,
-    "DataImpl": {},
     "ActivityID": 40000192,
-    "AvatarID": 20601,
+    "avatarID": 20601,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815931
+      "Hash": 81815931
     },
     "SiteList": [
       284,
@@ -2170,14 +2062,13 @@
       685237,
       685238,
       685239,
-      685244
+      1064196
     ],
     "Width": 1370,
     "GachatypeList": [
       4,
       6,
       15,
-      20,
       31,
       32,
       38,
@@ -2186,20 +2077,18 @@
     ],
     "EntryWeight": 751,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-05-09 07:00:00",
-    "TagEndTime": "2024-06-07 11:59:59",
+    "TagBeginTime": "2024-06-06 04:00:00",
+    "TagEndTime": "2024-07-05 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 9472,
-    "DataImpl": {},
     "ActivityID": 40000193,
-    "AvatarID": 20701,
+    "avatarID": 20701,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815932
+      "Hash": 81815932
     },
     "SiteList": [
       290,
@@ -2217,14 +2106,13 @@
       685985,
       685986,
       685987,
-      685992
+      1064218
     ],
     "Width": 1370,
     "GachatypeList": [
       4,
       6,
       15,
-      20,
       31,
       32,
       38,
@@ -2233,20 +2121,18 @@
     ],
     "EntryWeight": 761,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-06-27 07:00:00",
-    "TagEndTime": "2024-07-26 11:59:59",
+    "TagBeginTime": "2024-07-25 04:00:00",
+    "TagEndTime": "2024-08-23 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 9675,
-    "DataImpl": {},
     "ActivityID": 40000194,
-    "AvatarID": 512,
+    "avatarID": 512,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815933
+      "Hash": 81815933
     },
     "SiteList": [
       296,
@@ -2264,14 +2150,13 @@
       686958,
       686959,
       686960,
-      686965
+      1064226
     ],
     "Width": 1370,
     "GachatypeList": [
       4,
       6,
       15,
-      20,
       31,
       32,
       38,
@@ -2280,20 +2165,18 @@
     ],
     "EntryWeight": 771,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-08-08 07:00:00",
-    "TagEndTime": "2024-09-06 11:59:59",
+    "TagBeginTime": "2024-09-05 04:00:00",
+    "TagEndTime": "2024-10-04 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 9878,
-    "DataImpl": {},
     "ActivityID": 40000195,
-    "AvatarID": 20801,
+    "avatarID": 20801,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815934
+      "Hash": 81815934
     },
     "SiteList": [
       302,
@@ -2311,14 +2194,13 @@
       687513,
       687514,
       687515,
-      687520
+      1064248
     ],
     "Width": 1370,
     "GachatypeList": [
       4,
       6,
       15,
-      20,
       31,
       32,
       38,
@@ -2327,20 +2209,18 @@
     ],
     "EntryWeight": 781,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-09-19 07:00:00",
-    "TagEndTime": "2024-10-18 11:59:59",
+    "TagBeginTime": "2024-10-17 04:00:00",
+    "TagEndTime": "2024-11-15 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 10081,
-    "DataImpl": {},
     "ActivityID": 40000196,
-    "AvatarID": 20901,
+    "avatarID": 20901,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815935
+      "Hash": 81815935
     },
     "SiteList": [
       310,
@@ -2358,14 +2238,13 @@
       687755,
       687756,
       687757,
-      687762
+      1064276
     ],
     "Width": 1370,
     "GachatypeList": [
       4,
       6,
       15,
-      20,
       31,
       32,
       38,
@@ -2374,20 +2253,18 @@
     ],
     "EntryWeight": 791,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-10-31 07:00:00",
-    "TagEndTime": "2024-11-29 11:59:59",
+    "TagBeginTime": "2024-11-28 04:00:00",
+    "TagEndTime": "2024-12-27 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 10284,
-    "DataImpl": {},
     "ActivityID": 40000197,
-    "AvatarID": 806,
+    "avatarID": 806,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815936
+      "Hash": 81815936
     },
     "SiteList": [
       316,
@@ -2405,14 +2282,13 @@
       688303,
       688304,
       688305,
-      688310
+      1064286
     ],
     "Width": 1370,
     "GachatypeList": [
       4,
       6,
       15,
-      20,
       31,
       32,
       38,
@@ -2421,20 +2297,18 @@
     ],
     "EntryWeight": 801,
     "IsActivityEntry": true,
-    "TagBeginTime": "2024-12-12 07:00:00",
-    "TagEndTime": "2025-01-10 11:59:59",
+    "TagBeginTime": "2025-01-09 04:00:00",
+    "TagEndTime": "2025-02-07 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 10487,
-    "DataImpl": {},
     "ActivityID": 40000198,
-    "AvatarID": 115,
+    "avatarID": 115,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815937
+      "Hash": 81815937
     },
     "SiteList": [
       322,
@@ -2452,14 +2326,13 @@
       689075,
       689076,
       689077,
-      689082
+      1064306
     ],
     "Width": 1370,
     "GachatypeList": [
       4,
       6,
       15,
-      20,
       31,
       32,
       38,
@@ -2468,20 +2341,18 @@
     ],
     "EntryWeight": 811,
     "IsActivityEntry": true,
-    "TagBeginTime": "2025-01-23 07:00:00",
-    "TagEndTime": "2025-02-21 11:59:59",
+    "TagBeginTime": "2025-02-20 04:00:00",
+    "TagEndTime": "2025-03-21 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 10690,
-    "DataImpl": {},
     "ActivityID": 40000199,
-    "AvatarID": 3102,
+    "avatarID": 3102,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81815938
+      "Hash": 81815938
     },
     "SiteList": [
       330,
@@ -2498,14 +2369,13 @@
       689853,
       689854,
       689855,
-      689860
+      1064316
     ],
     "Width": 1370,
     "GachatypeList": [
       4,
       6,
       15,
-      20,
       31,
       32,
       38,
@@ -2514,20 +2384,18 @@
     ],
     "EntryWeight": 812,
     "IsActivityEntry": true,
-    "TagBeginTime": "2025-03-27 07:00:00",
-    "TagEndTime": "2025-04-24 11:59:59",
+    "TagBeginTime": "2025-04-24 04:00:00",
+    "TagEndTime": "2025-05-22 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
     }
   },
   {
-    "_readOffset": 10889,
-    "DataImpl": {},
     "ActivityID": 40000201,
-    "AvatarID": 20402,
+    "avatarID": 20402,
     "ArtifactPath": "",
     "TitleName": {
-      "hash": 81816612
+      "Hash": 81816612
     },
     "SiteList": [
       334,
@@ -2552,7 +2420,6 @@
       4,
       6,
       15,
-      20,
       31,
       32,
       38,
@@ -2561,10 +2428,99 @@
     ],
     "EntryWeight": 830,
     "IsActivityEntry": true,
+    "TagBeginTime": "2025-06-26 04:00:00",
+    "TagEndTime": "2025-08-08 11:59:59",
+    "InfoTextMap": {
+      "Hash": 0
+    }
+  },
+  {
+    "ActivityID": 40000202,
+    "avatarID": 20302,
+    "ArtifactPath": "",
+    "TitleName": {
+      "Hash": 81816613
+    },
+    "SiteList": [
+      339,
+      340,
+      341,
+      342,
+      343
+    ],
+    "AvatarImgOffset": [
+      -44.0,
+      -19.0
+    ],
+    "MissionList": [
+      692424,
+      692425,
+      692426,
+      692427,
+      692432
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 840,
+    "IsActivityEntry": true,
     "TagBeginTime": "2025-05-29 07:00:00",
     "TagEndTime": "2025-07-11 11:59:59",
     "InfoTextMap": {
-      "hash": 0
+      "Hash": 0
+    }
+  },
+  {
+    "ActivityID": 40000203,
+    "avatarID": 21001,
+    "ArtifactPath": "",
+    "TitleName": {
+      "Hash": 81816614
+    },
+    "SiteList": [
+      344,
+      345,
+      346,
+      347,
+      348
+    ],
+    "AvatarImgOffset": [
+      -12.0,
+      -19.0
+    ],
+    "MissionList": [
+      692787,
+      692788,
+      692789,
+      692790,
+      692791,
+      692796
+    ],
+    "Width": 1370,
+    "GachatypeList": [
+      4,
+      6,
+      15,
+      31,
+      32,
+      38,
+      44,
+      45
+    ],
+    "EntryWeight": 850,
+    "IsActivityEntry": true,
+    "TagBeginTime": "2025-10-23 04:00:00",
+    "TagEndTime": "2025-12-05 11:59:59",
+    "InfoTextMap": {
+      "Hash": 0
     }
   }
 ]
